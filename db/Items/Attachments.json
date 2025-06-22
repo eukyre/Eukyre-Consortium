@@ -81,7 +81,7 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_reciever"
 		],
@@ -234,7 +234,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9473,
 		"handbookPriceRoubles": 6483,
 		"addtoStaticLootContainers": true,
@@ -365,7 +365,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9473,
 		"handbookPriceRoubles": 6483,
 		"addtoStaticLootContainers": true,

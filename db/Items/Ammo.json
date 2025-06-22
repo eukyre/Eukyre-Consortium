@@ -298,7 +298,7 @@
 			"en": {
 				"name": ".338 Lapua Magnum RIP",
 				"shortName": "RIP",
-				"description": ".338 Lapua Magnum RIP (Radically Invasive Profile) is designed for extreme soft tissue trauma as it fragments on impact to maximize flesh damage. While devastating against unarmored targets, its poor penetration makes it ineffective against armored threats."
+				"description": ".338 Lapua Magnum RIP (Radically Invasive Projectile) is designed for extreme soft tissue trauma as it fragments on impact to maximize flesh damage. While devastating against unarmored targets, its poor penetration makes it ineffective against armored threats."
 			}
 		},
 		"clearClonedProps": false,
