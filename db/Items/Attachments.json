@@ -387,5 +387,70 @@
 				"Probability": 1
 			}
 		]
+	},
+	"6857c3a0b4fec9f18e5e5e36": {
+		"itemTplToClone": "6477772ea8a38bb2050ed4db",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_all_sig_romeo7.bundle",
+				"rcid": ""
+			},
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "SIG Sauer ROMEO7 1x30 reflex sight",
+				"shortName": "ROMEO7",
+				"description": "A rugged, full-sized 1x red dot optic designed for extended use in harsh conditions. With a crisp 2 MOA dot and up to 50,000 hours of battery life, the ROMEO7 excels in mid-range engagements. Built in a sealed, fog-proof housing with adjustable brightness settings, it’s a dependable choice for assault rifles and designated marksman setup."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 19519,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 19319,
+		"handbookPriceRoubles": 19519,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
