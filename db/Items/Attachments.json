@@ -1,0 +1,391 @@
+{ 
+    "68509710f0df4dbc5b0ff7fe": {
+		"itemTplToClone": "615d8dbd290d254f5e6b2ed6",
+		"parentId": "RECEIVER",
+		"handbookParentId": "MOD_RECEIVER",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Receivers/reciever_glock_22_mos_slide.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_sight_rear",
+					"_id": "6850971720b11c54d899c04a",
+					"_parent": "68509710f0df4dbc5b0ff7fe",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a7d9122159bd4001438dbf4",
+									"5a6f5d528dc32e00094b97d9",
+									"5a71e0fb8dc32e00094b97f2",
+									"630765cb962d0247b029dc45"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "685097184b5e263700b2de1d",
+					"_parent": "68509710f0df4dbc5b0ff7fe",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a7d90eb159bd400165484f1",
+									"5a6f58f68dc32e000a311390",
+									"5a71e0048dc32e000c52ecc8",
+									"630765777d50ff5e8a1ea718"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "6850971aa0108c5754924dc8",
+					"_parent": "68509710f0df4dbc5b0ff7fe",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"615d8da4d3a39d50044c10e8",
+									"685097dbb9aa83c9e35c5027"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Glock 22 MOS pistol slide",
+				"shortName": "G MOS",
+				"description": "The MOS (Modular Optic System) slide designed for Glock .40S&W pistols. Manufactured by Glock."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_reciever"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+			"5a7ae0c351dfba0017554310"
+		],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 4700,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4929,
+		"handbookPriceRoubles": 4700,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"685760329044ae9bac9012c3": {
+		"itemTplToClone": "59db7eed86f77461f8380365",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_cog_blk.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "68576039a242fc7bc247300b",
+					"_parent": "685760329044ae9bac9012c3",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c05293e0db83400232fff80",
+									"5c052a900db834001a66acbd",
+									"59db7e1086f77448be30ddf3",
+									"e9341af94ccbdf828aac2ed4",
+									"1e3c5a570c1c628376877232",
+									"530c92166b34a8f2c2c96732",
+									"5518037d5b8964f16bd7fa0b",
+									"765efc3218305b91ce279f7c",
+									"86509ab9a719ec35d68335ec",
+									"427426766389fca83151e49a",
+									"8e91893cd97979e31dc69ff4",
+									"ee7de8251099e046b66a27a8",
+									"98faf3e813c71c69fdc058a6",
+									"5114ba0ec07b64d2027476c3",
+									"028cf9570b14453d61753a76",
+									"0433f01e906bc793e94272dd",
+									"f4792fb5785c3cbfcd5e8e42",
+									"6d875b085e791a94448f6373",
+									"ed3ce625f8d5660361ffaf30",
+									"96cff8d59fab622a65e41136",
+									"a9567853f9fc33f38c4180ac",
+									"51054b0249f56482df575434",
+									"a1552040390284f58de50a7a"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope_000",
+					"_id": "68576037bce3d11776316ff3",
+					"_parent": "685760329044ae9bac9012c3",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a32aa8bc4a2826c6e06d737",
+									"685097dbb9aa83c9e35c5027",
+									"5a1539825682a7fa06dc4243",
+									"2f5f355a48a470aeb12452b1",
+									"684ca7ab1a059f229b96e1a3",
+									"684ca7a7dd567362e6a2d719"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST COG sight mount",
+				"shortName": "COG",
+				"description": "The FAST COG Series Mount was developed to universally accept the Trijicon Combat Optical Gunsight double and triple screw interfaces.  It covers both ACOG and VCOG series scopes, placing the optical centerline at 2.05″ above the rail. Manufactured by Unity Tactical."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+			"5a33bab6c4a28200741e22f8"
+		],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6483,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9473,
+		"handbookPriceRoubles": 6483,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6857624d565daea78886d0c2": {
+		"itemTplToClone": "59db7eed86f77461f8380365",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_cog_fde.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "68576253c0aa1088fdea39b4",
+					"_parent": "6857624d565daea78886d0c2",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c05293e0db83400232fff80",
+									"5c052a900db834001a66acbd",
+									"59db7e1086f77448be30ddf3",
+									"e9341af94ccbdf828aac2ed4",
+									"1e3c5a570c1c628376877232",
+									"530c92166b34a8f2c2c96732",
+									"5518037d5b8964f16bd7fa0b",
+									"765efc3218305b91ce279f7c",
+									"86509ab9a719ec35d68335ec",
+									"427426766389fca83151e49a",
+									"8e91893cd97979e31dc69ff4",
+									"ee7de8251099e046b66a27a8",
+									"98faf3e813c71c69fdc058a6",
+									"5114ba0ec07b64d2027476c3",
+									"028cf9570b14453d61753a76",
+									"0433f01e906bc793e94272dd",
+									"f4792fb5785c3cbfcd5e8e42",
+									"6d875b085e791a94448f6373",
+									"ed3ce625f8d5660361ffaf30",
+									"96cff8d59fab622a65e41136",
+									"a9567853f9fc33f38c4180ac",
+									"51054b0249f56482df575434",
+									"a1552040390284f58de50a7a"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope_000",
+					"_id": "68576252810a4a0c6bc47be2",
+					"_parent": "6857624d565daea78886d0c2",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a32aa8bc4a2826c6e06d737",
+									"685097dbb9aa83c9e35c5027",
+									"5a1539825682a7fa06dc4243",
+									"2f5f355a48a470aeb12452b1",
+									"684ca7ab1a059f229b96e1a3",
+									"684ca7a7dd567362e6a2d719"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST COG sight mount (FDE)",
+				"shortName": "COG",
+				"description": "The FAST COG Series Mount was developed to universally accept the Trijicon Combat Optical Gunsight double and triple screw interfaces.  It covers both ACOG and VCOG series scopes, placing the optical centerline at 2.05″ above the rail. Manufactured by Unity Tactical. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+			"5a33bab6c4a28200741e22f8"
+		],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6483,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9473,
+		"handbookPriceRoubles": 6483,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	}
+}
