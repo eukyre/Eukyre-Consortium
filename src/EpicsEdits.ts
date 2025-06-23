@@ -10,7 +10,7 @@ export class epicItemClass {
     }
 
     public postDBLoad(): void {
- 
+
         this.epicEdits();
     }
 
@@ -20,13 +20,19 @@ export class epicItemClass {
         for (let file in dbItems) {
             let fileData = dbItems[file];
             if (fileData._id === "673cbdfad0453ba50c0f76d6") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9", 
+                    "6859749fb61f50b920ae5a2a"
+                );
             } //Pushing .338LM RIP to Sako M10 Mags
             if (fileData._id === "628120fd5631d45211793c9f") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9", 
+                    "6859749fb61f50b920ae5a2a"
+                );
             } //Pushing .338LM RIP to AXMC Mags
             if (fileData._id === "5fc23426900b1d5091531e15") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9", 
+                    "6859749fb61f50b920ae5a2a"
+                );
             } //Pushing .338LM RIP to MK-18 Mags
             if (fileData._id === "673cab3e03c6a20581028bc1") {
                 fileData._props.Chambers = [
@@ -42,7 +48,8 @@ export class epicItemClass {
                                         "5fc275cf85fd526b824a571a",
                                         "5fc382c1016cce60e8341b20",
                                         "5fc382b6d6fa9c00c571bbc3",
-                                        "68561ab84857b945e0ce85e9"
+                                        "68561ab84857b945e0ce85e9",
+                                        "6859749fb61f50b920ae5a2a"
                                     ]
                                 }
                             ]
@@ -67,7 +74,8 @@ export class epicItemClass {
                                         "5fc275cf85fd526b824a571a",
                                         "5fc382c1016cce60e8341b20",
                                         "5fc382b6d6fa9c00c571bbc3",
-                                        "68561ab84857b945e0ce85e9"
+                                        "68561ab84857b945e0ce85e9",
+                                        "6859749fb61f50b920ae5a2a"
                                     ]
                                 }
                             ]
@@ -92,7 +100,8 @@ export class epicItemClass {
                                         "5fc275cf85fd526b824a571a",
                                         "5fc382c1016cce60e8341b20",
                                         "5fc382b6d6fa9c00c571bbc3",
-                                        "68561ab84857b945e0ce85e9"
+                                        "68561ab84857b945e0ce85e9",
+                                        "6859749fb61f50b920ae5a2a"
                                     ]
                                 }
                             ]

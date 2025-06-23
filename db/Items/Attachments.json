@@ -1146,7 +1146,7 @@
 		"barterScheme": [
 			{
 				"count": 297,
-				"_tpl": "ROUBLES"
+				"_tpl": "DOLLARS"
 			}
 		],
 		"loyallevelitems": 2,
@@ -1171,5 +1171,413 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68599b6ad4d99d0c051b5964": {
+		"itemTplToClone": "58d39d3d86f77445bb794ae7",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_fast_micro.bundle",
+				"rcid": ""
+			},
+			"Conflictingitems": [
+				"5ae30bad5acfc400185c2dc4"
+			],
+			"Ergonomics": 2,
+			"Width": 1,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "68599b6d0257d5330971fdcf",
+					"_parent": "68599b6ad4d99d0c051b5964",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"61657230d92c473c770213d7",
+									"58d399e486f77442e0016fe7",
+									"5b3116595acfc40019476364"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"SightingRange": 100,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"CustomAimPlane": "",
+			"sightModType": "iron",
+			"ScopesCount": 1,
+			"AimSensitivity": [
+				[
+					0.7
+				]
+			],
+			"ModesCount": [
+				1
+			],
+			"Zooms": [
+				[
+					1
+				]
+			],
+			"CalibrationDistances": [
+				[
+					100
+				]
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST Micro sight mount (Bronze)",
+				"shortName": "FAST Micro",
+				"description": "The FAST™ Micro mount features built-in standard height back up iron sights that keep weapons uncluttered, without reducing capability. Designed for Aimpoint Micro (H1, H2, T1, T2, CompM5) and other optics with Aimpoint Micro footprint, such as those found on many Sig Sauer, Holosun, and Vortex Optics platforms. "
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 16250,
+		"handbookPriceRoubles": 2420,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 7240,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M870",
+				"Templates": [
+					"SerbuShotgun"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"68599c5272359bd6b568656c": {
+		"itemTplToClone": "58d39d3d86f77445bb794ae7",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_fast_micro_green.bundle",
+				"rcid": ""
+			},
+			"Conflictingitems": [
+				"5ae30bad5acfc400185c2dc4"
+			],
+			"Ergonomics": 2,
+			"Width": 1,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "68599c54373375dd6c8bda3a",
+					"_parent": "68599c5272359bd6b568656c",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"61657230d92c473c770213d7",
+									"58d399e486f77442e0016fe7",
+									"5b3116595acfc40019476364"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"SightingRange": 100,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"CustomAimPlane": "",
+			"sightModType": "iron",
+			"ScopesCount": 1,
+			"AimSensitivity": [
+				[
+					0.7
+				]
+			],
+			"ModesCount": [
+				1
+			],
+			"Zooms": [
+				[
+					1
+				]
+			],
+			"CalibrationDistances": [
+				[
+					100
+				]
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST Micro sight mount (Green)",
+				"shortName": "FAST Micro",
+				"description": "The FAST™ Micro mount features built-in standard height back up iron sights that keep weapons uncluttered, without reducing capability. Designed for Aimpoint Micro (H1, H2, T1, T2, CompM5) and other optics with Aimpoint Micro footprint, such as those found on many Sig Sauer, Holosun, and Vortex Optics platforms. "
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 16250,
+		"handbookPriceRoubles": 2420,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 7240,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M870",
+				"Templates": [
+					"SerbuShotgun"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"68599c64f0a918bcd731198f": {
+		"itemTplToClone": "58d39d3d86f77445bb794ae7",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_fast_micro_white.bundle",
+				"rcid": ""
+			},
+			"Conflictingitems": [
+				"5ae30bad5acfc400185c2dc4"
+			],
+			"Ergonomics": 2,
+			"Width": 1,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "68599c67c97a4be6abfd565d",
+					"_parent": "68599c64f0a918bcd731198f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"61657230d92c473c770213d7",
+									"58d399e486f77442e0016fe7",
+									"5b3116595acfc40019476364"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"SightingRange": 100,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"UniqueAnimationModID": 0,
+			"CustomAimPlane": "",
+			"sightModType": "iron",
+			"ScopesCount": 1,
+			"AimSensitivity": [
+				[
+					0.7
+				]
+			],
+			"ModesCount": [
+				1
+			],
+			"Zooms": [
+				[
+					1
+				]
+			],
+			"CalibrationDistances": [
+				[
+					100
+				]
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST Micro sight mount (White)",
+				"shortName": "FAST Micro",
+				"description": "The FAST™ Micro mount features built-in standard height back up iron sights that keep weapons uncluttered, without reducing capability. Designed for Aimpoint Micro (H1, H2, T1, T2, CompM5) and other optics with Aimpoint Micro footprint, such as those found on many Sig Sauer, Holosun, and Vortex Optics platforms. "
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 16250,
+		"handbookPriceRoubles": 2420,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 7240,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M870",
+				"Templates": [
+					"SerbuShotgun"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
 	}
 }
