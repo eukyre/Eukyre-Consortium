@@ -397,7 +397,26 @@
 				"path": "Attachments/Optics/scope_all_sig_romeo7.bundle",
 				"rcid": ""
 			},
-			"Slots": []
+			"Slots": [
+				{
+					"_name": "mod_mount",
+					"_id": "6859137ffd32036daf80b0db",
+					"_parent": "6857c3a0b4fec9f18e5e5e36",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6859137715ae945161f51b1e"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
 		},
 		"locales": {
 			"en": {
@@ -433,6 +452,706 @@
 		"loyallevelitems": 2,
 		"fleaPriceRoubles": 19319,
 		"handbookPriceRoubles": 19519,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"685912a257837068f1460c7a": {
+		"itemTplToClone": "6477772ea8a38bb2050ed4db",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_all_sig_romeo7_fde.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_mount",
+					"_id": "68591388ea6b1a7c61455979",
+					"_parent": "685912a257837068f1460c7a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6859137715ae945161f51b1e"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "SIG Sauer ROMEO7 1x30 reflex sight (FDE)",
+				"shortName": "ROMEO7",
+				"description": "A rugged, full-sized 1x red dot optic designed for extended use in harsh conditions. With a crisp 2 MOA dot and up to 50,000 hours of battery life, the ROMEO7 excels in mid-range engagements. Built in a sealed, fog-proof housing with adjustable brightness settings, it’s a dependable choice for assault rifles and designated marksman setup. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 19519,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 19319,
+		"handbookPriceRoubles": 19519,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6859137715ae945161f51b1e": {
+		"itemTplToClone": "5d123a3cd7ad1a004e476058",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_mount_sig_romeo7_caps.bundle",
+				"rcid": ""
+			},
+			"Slots": [],
+			"Ergonomics": 1,
+			"Weight": 0.021
+		},
+		"locales": {
+			"en": {
+				"name": "SIG Sauer ROMEO7 protective lens caps",
+				"shortName": "ROMEO7 cap.",
+				"description": "A set of protective rubber caps designed to protect the fragile lenses of the SIG Sauer ROMEO7 optic."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1240,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 19319,
+		"handbookPriceRoubles": 19519,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6858233fe23b980eb4f1514f": {
+		"itemTplToClone": "57ffa9f4245977728561e844",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_zenit_b11_b19_combo.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 6,
+			"CoolFactor": 0.985,
+			"Slots": [
+				{
+					"_name": "mod_foregrip",
+					"_id": "68582352937e928101a4aa05",
+					"_parent": "6858233fe23b980eb4f1514f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c7fc87d2e221644f31c0298",
+									"5cda9bcfd7f00c0c0b53e900",
+									"59f8a37386f7747af3328f06",
+									"619386379fb0c665d5490dbe",
+									"5c87ca002e221600114cb150",
+									"588226d124597767ad33f787",
+									"588226dd24597767ad33f789",
+									"588226e62459776e3e094af7",
+									"588226ef24597767af46e39c",
+									"59fc48e086f77463b1118392",
+									"5fce0cf655375d18a253eff0",
+									"5cf4fb76d7f00c065703d3ac",
+									"5b057b4f5acfc4771e1bd3e9",
+									"5c791e872e2216001219c40a",
+									"558032614bdc2de7118b4585",
+									"58c157be86f77403c74b2bb6",
+									"58c157c886f774032749fb06",
+									"5f6340d3ca442212f4047eb2",
+									"591af28e86f77414a27a9e1d",
+									"5c1cd46f2e22164bef5cfedb",
+									"5c1bc4812e22164bef5cfde7",
+									"5c1bc5612e221602b5429350",
+									"5c1bc5af2e221602b412949b",
+									"5c1bc5fb2e221602b1779b32",
+									"5c1bc7432e221602b412949d",
+									"5c1bc7752e221602b1779b34",
+									"64806bdd26c80811d408d37a",
+									"64807a29e5ffe165600abc97",
+									"648067db042be0705c0b3009",
+									"65169d5b30425317755f8e25",
+									"655df24fdf80b12750626d0a",
+									"655dccfdbdcc6b5df71382b6",
+									"661e52e29c8b4dadef008577",
+									"661e53149c8b4dadef008579",
+									"661e52415be02310ed07a07a",
+									"661e52b5b099f32c28003586"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical_000",
+					"_id": "6858239e26ac48ff0a28f8ba",
+					"_parent": "6858233fe23b980eb4f1514f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5b3a337e5acfc4704b4a19a0",
+									"5c5952732e2216398b5abda2",
+									"57d17e212459775a1179a0f5",
+									"57ffaea724597779f52b3a4d",
+									"6267c6396b642f77f56f5c1c",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065",
+									"646f6322f43d0c5d62063715"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical_001",
+					"_id": "6850971aa0108c5754924dc8",
+					"_parent": "6858233fe23b980eb4f1514f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5b3a337e5acfc4704b4a19a0",
+									"5c5952732e2216398b5abda2",
+									"57d17e212459775a1179a0f5",
+									"57ffaea724597779f52b3a4d",
+									"6267c6396b642f77f56f5c1c",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065",
+									"646f6322f43d0c5d62063715"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical_002",
+					"_id": "685823fddd56bcd80a21a67e",
+					"_parent": "6858233fe23b980eb4f1514f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5c5952732e2216398b5abda2",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AK Zenit B-11 handguard with B-19 upper mount",
+				"shortName": "B11+B19",
+				"description": "The integrally machined B-11 foregrip is manufactured from D16T aluminum alloy with black coating and can be installed instead of the standard-issue handguard on the AKS-74U-series of rifle. B-19 rail mount is basically a sight mount hovering over the gas tube. Also integrally machined from D16T aluminum alloy with black coating, it can be installed on B-11 foregrips."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+			"5a7ae0c351dfba0017554310"
+		],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 41747,
+		"handbookPriceRoubles": 14592,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6858f8db6ed3644b6c11c9a0": {
+		"itemTplToClone": "5a32aa8bc4a2826c6e06d737",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_base_holosun_he509t_rd.bundle",
+				"rcid": ""
+			},
+			"Slots": [],
+			"CalibrationDistances": [
+				[
+					50,
+					100,
+					150,
+					200
+				]
+			],
+			"Zooms": [
+				[
+					1,
+					1,
+					1
+				]
+			],
+			"ModesCount": [
+				3
+			],
+			"sightModType": "reflex"
+		},
+		"locales": {
+			"en": {
+				"name": "Holosun HE509T X2 reflex sight",
+				"shortName": "HE509T",
+				"description": "A compact, fully enclosed reflex sight favored for its durability and adaptability. Built from titanium with a sealed housing, the HE509T offers excellent resistance to the elements. Features Holosun’s Multi-Reticle System, allowing operators to switch between a 2 MOA dot, 32 MOA ring, or both, making it ideal for adapting to changing engagement ranges."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 26482,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 25310,
+		"handbookPriceRoubles": 26482,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"685904bd76b06df2198b2f1b": {
+		"itemTplToClone": "5a32aa8bc4a2826c6e06d737",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_base_holosun_he506tx2_gr.bundle",
+				"rcid": ""
+			},
+			"Slots": [],
+			"CalibrationDistances": [
+				[
+					50,
+					100,
+					150,
+					200
+				]
+			],
+			"Zooms": [
+				[
+					1,
+					1,
+					1
+				]
+			],
+			"ModesCount": [
+				3
+			],
+			"sightModType": "reflex"
+		},
+		"locales": {
+			"en": {
+				"name": "Holosun HE509T X2 reflex sight (FDE)",
+				"shortName": "HE509T",
+				"description": "A compact, fully enclosed reflex sight favored for its durability and adaptability. Built from titanium with a sealed housing, the HE509T offers excellent resistance to the elements. Features Holosun’s Multi-Reticle System, allowing operators to switch between a 2 MOA dot, 32 MOA ring, or both, making it ideal for adapting to changing engagement ranges."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 26482,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 25310,
+		"handbookPriceRoubles": 26482,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6858fa27c104e3493576fd53": {
+		"itemTplToClone": "5a33b2c9c4a282000c5a9511",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_all_holosun_he509t.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "6858fa846611295a3f9c18f5",
+					"_parent": "6858fa27c104e3493576fd53",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6858f8db6ed3644b6c11c9a0",
+									"685904bd76b06df2198b2f1b"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Holosun HE509T low profile mount",
+				"shortName": "HE509T",
+				"description": "A low-profile mount for installation of the Holosun HE509T series reflex sights on Picatinny and Weaver rails."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1852,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 3291,
+		"handbookPriceRoubles": 1852,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6859411da7ac91f2e4088de4": {
+		"itemTplToClone": "558022b54bdc2dac148b458d",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_all_eotech_exps_3_1.bundle",
+				"rcid": ""
+			},
+			"Slots": [],
+			"Zooms": [
+				[
+					1,
+					1
+				]
+			],
+			"ModesCount": [
+				2
+			],
+			"sightModType": "holo"
+		},
+		"locales": {
+			"en": {
+				"name": "EOTech EXPS3-1 holographic sight",
+				"shortName": "EXPS3-1",
+				"description": "The EOTech EXPS3-1 holographic sight. Thanks to design features it can be used with a wide range of weapons, even with non-folding sights. Compatible with night vision devices by means of the NV reticle mode. Its main difference over the EXPS3-0 is that it features a single 1MOA red dot instead of the typical dot-and-ring reticle."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 297,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 37503,
+		"handbookPriceRoubles": 38610,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
