@@ -387,7 +387,7 @@
 			]
 		},
 		"68578ef2a309a2ba960103d9": {
-			"itemTplToClone": "5fb651b52b1b027b1f50bcff",
+			"itemTplToClone": "5fb651dc85f90547f674b6f4",
 			"parentId": "MAGAZINE",
 			"handbookParentId": "MOD_MAGAZINE",
 			"overrideProperties": {
@@ -415,7 +415,9 @@
 						},
 						"_proto": "5748538b2459770af276a261"
 					}
-				]
+				],
+				"Height": 2,
+				"ExtraSizeDown": 1
 			},
 			"locales": {
 				"en": {
