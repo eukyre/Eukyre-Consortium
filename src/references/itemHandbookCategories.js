@@ -41,6 +41,7 @@ exports.ItemHandbookCategoryMap = {
     "MODS_GEAR": "5b5f750686f774093e6cb503",
     "MODS_VITAL": "5b5f75b986f77447ec5d7710",
     "MOD_AUX": "5b5f74cc86f77447ec5d770a",
+    "MOD_REFLEXSIGHT": "5b5f742686f774093e6cb4ff",
     "MOD_BARREL": "5b5f75c686f774094242f19f",
     "MOD_BIPOD": "5b5f71c186f77409407a7ec0",
     "MOD_CHARGE": "5b5f751486f77447ec5d770c",
