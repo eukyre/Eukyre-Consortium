@@ -298,6 +298,11 @@
                                     "64785e7c19d732620e045e15",
                                     "644a3df63b0b6f03e101e065",
                                     "655f13e0a246670fb0373245",
+									"61605d88ffa6e502ac5e7eeb",
+									"5d10b49bd7ad1a1a560708b0",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"57fd23e32459772d0805bcf1",
                                     "6845a2443b726a816a6ca79e",
                                     "6845a36582114b67fdc12a16",
                                     "6845a394ddfdb4cac936974e",
@@ -376,7 +381,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "AK CPYK CRC 1U020 M-LOK handguard",
+				"name": "AK KRUK CRC 1U020-MIL M-LOK handguard",
 				"shortName": "1U020",
 				"description": "A modern Ukrainian-made polymer handguard designed for AK-platform rifles. Features integrated Picatinny rail on top and side M-LOK mounts for attaching tactical accessories. Lightweight yet durable, it improves handling without compromising the rifle’s balance. A solid upgrade for operators looking to modernize classic AK builds while retaining reliability in harsh conditions."
 			}
@@ -500,6 +505,11 @@
                                     "64785e7c19d732620e045e15",
                                     "644a3df63b0b6f03e101e065",
                                     "655f13e0a246670fb0373245",
+									"61605d88ffa6e502ac5e7eeb",
+									"5d10b49bd7ad1a1a560708b0",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"57fd23e32459772d0805bcf1",
                                     "6845a2443b726a816a6ca79e",
                                     "6845a36582114b67fdc12a16",
                                     "6845a394ddfdb4cac936974e",
@@ -578,7 +588,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "AK CPYK CRC 1U020 M-LOK handguard (FDE)",
+				"name": "AK KRUK CRC 1U020-MIL M-LOK handguard (FDE)",
 				"shortName": "1U020",
 				"description": "A modern Ukrainian-made polymer handguard designed for AK-platform rifles. Features integrated Picatinny rail on top and side M-LOK mounts for attaching tactical accessories. Lightweight yet durable, it improves handling without compromising the rifle’s balance. A solid upgrade for operators looking to modernize classic AK builds while retaining reliability in harsh conditions. <color=#9c8638><b>Flat Dark Earth version.</b></color>"
 			}
@@ -702,6 +712,11 @@
                                     "64785e7c19d732620e045e15",
                                     "644a3df63b0b6f03e101e065",
                                     "655f13e0a246670fb0373245",
+									"61605d88ffa6e502ac5e7eeb",
+									"5d10b49bd7ad1a1a560708b0",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"57fd23e32459772d0805bcf1",
                                     "6845a2443b726a816a6ca79e",
                                     "6845a36582114b67fdc12a16",
                                     "6845a394ddfdb4cac936974e",
@@ -780,7 +795,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "AK CPYK CRC 1U020 M-LOK handguard (Olive Drab)",
+				"name": "AK KRUK CRC 1U020-MIL M-LOK handguard (Olive Drab)",
 				"shortName": "1U020",
 				"description": "A modern Ukrainian-made polymer handguard designed for AK-platform rifles. Features integrated Picatinny rail on top and side M-LOK mounts for attaching tactical accessories. Lightweight yet durable, it improves handling without compromising the rifle’s balance. A solid upgrade for operators looking to modernize classic AK builds while retaining reliability in harsh conditions. <color=#37630e><b>OD Green version.</b></color>"
 			}
@@ -906,6 +921,11 @@
                                     "64785e7c19d732620e045e15",
                                     "644a3df63b0b6f03e101e065",
                                     "655f13e0a246670fb0373245",
+									"61605d88ffa6e502ac5e7eeb",
+									"5d10b49bd7ad1a1a560708b0",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"57fd23e32459772d0805bcf1",
                                     "6845a2443b726a816a6ca79e",
                                     "6845a36582114b67fdc12a16",
                                     "6845a394ddfdb4cac936974e",
@@ -984,7 +1004,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "AK CPYK CRC 1U020 M-LOK handguard (Anodized Red)",
+				"name": "AK KRUK CRC 1U020-MIL M-LOK handguard (Anodized Red)",
 				"shortName": "1U020",
 				"description": "A modern Ukrainian-made polymer handguard designed for AK-platform rifles. Features integrated Picatinny rail on top and side M-LOK mounts for attaching tactical accessories. Lightweight yet durable, it improves handling without compromising the rifle’s balance. A solid upgrade for operators looking to modernize classic AK builds while retaining reliability in harsh conditions. <color=#b31d1d><b>Anodized Red version.</b></color>"
 			}

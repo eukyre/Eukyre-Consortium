@@ -255,6 +255,38 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Attachments/Mags/mag_stanag_hk_mr556_pmag_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Mags/mag_stanag_hk_mr556_pmag_sand.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Mags/mag_stanag_hk_mr556_pmag_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Mounts/exps_mount_ecot.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }

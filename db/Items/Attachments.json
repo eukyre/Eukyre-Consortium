@@ -881,7 +881,6 @@
 				"path": "Attachments/Optics/scope_all_eotech_exps_3_1.bundle",
 				"rcid": ""
 			},
-			"Slots": [],
 			"Zooms": [
 				[
 					1,
@@ -891,7 +890,48 @@
 			"ModesCount": [
 				2
 			],
-			"sightModType": "holo"
+			"sightModType": "holo",
+			"Slots": [
+				{
+					"_name": "mod_mount",
+					"_id": "685b413d636a57f9f770e583",
+					"_parent": "685b40db60670990eb71ca2d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"685c6c973ffb1957dcca18c6",
+									"685c6cfe99d360ee6cbc7985",
+									"685c6ce8c15fc38b32190fa9",
+									"685c6cbbaa9e444cb67c6e7b",
+									"685c6ca10bfdee0262637b4f",
+									"685c980215434eb9d07fee41"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "685b413c844db3723159d3ec",
+					"_parent": "685b40db60670990eb71ca2d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
 		},
 		"locales": {
 			"en": {
@@ -1450,7 +1490,7 @@
 		"handbookParentId": "MOD_MOUNT",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/Mounts/MRDS/mount_base_unity_mrds_blk.bundle",
+				"path": "Attachments/Mounts/MRDS/mount_base_unity_mrds_fde.bundle",
 				"rcid": ""
 			},
 			"Slots": [
@@ -1481,7 +1521,7 @@
 			"en": {
 				"name": "Unity Tactical FAST MRDS sight mount (FDE)",
 				"shortName": "MRDS",
-				"description": "TThe FAST™ MRDS mount, in conjunction with the Optic Adapter Plates brings compatible micro red dot sights to the established FAST height of 2.26″ to optical centerline. Fits plates that allow the use of RMR, DeltaPoint, ACRO and 509T footprint optics. Manufactured by Unity Tactical. Flat Dark Earth version."
+				"description": "TThe FAST™ MRDS mount, in conjunction with the Optic Adapter Plates brings compatible micro red dot sights to the established FAST height of 2.26″ to optical centerline. Fits plates that allow the use of RMR, DeltaPoint, ACRO and 509T footprint optics. Manufactured by Unity Tactical. <color=#9c8638><b>Flat Dark Earth version.</b></color>"
 			}
 		},
 		"clearClonedProps": false,
