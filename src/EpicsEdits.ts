@@ -112,6 +112,12 @@ export class epicItemClass {
                     }
                 ];
             } //Adding .338 LM RIP to the AXMC
+            if (fileData._id === "5fc22d7c187fea44d52eda44") {
+                fileData._props.SingleFireRate = 450
+            } //Buffing the M3 Super 90's firerate
+            if (fileData._id === "5fc22d7c187fea44d52eda44") {
+                fileData._props.shotgunDispersion = 15.5
+            } //Buffing the M3 Super 90's spread
         }
     }
 }
