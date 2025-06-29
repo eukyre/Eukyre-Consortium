@@ -1,1 +1,31 @@
-{}
+{
+    "MECHANIC": {
+        "items": [
+            {
+                "_id": "685fc8e5275fbbc4fe9a8f4d",
+                "_tpl": "6859749fb61f50b920ae5a2a",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "StackObjectsCount": 100,
+                    "UnlimitedCount": false,
+                    "BuyRestrictionMax": 15,
+                    "BuyRestrictionCurrent": 0
+                }
+            }
+        ],
+        "barter_scheme": {
+            "685fc8e5275fbbc4fe9a8f4d": [
+                [
+                    {
+                        "_tpl": "5696686a4bdc2da3298b456a",
+                        "count": 164
+                    }
+                ]
+            ]
+        },
+        "loyal_level_items": {
+            "685fc8e5275fbbc4fe9a8f4d": 4
+        }
+    }
+}

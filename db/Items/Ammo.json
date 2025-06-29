@@ -384,17 +384,17 @@
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 17583,
 		"handbookPriceRoubles": 13000,
-		"addtoTraders": true,
+		"addtoTraders": false,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 20
+				"stackObjectsCount": 10
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 100,
+				"count": 167,
 				"_tpl": "DOLLARS"
 			}
 		],

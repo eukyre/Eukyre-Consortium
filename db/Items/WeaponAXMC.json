@@ -1,0 +1,1339 @@
+{
+    "685ca39759f7a7c4aa6330d4": {
+        "itemTplToClone": "627e14b21713922ded6f2c15",
+        "parentId": "SNIPER_RIFLE",
+        "handbookParentId": "WEAPONS_BOTACTION",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "assets/content/weapons/axmc/weapon_accuracy_international_axmc_86x70_container.bundle",
+                "rcid": ""
+            },
+            "RecoilForceBack": 892,
+            "RecoilForceUp": 344,
+            "CanSellOnRagfair": true,
+            "ConflictingItems": [
+                "6281204f308cb521f87a8f9b"
+            ],
+            "Slots": [
+                {
+                    "_name": "mod_magazine",
+                    "_id": "685ca3b0467cc0242d7add04",
+                    "_parent": "685ca39759f7a7c4aa6330d4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685cb2dd01420a6ffb9e5fe1"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c394bdc2dae468b4577"
+                },
+                {
+                    "_name": "mod_pistol_grip",
+                    "_id": "685ca3af5cf6bcfcc2be3fd8",
+                    "_parent": "685ca39759f7a7c4aa6330d4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685d5f6e42692781d3ae54ab",
+                                    "685f8f3034d92778e840a072"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_charge",
+                    "_id": "68580eaa88f3671b6b8bbd00",
+                    "_parent": "685ca39759f7a7c4aa6330d4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685ca7d13925d40bf45937d1"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "ammoCaliber": "Caliber762x67B",
+            "defAmmo": "684e2de4c90977ea0b7b83fe",
+            "Chambers": [
+                {
+                    "_name": "patron_in_weapon",
+                    "_id": "685ca67a06b68cc51910742c",
+                    "_parent": "685ca39759f7a7c4aa6330d4",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "684e2de88bb7e9f52bfab35c",
+                                    "684e2ded3b64f7187cf14fae",
+                                    "684e2de4c90977ea0b7b83fe"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d4af244bdc2d962f8b4571"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Accuracy International AXMC .300 WM bolt-action sniper rifle",
+                "shortName": "AXMC",
+                "description": "The AXMC is the latest in a long and distinguished line of combat proven sniper rifles designed and manufactured by the British company Accuracy International. Chambered in .300 Winchester Magnum, but can be quickly converted to .338 Lapua Magnum by changing the barrel, bolt, and magazine/insert."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 214292,
+        "handbookPriceRoubles": 22000,
+        "addtoTraders": true,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 214292,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": true,
+        "masterySections": [
+            {
+                "Name": "AXMC",
+                "Templates": [
+                    "685ca39759f7a7c4aa6330d4"
+                ]
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "685ca39759f7a7c4aa6330d4",
+                "_id": "685ca90dae60a5da33ad8908",
+                "_items": [
+                    {
+                        "_id": "685ca762c4ecd9ad2b77db01",
+                        "_tpl": "685ca39759f7a7c4aa6330d4",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            },
+                            "Foldable": {
+                                "Folded": false
+                            },
+                            "FireMode": {
+                                "FireMode": "single"
+                            }
+                        }
+                    },
+                    {
+                        "_id": "685ca8ac545fd1218333d8c7",
+                        "_tpl": "62811e2510e26c1f344e6554",
+                        "parentId": "685ca762c4ecd9ad2b77db01",
+                        "slotId": "mod_pistol_grip"
+                    },
+                    {
+                        "_id": "685ca8b054e987921773bfd8",
+                        "_tpl": "685ca7d13925d40bf45937d1",
+                        "parentId": "685ca762c4ecd9ad2b77db01",
+                        "slotId": "mod_charge"
+                    },
+                    {
+                        "_id": "685ca8af8a3ff4a08062ad13",
+                        "_tpl": "685cb2dd01420a6ffb9e5fe1",
+                        "parentId": "685ca762c4ecd9ad2b77db01",
+                        "slotId": "mod_magazine"
+                    },
+                    {
+                        "_id": "685813a4101d942503eabd7d",
+                        "_tpl": "62811f828193841aca4a45c3",
+                        "parentId": "685ca8ac545fd1218333d8c7",
+                        "slotId": "mod_stock"
+                    },
+                    {
+                        "_id": "685ca8b1b375ed9f753b3f8f",
+                        "_tpl": "685caee9e195a83dc5282e9f",
+                        "parentId": "685ca8ac545fd1218333d8c7",
+                        "slotId": "mod_reciever"
+                    },
+                    {
+                        "_id": "685ca8b209cd2f3f16b8fe6e",
+                        "_tpl": "59d36a0086f7747e673f3946",
+                        "parentId": "685ca762c4ecd9ad2b77db01",
+                        "slotId": "mod_gas_block"
+                    },
+                    {
+                        "_id": "685ca8b4f7f31fe072bf9e66",
+                        "_tpl": "685f8f9b6fd6ca99a9dc36a2",
+                        "parentId": "685813a97330f65b17be9fef",
+                        "slotId": "mod_handguard"
+                    }
+                ],
+                "_name": "AXMC 300 Stock preset",
+                "_parent": "685ca762c4ecd9ad2b77db01",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "685ca7d13925d40bf45937d1": {
+        "itemTplToClone": "62811cd7308cb521f87a8f99",
+        "parentId": "55818a6f4bdc2db9688b456b",
+        "handbookParentId": "5b5f751486f77447ec5d770c",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/charge_ax_accuracy_internation_axmc_86x70_blk.bundle",
+                "rcid": ""
+            },
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC .300 WM bolt assembly",
+                "shortName": "AXMC .300WM",
+                "description": "A .300 Winchester Magnum bolt assembly for the Accuracy International AXMC sniper rifle."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16823,
+        "handbookPriceRoubles": 13000,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 14578,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685caee9e195a83dc5282e9f": {
+        "itemTplToClone": "6281204f308cb521f87a8f9b",
+        "parentId": "RECEIVER",
+        "handbookParentId": "MOD_RECEIVER",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/reciever_axmc_std_blk.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_name": "mod_handguard",
+                    "_id": "685caf30487e6f88500c49da",
+                    "_parent": "685caee9e195a83dc5282e9f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685f8f9b6fd6ca99a9dc36a2",
+                                    "6281209662cba23f6c4d7a19"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "685caf4434a917ab8188d402",
+                    "_parent": "685caee9e195a83dc5282e9f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6281212a09427b40ab14e770",
+                                    "685f97cdb7524e9cb7ef91af"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_reciever",
+                    "_id": "685caf53246ca22862b7cab7",
+                    "_parent": "685caee9e195a83dc5282e9f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685cb03caa41cccfc345933a"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC .300 WM chassis",
+                "shortName": "AXMC .300WM",
+                "description": "The factory fitted .300 Winchester Magnum chassis for the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_reciever"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 19572,
+        "handbookPriceRoubles": 7000,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 8453,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685cb03caa41cccfc345933a": {
+        "itemTplToClone": "6281204f308cb521f87a8f9b",
+        "parentId": "55818a6f4bdc2db9688b456b",
+        "handbookParentId": "5b5f751486f77447ec5d770c",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/reciever_axmc_upper_blk.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_name": "mod_scope",
+                    "_id": "685cb19cfe0782215e3dafb6",
+                    "_parent": "685cb03caa41cccfc345933a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "57ac965c24597706be5f975c",
+                                    "57aca93d2459771f2c7e26db",
+                                    "544a3f024bdc2d1d388b4568",
+                                    "544a3a774bdc2d3a388b4567",
+                                    "5d2dc3e548f035404a1a4798",
+                                    "57adff4f24597737f373b6e6",
+                                    "626bb8532c923541184624b4",
+                                    "5c0517910db83400232ffee5",
+                                    "591c4efa86f7741030027726",
+                                    "570fd79bd2720bc7458b4583",
+                                    "570fd6c2d2720bc6458b457f",
+                                    "558022b54bdc2dac148b458d",
+                                    "5c07dd120db834001c39092d",
+                                    "5c0a2cec0db834001b7ce47d",
+                                    "58491f3324597764bc48fa02",
+                                    "584924ec24597768f12ae244",
+                                    "5b30b0dc5acfc400153b7124",
+                                    "6165ac8c290d254f5e6b2f6c",
+                                    "60a23797a37c940de7062d02",
+                                    "5d2da1e948f035477b1ce2ba",
+                                    "5c0505e00db834001b735073",
+                                    "609a63b6e2ff132951242d09",
+                                    "584984812459776a704a82a6",
+                                    "59f9d81586f7744c7506ee62",
+                                    "570fd721d2720bc5458b4596",
+                                    "57ae0171245977343c27bfcf",
+                                    "5dfe6104585a0c3e995c7b82",
+                                    "544a3d0a4bdc2d1b388b4567",
+                                    "5d1b5e94d7ad1a2b865a96b0",
+                                    "609bab8b455afd752b2e6138",
+                                    "62811f461d5df4475f46a332",
+                                    "58d39d3d86f77445bb794ae7",
+                                    "616554fe50224f204c1da2aa",
+                                    "5c7d55f52e221644f31bff6a",
+                                    "616584766ef05c2ce828ef57",
+                                    "5b3b6dc75acfc47a8773fb1e",
+                                    "615d8d878004cc50514c3233",
+                                    "5b2389515acfc4771e1be0c0",
+                                    "577d128124597739d65d0e56",
+                                    "618b9643526131765025ab35",
+                                    "618bab21526131765025ab3f",
+                                    "5c86592b2e2216000e69e77c",
+                                    "5a37ca54c4a282000d72296a",
+                                    "5d0a29fed7ad1a002769ad08",
+                                    "5c064c400db834001d23f468",
+                                    "58d2664f86f7747fec5834f6",
+                                    "57c69dd424597774c03b7bbc",
+                                    "5b3b99265acfc4704b4a1afb",
+                                    "5aa66a9be5b5b0214e506e89",
+                                    "5aa66c72e5b5b00016327c93",
+                                    "5c1cdd302e221602b3137250",
+                                    "61714b2467085e45ef140b2c",
+                                    "6171407e50224f204c1da3c5",
+                                    "61713cc4d8e3106d9806c109",
+                                    "5b31163c5acfc400153b71cb",
+                                    "5a33b652c4a28232996e407c",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "59db7eed86f77461f8380365",
+                                    "5a1ead28fcdbcb001912fa9f",
+                                    "5dff77c759400025ea5150cf",
+                                    "63fc449f5bd61c6cf3784a88",
+                                    "6477772ea8a38bb2050ed4db",
+                                    "6478641c19d732620e045e17",
+                                    "64785e7c19d732620e045e15",
+                                    "65392f611406374f82152ba5",
+                                    "653931da5db71d30ab1d6296",
+                                    "655f13e0a246670fb0373245",
+                                    "6567e751a715f85433025998",
+                                    "67641a851b2899700609901a",
+                                    "6761759e7ee06333f108bf86",
+                                    "6859411da7ac91f2e4088de4",
+                                    "6857c3a0b4fec9f18e5e5e36",
+                                    "685912a257837068f1460c7a",
+                                    "6858fa27c104e3493576fd53"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_barrel",
+                    "_id": "685cb19f7e2d29c654d02a29",
+                    "_parent": "685cb03caa41cccfc345933a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685cb1d5d9ed935ade915c8f"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_sight_rear",
+                    "_id": "685cb1a02a10e54231da36b0",
+                    "_parent": "685cb03caa41cccfc345933a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5bb20e49d4351e3bac1212de",
+                                    "5ba26b17d4351e00367f9bdd",
+                                    "5dfa3d7ac41b2312ea33362a",
+                                    "5c1780312e221602b66cc189",
+                                    "5fb6564947ce63734e3fa1da",
+                                    "5bc09a18d4351e003562b68e",
+                                    "5c18b9192e2216398b5a8104",
+                                    "5fc0fa957283c4046c58147e",
+                                    "5894a81786f77427140b8347",
+                                    "55d5f46a4bdc2d1b198b4567",
+                                    "5ae30bad5acfc400185c2dc4"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC .300 WM upper receiver",
+                "shortName": "AXMC upper",
+                "description": "An upper receiver for the AXMC sniper rifle manufactured by Accuracy International. Equipped with a mount for attaching additional devices."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 19572,
+        "handbookPriceRoubles": 7000,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 8453,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685cb1d5d9ed935ade915c8f": {
+        "itemTplToClone": "628121434fa03b6b6c35dc6a",
+        "parentId": "BARREL",
+        "handbookParentId": "MOD_BARREL",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/barrel_axmc_686mm_86x70_blk.bundle",
+                "rcid": ""
+            },
+            "Velocity": 3.4,
+            "CenterOfImpact": 0.010,
+            "ConflictingItems": [
+                "5a6086ea4f39f99cd479502f",
+                "5a608bf24f39f98ffc77720e",
+                "58dd3ad986f77403051cba8f",
+                "5e023e53d4353e3302577c4c",
+                "5efb0c1bd79ff02a1f5e68d9",
+                "5e023e6e34d52a55c3304f71",
+                "5e023e88277cce2b522ff2b1"
+            ],
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "685d5c8559df7a1aca24b990",
+                    "_parent": "685cb1d5d9ed935ade915c8f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "62812081d23f207deb0ab216",
+                                    "612e0d81290d254f5e6b291a",
+                                    "5fc23636016cce60e8341b05",
+                                    "673f3ef1259f5945d70e43a8",
+                                    "673f0b36536d64240f01acd6"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC .300 WM 28 inch barrel",
+                "shortName": "AXMC .300WM 28\"",
+                "description": "A 28 inch (686mm) barrel for the AI AXMC chambered in .300 Winchester Magnum ammo."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 98572,
+        "handbookPriceRoubles": 32480,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 68467,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685cb2dd01420a6ffb9e5fe1": {
+        "itemTplToClone": "628120fd5631d45211793c9f",
+        "parentId": "MAGAZINE",
+        "handbookParentId": "MOD_MAGAZINE",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/mag_axmc_blk.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [],
+            "Slots": [],
+            "VisibleAmmoRangesString": "1-3",
+            "LoadUnloadModifier": -10,
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "685d52486dcf59df1ca85021",
+					"_parent": "685cb2dd01420a6ffb9e5fe1",
+					"_max_count": 10,
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "684e2de88bb7e9f52bfab35c",
+                                    "684e2ded3b64f7187cf14fae",
+                                    "684e2de4c90977ea0b7b83fe"
+                                ]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC .300 WM 10-round magazine",
+                "shortName": "AXMC .300WM",
+                "description": "A 10-round AXMC sniper rifle magazine by Accuracy International, for .300 Winchester Magnum cartridges."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685d5f6e42692781d3ae54ab": {
+        "itemTplToClone": "62811e2510e26c1f344e6554",
+        "parentId": "PISTOLGRIP",
+        "handbookParentId": "MOD_PISTOLGRIP",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/pistolgrip_axmc_blk.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [],
+            "Slots": [
+                {
+                    "_name": "mod_stock",
+                    "_id": "685d5f708d4362ef5fd19230",
+                    "_parent": "685d5f6e42692781d3ae54ab",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685f8ee12309f11f35970749"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_reciever",
+                    "_id": "685d5faa5788058feaf09f09",
+                    "_parent": "685d5f6e42692781d3ae54ab",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685caee9e195a83dc5282e9f"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC pistol grip (Black)",
+                "shortName": "AXMC PG",
+                "description": "A pistol grip for the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f8ee12309f11f35970749": {
+        "itemTplToClone": "62811f828193841aca4a45c3",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/stock_axmc_blk.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC AX buttstock (Black)",
+                "shortName": "AXMC",
+                "description": "The AX buttstock for the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f8f3034d92778e840a072": {
+        "itemTplToClone": "62811e335631d45211793c95",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/pistolgrip_axmc_gtac.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC GTAC AR-type pistol grip adapter (Black)",
+                "shortName": "GTAC",
+                "description": "The AX buttstock for the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f8f9b6fd6ca99a9dc36a2": {
+        "itemTplToClone": "6281209662cba23f6c4d7a19",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/handguard_axmc_blk.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC AX KeySlot 16 inch handguard (Black)",
+                "shortName": "AX 16\"",
+                "description": "The AX 16 inch handguard for the AXMC sniper rifle manufactured by Accuracy International equipped with a patented KeySlot interface for the installation of additional devices and accessories."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f97cdb7524e9cb7ef91af": {
+        "itemTplToClone": "6281212a09427b40ab14e770",
+        "parentId": "55818af64bdc2d5b648b4570",
+        "handbookParentId": "5b5f71de86f774093f2ecf13",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/foregrip_axmc_bk.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC AX KeySlot 16 inch handguard (Black)",
+                "shortName": "AX 16\"",
+                "description": "The AX 16 inch handguard for the AXMC sniper rifle manufactured by Accuracy International equipped with a patented KeySlot interface for the installation of additional devices and accessories."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_foregrip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f987509bd0b3d060a8257": {
+        "itemTplToClone": "628120c21d5df4475f46a337",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/mount_keyslot_forend.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC AT X Top Rail (Black)",
+                "shortName": "AXMC top",
+                "description": "A top handguard rail for installation on the KeySlot interface for the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_mount_000"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 20353,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f98f4004feeea57fe7c01": {
+        "itemTplToClone": "628120dd308cb521f87a8fa1",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/mount_keyslot_medium.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC Adapter Kit medium length rail (Black)",
+                "shortName": "AXMC med",
+                "description": "A medium length rail for installation on the KeySlot interface on the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_mount_001",
+            "mod_mount_002",
+            "mod_mount_003"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2054,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685f9946209e5ba6acab62f2": {
+        "itemTplToClone": "628120d309427b40ab14e76d",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "AXMC/mount_keyslot_small.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "AI AXMC Adapter Kit short length rail (Black)",
+                "shortName": "AXMC short",
+                "description": "A short length rail for installation on the KeySlot interface on the AXMC sniper rifle, manufactured by Accuracy International."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_mount_001",
+            "mod_mount_002",
+            "mod_mount_003"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2054,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 12642,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "AKSU",
+                "Templates": []
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}

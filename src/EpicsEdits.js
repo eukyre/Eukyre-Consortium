@@ -108,6 +108,15 @@ class epicItemClass {
             if (fileData._id === "5fc22d7c187fea44d52eda44") {
                 fileData._props.shotgunDispersion = 15.5;
             } //Buffing the M3 Super 90's spread
+            if (fileData._id === "616584766ef05c2ce828ef57") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6857c3a0b4fec9f18e5e5e36", "685912a257837068f1460c7a");
+            } //Pushing ROMEO7 to QRP2 Mount
+            if (fileData._id === "5c7d55f52e221644f31bff6a") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6857c3a0b4fec9f18e5e5e36", "685912a257837068f1460c7a");
+            } //Pushing ROMEO7 to LRP Mount
+            if (fileData._id === "5c7d560b2e22160bc12c6139") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6857c3a0b4fec9f18e5e5e36", "685912a257837068f1460c7a");
+            } //Pushing ROMEO7 to Aimpoint Standard Spacer
         }
     }
 }

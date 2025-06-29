@@ -1056,5 +1056,69 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686157209ffd81f32ce534ba": {
+		"itemTplToClone": "5cbda392ae92155f3c17c39f",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ak_molot_vepr12.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 7,
+			"CoolFactor": 0.971
+		},
+		"locales": {
+			"en": {
+				"name": "AK Molot Arms RPK/VEPR-12 polymer handguard",
+				"shortName": "VEPR-12",
+				"description": "A rugged polymer handguard manufactured by Molot Arms for the RPK and VEPR-12 platforms. Designed to withstand sustained fire, it features integrated heat shielding and reinforced ribs for added durability. Lightweight and reliable, it's a common upgrade for support gunners and shotgun operators needing improved handling without sacrificing endurance."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3058,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 5048,
+		"handbookPriceRoubles": 1232,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
