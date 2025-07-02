@@ -14,6 +14,8 @@
 			"Ergonomics": -2.5,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -20,
 			"VisibleAmmoRangesString": "1-1;18-30",
 			"Cartridges": [
 				{
@@ -118,6 +120,8 @@
 			"Ergonomics": -2.5,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -20,
 			"VisibleAmmoRangesString": "1-1;18-30",
 			"Cartridges": [
 				{
@@ -222,6 +226,8 @@
 			"Ergonomics": -2.5,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -20,
 			"VisibleAmmoRangesString": "1-1;18-30",
 			"Cartridges": [
 				{
@@ -327,6 +333,8 @@
 			"Ergonomics": -4,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -30,
 			"VisibleAmmoRangesString": "1-3",
 			"Cartridges": [
 				{
@@ -432,6 +440,8 @@
 			"Ergonomics": -4,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -30,
 			"VisibleAmmoRangesString": "1-3",
 			"Cartridges": [
 				{
@@ -533,10 +543,13 @@
 			"ConflictingItems": [],
 			"ExaminedByDefault": true,
 			"InsuranceDisabled": false,
+			"Weight": 0.15,
 			"MalfunctionChange": 0.07,
 			"Ergonomics": -4,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -12,
 			"VisibleAmmoRangesString": "1-3",
 			"Cartridges": [
 				{
@@ -604,7 +617,7 @@
 		],
 		"loyallevelitems": 4,
 		"fleaPriceRoubles": 34928,
-		"handbookPriceRoubles": 4000,
+		"handbookPriceRoubles": 5631,
 		"addtoStaticLootContainers": true,
 		"addtoragfair": true,
 		"StaticLootContainers": [
@@ -638,10 +651,13 @@
 			"ConflictingItems": [],
 			"ExaminedByDefault": true,
 			"InsuranceDisabled": false,
+			"Weight": 0.15,
 			"MalfunctionChange": 0.07,
 			"Ergonomics": -4,
 			"CanSellOnRagfair": true,
 			"Height": 2,
+			"CheckOverride": 1,
+			"CheckTimeModifier": -12,
 			"VisibleAmmoRangesString": "1-3",
 			"Cartridges": [
 				{
@@ -709,7 +725,7 @@
 		],
 		"loyallevelitems": 4,
 		"fleaPriceRoubles": 34928,
-		"handbookPriceRoubles": 4000,
+		"handbookPriceRoubles": 5631,
 		"addtoStaticLootContainers": true,
 		"addtoragfair": true,
 		"StaticLootContainers": [

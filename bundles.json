@@ -121,7 +121,7 @@
             ]
         },
         {
-            "key": "Attachments/Optics/scope_base_holosun_he509t_rd.bundle",
+            "key": "Attachments/Optics/scope_base_holosun_509t_blk.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "key": "Attachments/Optics/scope_base_holosun_he506tx2_gr.bundle",
+            "key": "Attachments/Optics/scope_base_holosun_509t_fde.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -425,7 +425,7 @@
             ]
         },
         {
-            "key": "AXMC/charge_ax_accuracy_internation_axmc_86x70_blk.bundle",
+            "key": "Attachments/Stocks/strike_are_buffer_fde.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -433,7 +433,7 @@
             ]
         },
         {
-            "key": "AXMC/barrel_axmc_686mm_86x70_blk.bundle",
+            "key": "Attachments/Stocks/strike_are_buffer_grn.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -441,7 +441,7 @@
             ]
         },
         {
-            "key": "AXMC/foregrip_axmc_bk.bundle",
+            "key": "Attachments/Stocks/strike_are_buffer_blue.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "key": "AXMC/handguard_axmc_blk.bundle",
+            "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -457,7 +457,7 @@
             ]
         },
         {
-            "key": "AXMC/mag_axmc_blk.bundle",
+            "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension_red.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -465,87 +465,7 @@
             ]
         },
         {
-            "key": "AXMC/pistolgrip_axmc_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/pistolgrip_axmc_gtac.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/reciever_axmc_std_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/reciever_axmc_upper_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/stock_axmc_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/mount_keyslot_forend.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/mount_keyslot_medium.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AXMC/mount_keyslot_small.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "TEST/300win_fmj.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "TEST/300win_hp.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "TEST/300win_ap.bundle",
+            "key": "Attachments/Optics/scope_base_tasco_propoint_1x42.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

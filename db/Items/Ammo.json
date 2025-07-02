@@ -8,32 +8,32 @@
 				"path": "Ammo/40sw/patron_40sw_fmj.bundle",
 				"rcid": ""
 			},
-			"InitialSpeed": 340,
-			"ArmorDamage": 44,
-			"PenetrationPower": 22,
-			"Damage": 71,
-			"ammoAccr": -6,
-			"Recoil": 5,
-			"BulletMassGram": 10.7,
-			"Tracer": false,
-			"TracerColor": "green",
-			"TracerDistance": 0,
-			"LightBleedingDelta": 0.25,
-			"HeavyBleedingDelta": 0.15,
-			"StackMaxSize": 2500,
-			"Weight": 0.010,
-			"casingMass": 11,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber10.2x22",
-			"DiscardingBlock": false,
-			"DiscardLimit": 0,
-			"CanSellOnRagfair": true
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.010,
+			"InitialSpeed": 330,
+			"BallisticCoeficient": 0.20,
+			"BulletMassGram": 11.7,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 78,
+			"ammoAccr": 0,
+			"ammoRec": 8,
+			"PenetrationPower": 18,
+			"PenetrationPowerDiviation": 0.03,
+			"ArmorDamage": 27,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.05,
+			"RicochetChance": 0.22,
+			"HeavyBleedingDelta": 0.15,
+			"LightBleedingDelta": 0.35,
+			"MalfFeedChance": 0.036
 		},
 		"locales": {
 			"en": {
 				"name": ".40 S&W FMJ",
 				"shortName": "FMJ",
-				"description": "Standard 10.6x22mm (.40) full metal jacket ammo offering reliable penetration and consistent velocity. Balanced for accuracy in pistols and SMGs chambered in .40 S&W, making it a solid choice for general combat in smaller firearms."
+				"description": "Standard 10.2x22mm (.40 S&W) full metal jacket ammo offering reliable penetration and consistent velocity. Balanced for accuracy in pistols and SMGs chambered in .40 S&W, making it a solid choice for general combat in smaller firearms."
 			}
 		},
 		"clearClonedProps": false,
@@ -45,22 +45,22 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 751,
-		"handbookPriceRoubles": 400,
+		"handbookPriceRoubles": 256,
 		"addtoTraders": true,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"stackObjectsCount": 80
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 2,
+				"count": 5,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 1,
+		"loyallevelitems": 2,
 		"addtoBots": false,
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -75,32 +75,32 @@
 				"path": "Ammo/40sw/patron_40sw_jhp.bundle",
 				"rcid": ""
 			},
-			"InitialSpeed": 307,
-			"ArmorDamage": 22,
-			"PenetrationPower": 11,
-			"Damage": 99,
-			"ammoAccr": -6,
-			"Recoil": 5,
-			"BulletMassGram": 11.6,
-			"Tracer": false,
-			"TracerColor": "green",
-			"TracerDistance": 0,
-			"LightBleedingDelta": 0.4,
-			"HeavyBleedingDelta": 0.3,
-			"StackMaxSize": 2500,
-			"Weight": 0.011,
-			"casingMass": 11,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber10.2x22",
-			"DiscardingBlock": false,
-			"DiscardLimit": 0,
-			"CanSellOnRagfair": true
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.010,
+			"InitialSpeed": 325,
+			"BallisticCoeficient": 0.18,
+			"BulletMassGram": 11.3,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 85,
+			"ammoAccr": 5,
+			"ammoRec": 6,
+			"PenetrationPower": 12,
+			"PenetrationPowerDiviation": 0.11,
+			"ArmorDamage": 19,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.0,
+			"RicochetChance": 0.1,
+			"HeavyBleedingDelta": 0.30,
+			"LightBleedingDelta": 0.55,
+			"MalfFeedChance": 0.036
 		},
 		"locales": {
 			"en": {
 				"name": ".40 S&W JHP",
 				"shortName": "JHP",
-				"description": ".40S&W JHP (Jacketed Hollow Point) offer shooters a high-performance, controlled expansion option for self-defense or hunting applications."
+				"description": ".40 S&W JHP (Jacketed Hollow Point) offer shooters a high-performance, controlled expansion option for self-defense or hunting applications."
 			}
 		},
 		"clearClonedProps": false,
@@ -112,22 +112,22 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 1056,
-		"handbookPriceRoubles": 1056,
+		"handbookPriceRoubles": 542,
 		"addtoTraders": true,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"stackObjectsCount": 60
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 8,
+				"count": 11,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 4,
 		"addtoBots": false,
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -142,26 +142,26 @@
 				"path": "Ammo/40sw/patron_40sw_plus_p.bundle",
 				"rcid": ""
 			},
-			"InitialSpeed": 390,
-			"Recoil": 6.5,
-			"ammoAccr": -8,
-			"ArmorDamage": 53,
-			"PenetrationPower": 31,
-			"Damage": 76,
-			"BulletMassGram": 10,
-			"Tracer": false,
-			"TracerColor": "green",
-			"TracerDistance": 0,
-			"LightBleedingDelta": 0.2,
-			"HeavyBleedingDelta": 0.1,
-			"StackMaxSize": 2500,
-			"Weight": 0.010,
-			"casingMass": 10,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber10.2x22",
-			"DiscardingBlock": false,
-			"DiscardLimit": 0,
-			"CanSellOnRagfair": true
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.010,
+			"InitialSpeed": 368,
+			"BallisticCoeficient": 0.24,
+			"BulletMassGram": 10.5,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 68,
+			"ammoAccr": -4,
+			"ammoRec": 13,
+			"PenetrationPower": 33,
+			"PenetrationPowerDiviation": 0.25,
+			"ArmorDamage": 32,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.66,
+			"RicochetChance": 0.25,
+			"HeavyBleedingDelta": 0.30,
+			"LightBleedingDelta": 0.55,
+			"MalfFeedChance": 0.046
 		},
 		"locales": {
 			"en": {
@@ -185,16 +185,16 @@
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"stackObjectsCount": 100
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 2,
+				"count": 14,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 1,
+		"loyallevelitems": 3,
 		"addtoBots": false,
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -209,30 +209,32 @@
 				"path": "Ammo/40sw/patron_40sw_tracer.bundle",
 				"rcid": ""
 			},
-			"InitialSpeed": 292,
-			"ArmorDamage": 33,
-			"PenetrationPower": 15,
-			"ammoAccr": -6,
-			"Recoil": 5,
-			"Damage": 74,
-			"BulletMassGram": 10,
-			"Tracer": true,
-			"TracerColor": "red",
-			"TracerDistance": 0,
-			"StackMaxSize": 2500,
-			"Weight": 0.010,
-			"casingMass": 10,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber10.2x22",
-			"DiscardingBlock": false,
-			"DiscardLimit": 0,
-			"CanSellOnRagfair": true
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.010,
+			"InitialSpeed": 342,
+			"BallisticCoeficient": 0.2,
+			"BulletMassGram": 10.9,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 62,
+			"ammoAccr": -2,
+			"ammoRec": 10,
+			"PenetrationPower": 17,
+			"PenetrationPowerDiviation": 0.16,
+			"ArmorDamage": 25,
+			"DurabilityBurnModificator": 1.22,
+			"HeatFactor": 1.36,
+			"RicochetChance": 0.3,
+			"HeavyBleedingDelta": 0.15,
+			"LightBleedingDelta": 0.36,
+			"MalfFeedChance": 0.046
 		},
 		"locales": {
 			"en": {
 				"name": ".40 S&W Red Tracer",
 				"shortName": "RT",
-				"description": "A standard .40S&W Red Tracer (RT) Round."
+				"description": "A standard .40 S&W Red Tracer (RT) cartridge."
 			}
 		},
 		"clearClonedProps": false,
@@ -243,19 +245,19 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 751,
-		"handbookPriceRoubles": 400,
+		"fleaPriceRoubles": 118,
+		"handbookPriceRoubles": 120,
 		"addtoTraders": true,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"stackObjectsCount": 145
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 2,
+				"count": 3,
 				"_tpl": "DOLLARS"
 			}
 		],
@@ -282,8 +284,8 @@
 			"Damage": 235,
 			"FragmentType": "5996f6d686f77467977ba6cc",
 			"FragmentationChance": 0.65,
-			"FragmentsCount": 0,
-			"HeavyBleedingDelta": 0.75,
+			"FragmentsCount": 2,
+			"HeavyBleedingDelta": 0.55,
 			"LightBleedingDelta": 0.8,
 			"Tracer": false,
 			"TracerColor": "red",
@@ -341,16 +343,16 @@
 				"rcid": ""
 			},
 			"InitialSpeed": 895,
-			"ArmorDamage": 74,
+			"ArmorDamage": 54,
 			"PenetrationPower": 58,
-			"ammoAccr": -5,
+			"ammoAccr": -6.5,
 			"BulletMassGram": 16.4,
-			"Recoil": 12,
+			"Recoil": 16,
 			"Damage": 119,
 			"FragmentType": "66ec2aa6daf127599c0c31f1",
 			"FragmentationChance": 0.70,
 			"FragmentsCount": 3,
-			"ExplosionStrength": 10,
+			"ExplosionStrength": 3,
 			"HasGrenaderComponent": true,
 			"ExplosionType": "big_round_impact",
 			"MaxExplosionDistance": 1,
@@ -371,7 +373,7 @@
 			"en": {
 				"name": ".338 Lapua Magnum Raufoss",
 				"shortName": "Raufoss",
-				"description": "A specialized armor-piercing explosive round designed for anti-materiel and long-range precision roles. The Raufoss projectile combines a tungsten penetrator, incendiary compound, and explosive core, delivering high armor penetration with devastating terminal effects. Overkill against unarmored targets, but exceptionally effective against body armor, cover, and light vehicles."
+				"description": "A specialized AP-HE (armor-piercing high-explosive) round designed for anti-materiel and long-range precision roles. The Raufoss projectile combines a tungsten penetrator, incendiary compound, and explosive core, delivering high armor penetration with devastating terminal effects. Overkill against unarmored targets, but exceptionally effective against body armor, cover, and light vehicles."
 			}
 		},
 		"clearClonedProps": false,

@@ -111,11 +111,11 @@ export class epicItemClass {
                         "_proto": "55d4af244bdc2d962f8b4571",
                     }
                 ];
-            } //Adding .338 LM RIP to the AXMC
-            if (fileData._id === "5fc22d7c187fea44d52eda44") {
+            } //Adding .338 LM RIP to the AXMC5c793fc42e221600114ca25d
+            if (fileData._id === "6259b864ebedf17603599e88") {
                 fileData._props.SingleFireRate = 450
             } //Buffing the M3 Super 90's firerate
-            if (fileData._id === "5fc22d7c187fea44d52eda44") {
+            if (fileData._id === "6259b864ebedf17603599e88") {
                 fileData._props.shotgunDispersion = 15.5
             } //Buffing the M3 Super 90's spread
             if (fileData._id === "616584766ef05c2ce828ef57") {
@@ -130,6 +130,18 @@ export class epicItemClass {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("6857c3a0b4fec9f18e5e5e36",
                     "685912a257837068f1460c7a");
             } //Pushing ROMEO7 to Aimpoint Standard Spacer
+            if (fileData._id === "5c793fc42e221600114ca25d") {
+                fileData._props.Accuracy = 0
+            } //Nerfing the Anodized Red SI ARE Buffer - Accuracy Stat
+            if (fileData._id === "5c793fc42e221600114ca25d") {
+                fileData._props.Velocity = 0
+            } //Nerfing the Anodized Red SI ARE Buffer - Velocity Stat
+            if (fileData._id === "5fc22d7c187fea44d52eda44") {
+                fileData._props.handbookPriceRoubles = 8700
+            } //Nerfing the Anodized Red SI ARE Buffer - Handbook Value
+            if (fileData._id === "5fc22d7c187fea44d52eda44") {
+                fileData._props.fleaPriceRoubles = 43400
+            } //Nerfing the Anodized Red SI ARE Buffer - Flea Market Value
         }
     }
 }
