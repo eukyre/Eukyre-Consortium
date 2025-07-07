@@ -39,7 +39,7 @@
                     "FireMode": {
                         "FireMode": "single"
                     },
-                    "UnlimitedCount": false,
+                    "UnlimitedCount": true,
                     "StackObjectsCount": 1,
                     "BuyRestrictionMax": 1
                 },
@@ -338,7 +338,7 @@
                     "FireMode": {
                         "FireMode": "single"
                     },
-                    "UnlimitedCount": false,
+                    "UnlimitedCount": true,
                     "StackObjectsCount": 1,
                     "BuyRestrictionMax": 1
                 },
