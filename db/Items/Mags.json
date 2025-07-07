@@ -782,7 +782,7 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
         "addtoTraders": true,
-		"traderId": "MECHANIC",
+		"traderId": "PRAPOR",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
@@ -854,7 +854,7 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
         "addtoTraders": true,
-		"traderId": "MECHANIC",
+		"traderId": "PRAPOR",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
@@ -925,7 +925,7 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
         "addtoTraders": true,
-		"traderId": "MECHANIC",
+		"traderId": "PRAPOR",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
