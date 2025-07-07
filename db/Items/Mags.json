@@ -746,5 +746,290 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686693bfa7e7678c13d94dcd": {
+		"itemTplToClone": "55d480c04bdc2d1d4e8b456a",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mags/mag_ak74_6l23_window_blk.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"Ergonomics": -3,
+			"CanSellOnRagfair": true,
+			"Height": 2,
+			"VisibleAmmoRangesString": "1-4;8-30",
+			"magAnimationIndex": 4,
+			"CheckOverride": 1
+		},
+		"locales": {
+			"en": {
+				"name": "AK-74 5.45x39 6L23 modified windowed 30-round magazine",
+				"shortName": "6L23",
+				"description": "A 30-round polymer Izhmash 6L23 magazine for 5.45x39 ammo, for AK-74 and compatible systems. This mag has been hastily modified to cut a viewing port into the side of the magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+        "addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3572,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 17482,
+		"handbookPriceRoubles": 1999,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6866948c33d189a854f4593c": {
+		"itemTplToClone": "55d480c04bdc2d1d4e8b456a",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mags/mag_ak74_6l23_window_plum.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"Ergonomics": -3,
+			"CanSellOnRagfair": true,
+			"Height": 2,
+			"VisibleAmmoRangesString": "1-30",
+			"magAnimationIndex": 4,
+			"CheckOverride": 1
+		},
+		"locales": {
+			"en": {
+				"name": "AK-74 5.45x39 6L23 modified windowed 30-round magazine (Plum)",
+				"shortName": "6L23",
+				"description": "A 30-round polymer Izhmash 6L23 magazine for 5.45x39 ammo, for AK-74 and compatible systems. This mag has been hastily modified to cut a viewing port into the side of the magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+        "addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3572,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 17482,
+		"handbookPriceRoubles": 1999,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6867206a980fcf4a475d4678": {
+		"itemTplToClone": "64b9cf0ac12b9c38db26923a",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mags/mag_akm_20.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"Ergonomics": -1,
+			"CanSellOnRagfair": true,
+			"Height": 2,
+			"VisibleAmmoRangesString": "1-20",
+			"CheckOverride": 1
+		},
+		"locales": {
+			"en": {
+				"name": "AK 7.62x39 Hungarian \"Tanker\" 20-round magazine",
+				"shortName": "Tanker",
+				"description": "A 20-round steel magazine for the AK-47/AKM series of rifles, manufactured for Hungarian Tank crews. This mag has been hastily modified to cut a viewing port into the side of the magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+        "addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 6
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1172,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 3296,
+		"handbookPriceRoubles": 872,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6867211462ddc1942b59637b": {
+		"itemTplToClone": "59d625f086f774661516605d",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mags/mag_akm_30.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"CanSellOnRagfair": true,
+			"Height": 2,
+			"VisibleAmmoRangesString": "1-30",
+			"CheckOverride": 1
+		},
+		"locales": {
+			"en": {
+				"name": "AK 7.62x39 modified windowed 30-round magazine (issued '55 or later)",
+				"shortName": "AK55",
+				"description": "A standard 30-round metal magazine for 7.62x39 AK and compatible weapons from 1955 onward. Can also be supplied with .366 TKM ammo for use with the corresponding caliber AK-compatible weapons. This mag has been hastily modified to cut a viewing port into the side of the magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+        "addtoTraders": true,
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1763,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 11258,
+		"handbookPriceRoubles": 1763,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
