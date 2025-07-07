@@ -1,5 +1,5 @@
 {
-    "685634e7d1ba4b8e89c6d7f6": {
+	"685634e7d1ba4b8e89c6d7f6": {
 		"itemTplToClone": "63a0b208f444d32d6f03ea1e",
 		"parentId": "57864bb7245977548b3b66c2",
 		"handbookParentId": "5b47574386f77428ca22b2f6",
@@ -13,8 +13,8 @@
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true,
-            "Width": 3,
-            "Height": 2,
+			"Width": 3,
+			"Height": 2,
 			"ItemSound": "generic"
 		},
 		"locales": {
@@ -110,8 +110,8 @@
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true,
-            "Width": 2,
-            "Height": 1,
+			"Width": 2,
+			"Height": 1,
 			"ItemSound": "generic"
 		},
 		"locales": {
