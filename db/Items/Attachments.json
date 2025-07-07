@@ -875,5 +875,101 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686b15f7cf5ae78dbd7b950b": {
+		"itemTplToClone": "57adff4f24597737f373b6e6",
+		"parentId": "55818add4bdc2d5b648b456f",
+		"handbookParentId": "5b5f740a86f77447ec5d7706",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_sig_bravo5_5x30.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"55d5f46a4bdc2d1b198b4567"
+			],
+			"Slots": [],
+			"Weight": 1.23,
+			"AimSensitivity": [
+				[
+					0.1625,
+					0.1625
+				]
+			],
+			"CalibrationDistances": [
+				[
+					50,
+					100,
+					150,
+					200,
+					250,
+					300
+				]
+			],
+			"ModesCount": [
+				2
+			],
+			"ZoomSensitivity": 0,
+			"Zooms": [
+				[
+					5,
+					5
+				]
+			],
+			"sightModType": "optic"
+		},
+		"locales": {
+			"en": {
+				"name": "SIG Sauer BRAVO5 5x30 scope",
+				"shortName": "BRAVO5",
+				"description": "Designed by SIG Sauer, the BRAVO5 5x30 scope is a rugged fixed-power prism scope offering 5x magnification and a wide 30mm objective lens. Designed for rapid target acquisition at medium range, the BRAVO5 features a horseshoe-dot reticle with illumination and holds zero under heavy recoil."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 499,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 61432,
+		"handbookPriceRoubles": 35822,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
