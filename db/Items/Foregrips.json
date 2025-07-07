@@ -34,7 +34,7 @@
         "traderItems": [
             {
                 "unlimitedCount": true,
-                "stackObjectsCount": 99
+                "stackObjectsCount": 3
             }
         ],
         "barterScheme": [
@@ -119,7 +119,7 @@
         "traderItems": [
             {
                 "unlimitedCount": true,
-                "stackObjectsCount": 99
+                "stackObjectsCount": 3
             }
         ],
         "barterScheme": [
@@ -204,7 +204,7 @@
         "traderItems": [
             {
                 "unlimitedCount": true,
-                "stackObjectsCount": 99
+                "stackObjectsCount": 3
             }
         ],
         "barterScheme": [
