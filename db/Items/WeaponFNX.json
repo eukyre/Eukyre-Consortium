@@ -172,11 +172,11 @@
         "masteries": true,
         "masterySections": [
             {
-                "Name": "FNX",
+                "Name": "FN FNX",
                 "Level2": 150,
                 "Level3": 250,
                 "Templates": [
-                    "684b262f1e6023175139a2f4"
+                    "6868377c7bb1c07772467ee7"
                 ]
             }
         ],
@@ -184,12 +184,12 @@
         "weaponpresets": [
             {
                 "_changeWeaponName": false,
-                "_encyclopedia": "684b257022b8260501141308",
-                "_id": "684b262f1e6023175139a2f4",
+                "_encyclopedia": "6868377c7bb1c07772467ee7",
+                "_id": "686b248bb6d0562578bfab4f",
                 "_items": [
                     {
-                        "_id": "684b26335b08392e42191c2e",
-                        "_tpl": "684b257022b8260501141308",
+                        "_id": "686b2456c6bf97ce3928ea83",
+                        "_tpl": "6868377c7bb1c07772467ee7",
                         "upd": {
                             "Repairable": {
                                 "MaxDurability": 100,
@@ -201,44 +201,44 @@
                         }
                     },
                     {
-                        "_id": "686b208d401c3ddcf6fece80",
+                        "_id": "686b24634b456997be7e7ef3",
                         "_tpl": "68683cf77880574d9637afc6",
                         "slotId": "mod_barrel",
-                        "parentId": "684b26335b08392e42191c2e"
+                        "parentId": "686b2456c6bf97ce3928ea83"
                     },
                     {
-                        "_id": "686b2083fcbab8053325022b",
+                        "_id": "686b24654127b8ab068a8f48",
                         "_tpl": "68683d4d23f083775c62f84e",
                         "slotId": "mod_reciever",
-                        "parentId": "684b26335b08392e42191c2e"
+                        "parentId": "686b2456c6bf97ce3928ea83"
                     },
                     {
-                        "_id": "686b208b1f2d9b7df5936411",
+                        "_id": "686b246d1d464d0347f21f79",
                         "_tpl": "686838eb0859ea2bd8e18c5f",
                         "slotId": "mod_magazine",
-                        "parentId": "684b26335b08392e42191c2e"
+                        "parentId": "686b2456c6bf97ce3928ea83"
                     },
                     {
-                        "_id": "686b2089db0f779a031c21da",
+                        "_id": "686b24711da35d2a4a13df7d",
                         "_tpl": "68696009c522f6881c46481b",
                         "slotId": "mod_scope",
-                        "parentId": "686b2083fcbab8053325022b"
+                        "parentId": "686b24654127b8ab068a8f48"
                     },
                     {
-                        "_id": "686b20870fd861de69bee6bb",
+                        "_id": "686b2474f3ce3b7bca9f57e9",
                         "_tpl": "686860759bcdfbaef057bfc3",
                         "slotId": "mod_sight_front",
-                        "parentId": "686b2083fcbab8053325022b"
+                        "parentId": "686b24654127b8ab068a8f48"
                     },
                     {
-                        "_id": "686b208656bda6a31b659c34",
+                        "_id": "686b247874ace85e5d2316c2",
                         "_tpl": "686860901db0bec621ef9e35",
                         "slotId": "mod_sight_rear",
-                        "parentId": "686b2083fcbab8053325022b"
+                        "parentId": "686b24654127b8ab068a8f48"
                     }
                 ],
                 "_name": "FNX-45 Stock Preset",
-                "_parent": "684b26335b08392e42191c2e",
+                "_parent": "686b2456c6bf97ce3928ea83",
                 "_type": "Preset"
             }
         ]
