@@ -261,7 +261,7 @@
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 29572,
 		"handbookPriceRoubles": 19025,
-		"addtoTraders": true,
+		"addtoTraders": false,
 		"traderId": "MECHANIC",
 		"traderItems": [
 			{
