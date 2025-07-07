@@ -1989,5 +1989,599 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686a950f332bd39442d996c7": {
+		"itemTplToClone": "618b9643526131765025ab35",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/unity_fast_lpvo_blk.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 2,
+			"ExtraSizeUp": 1,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "686a9513f5640d8916a9c727",
+					"_parent": "686a950f332bd39442d996c7",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "5b2388675acfc4771e1be0be",
+									"5b3b99475acfc432ff4dcbee",
+									"5a37cb10c4a282329a73b4e7",
+									"57c5ac0824597754771e88a9",
+									"618ba27d9008e4636a67f61d",
+									"617151c1d92c473c770214ab",
+									"6567e7681265c8a131069b0f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "686a9551be3248e221780a8c",
+					"_parent": "686a950f332bd39442d996c7",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "686a95919c10df31081c9e2b"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST LPVO 30mm ring scope mount",
+				"shortName": "FAST LPVO",
+				"description": "A high-rise scope mount engineered by Unity Tactical for 30mm Low Power Variable Optics. Designed to elevate the optic to a faster, heads-up shooting posture, improving target transitions and situational awareness in dynamic engagements. Built from hard-anodized aluminum with reinforced clamping hardware."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+		],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 13500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 25784,
+		"handbookPriceRoubles": 11502,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686a959fea53389283823a5e": {
+		"itemTplToClone": "618b9643526131765025ab35",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/unity_fast_lpvo_fde.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 2,
+			"ExtraSizeUp": 1,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "686a95a5b5af57a4af48d048",
+					"_parent": "686a959fea53389283823a5e",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "5b2388675acfc4771e1be0be",
+									"5b3b99475acfc432ff4dcbee",
+									"5a37cb10c4a282329a73b4e7",
+									"57c5ac0824597754771e88a9",
+									"618ba27d9008e4636a67f61d",
+									"617151c1d92c473c770214ab",
+									"6567e7681265c8a131069b0f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "686a95a30c8d1628794a7ce6",
+					"_parent": "686a959fea53389283823a5e",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "686a95919c10df31081c9e2b"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST LPVO 30mm ring scope mount (FDE)",
+				"shortName": "FAST LPVO",
+				"description": "A high-rise scope mount engineered by Unity Tactical for 30mm Low Power Variable Optics. Designed to elevate the optic to a faster, heads-up shooting posture, improving target transitions and situational awareness in dynamic engagements. Built from hard-anodized aluminum with reinforced clamping hardware. <color=#9c8638><b>Flat Dark Earth version.</b></color>"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+		],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 13500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 25784,
+		"handbookPriceRoubles": 11502,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686a95d3d23099a58e981e27": {
+		"itemTplToClone": "618b9643526131765025ab35",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/unity_fast_lpvo_odg.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 2,
+			"ExtraSizeUp": 1,
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "686a95d789aace93c4496ca2",
+					"_parent": "686a95d3d23099a58e981e27",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "5b2388675acfc4771e1be0be",
+									"5b3b99475acfc432ff4dcbee",
+									"5a37cb10c4a282329a73b4e7",
+									"57c5ac0824597754771e88a9",
+									"618ba27d9008e4636a67f61d",
+									"617151c1d92c473c770214ab",
+									"6567e7681265c8a131069b0f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "686a95d65780028ff241b19c",
+					"_parent": "686a95d3d23099a58e981e27",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "686a95919c10df31081c9e2b"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST LPVO 30mm ring scope mount (Olive Drab)",
+				"shortName": "FAST LPVO",
+				"description": "A high-rise scope mount engineered by Unity Tactical for 30mm Low Power Variable Optics. Designed to elevate the optic to a faster, heads-up shooting posture, improving target transitions and situational awareness in dynamic engagements. Built from hard-anodized aluminum with reinforced clamping hardware. <color=#60682e><b>Olive Drab Green version.</b></color>"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+		],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 13500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 25784,
+		"handbookPriceRoubles": 11502,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686a95919c10df31081c9e2b": {
+		"itemTplToClone": "618b9643526131765025ab35",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/unity_fast_canted.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": -1,
+			"Width": 1,
+			"Height": 1,
+			"Weight": 0.015,
+			"Slots": [
+				{
+					"_name": "mod_scope_000",
+					"_id": "686a95d789aace93c4496ca2",
+					"_parent": "686a95d3d23099a58e981e27",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "58d399e486f77442e0016fe7",
+									"61657230d92c473c770213d7",
+									"2589a5a2424122404cf3a94c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST LPVO canted optic mount",
+				"shortName": "FAST LPVO",
+				"description": "A mount for the Unity Tactical FAST LPVO mount that allows for the installation of a canted optic as a backup sight."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+		],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 5439,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 7626,
+		"handbookPriceRoubles": 2532,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686a990e217f312ed3fe65bf": {
+		"itemTplToClone": "58d39d3d86f77445bb794ae7",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_fast_mro_blk.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "686a99a2c5b16943fc1042ba",
+					"_parent": "686a990e217f312ed3fe65bf",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "3f18b9a4a43e2c071b08179a"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST MRO sight mount",
+				"shortName": "MRO",
+				"description": "A mount designed by Unity Tactical to accept the Trijicon MRO anda similar footprint optics with a riser of around 2.05\" of height over the muzzle."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+		],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 8673,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 8573,
+		"handbookPriceRoubles": 3592,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686a99b24e95c2b6c57ef026": {
+		"itemTplToClone": "58d39d3d86f77445bb794ae7",
+		"parentId": "MOUNT",
+		"handbookParentId": "MOD_MOUNT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_unity_fast_mro_fde.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_scope",
+					"_id": "686a99b5bd11eb0471139ce3",
+					"_parent": "686a99b24e95c2b6c57ef026",
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "3f18b9a4a43e2c071b08179a"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Unity Tactical FAST MRO sight mount (FDE)",
+				"shortName": "MRO",
+				"description": "A mount designed by Unity Tactical to accept the Trijicon MRO anda similar footprint optics with a riser of around 2.05\" of height over the muzzle. <color=#9c8638><b>Flat Dark Earth version.</b></color>"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+		],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 8673,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 8573,
+		"handbookPriceRoubles": 3592,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
