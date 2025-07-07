@@ -173,8 +173,10 @@
         "masterySections": [
             {
                 "Name": "FNX",
+                "Level2": 150,
+                "Level3": 250,
                 "Templates": [
-                    "68578a5778fb6540e9741f0d"
+                    "684b262f1e6023175139a2f4"
                 ]
             }
         ],
