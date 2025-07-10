@@ -117,7 +117,7 @@ class ConsortiumOfThings
 
     private displayCreditBanner(): void {
         this.colorLog
-            (`[${this.modName}] Developers:  -  ProbablyEukyre  Code Framework: GroovypenguinX - \"Never a frown, with Golden Brown.\"`, "green");
+            (`[${this.modName}] Developers:  -  ProbablyEukyre  Code Framework: GroovypenguinX - \"Never a frown, with Golden Brown.\"`, "brightYellow");
     }
 }
 
