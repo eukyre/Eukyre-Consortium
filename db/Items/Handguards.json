@@ -1155,5 +1155,183 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686d9e2c602d499b33bc5edb": {
+		"itemTplToClone": "5fc53954f8b6a877a729eaeb",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ump_zhukov.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5fc5396e900b1d5091531e72",
+				"686d613f44fd735790193ee4",
+				"686d61367b65e4565ddeb659"
+			],
+			"Width": 2,
+			"ExtraSizeLeft": 1,
+			"Ergonomics": 7.5,
+			"CoolFactor": 1.027,
+			"HeatFactor": 1.072,
+			"Slots": [
+				{
+					"_name": "mod_foregrip",
+					"_id": "686d9e4f96036145c961c277",
+					"_parent": "686d9e2c602d499b33bc5edb",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57cffb66245977632f391a99",
+									"57cffcd624597763133760c5",
+									"57cffcdd24597763f5110006",
+									"57cffce524597763b31685d8",
+									"5b7be4895acfc400170e2dd5",
+									"651a8bf3a8520e48047bf708",
+									"651a8e529829226ceb67c319",
+									"665d5d9e338229cfd6078da1",
+									"665edce564fb556f940ab32a"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_000",
+					"_id": "686d9e4daa504ac52913c15f",
+					"_parent": "686d9e2c602d499b33bc5edb",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5b7be47f5acfc400170e2dd2",
+									"6269220d70b6c02e665f2635",
+									"669a6a4a525be1d2d004b8eb"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "686d9e4b44e4379b2ca86f36",
+					"_parent": "686d9e2c602d499b33bc5edb",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5b7be47f5acfc400170e2dd2",
+									"6269220d70b6c02e665f2635",
+									"669a6a4a525be1d2d004b8eb"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "686db099d623f8158a1f3884",
+					"_parent": "686d9e2c602d499b33bc5edb",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5b3a337e5acfc4704b4a19a0",
+									"5c5952732e2216398b5abda2",
+									"57d17e212459775a1179a0f5",
+									"6267c6396b642f77f56f5c1c",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065",
+									"646f6322f43d0c5d62063715"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "HK UMP modified Zhukov-U handguard",
+				"shortName": "Zhukov-U",
+				"description": "A Magpul Zhukov-U handguard modified to fit on the front end of a UMP-45."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount_000"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 5467,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 5467,
+		"handbookPriceRoubles": 2253,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 11
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 2
+			}
+		]
 	}
 }
