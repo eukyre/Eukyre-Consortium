@@ -116,7 +116,7 @@ class ConsortiumOfThings {
         console.log(`${colorCode}${message}${resetCode}`); // Log the colored message here
     }
     displayCreditBanner() {
-        this.colorLog(`[${this.modName}] Developers:  -  ProbablyEukyre  Code Framework: GroovypenguinX - \"Never a frown, with Golden Brown.\"`, "green");
+        this.colorLog(`[${this.modName}] Developers:  -  ProbablyEukyre  Code Framework: GroovypenguinX - \"Never a frown, with Golden Brown.\"`, "brightYellow");
     }
 }
 module.exports = { mod: new ConsortiumOfThings() };
