@@ -247,5 +247,88 @@
         ],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "686d787fe69d3f3f9e3f5396": {
+        "itemTplToClone": "5649be884bdc2d79388b4577",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ump_buffertube.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "HK UMP custom AR buffer tube stock",
+                "shortName": "UMP Adpt.",
+                "description": "A modified version of the standard UMP polymer stock, featuring a Colt A2 Carbine buffer tube assembly allowing for the installation of compatible buttstocks."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9458,
+        "handbookPriceRoubles": 5500,
+        "addtoTraders": false,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 10440,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 3
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }
