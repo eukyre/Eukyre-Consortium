@@ -148,5 +148,218 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686d5bc004f09ae76bde0b8a": {
+		"itemTplToClone": "5a32a064c4a28200741e22de",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_all_silencerco_osprey_9_9x19_fde.bundle",
+				"rcid": ""
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "SilencerCo Osprey 9 2.0 9x19 sound suppressor (FDE)",
+				"shortName": "Osprey 9",
+				"description": "A light sound suppressor for 9x19 pistols and SMGs, manufactured by SilencerCo. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 27820,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 40265,
+		"handbookPriceRoubles": 21820,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686d61367b65e4565ddeb659": {
+		"itemTplToClone": "5fc4b992187fea44d52edaa9",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_all_silencerco_osprey_45.bundle",
+				"rcid": ""
+			},
+			"Loudness": -27,
+			"Ergonomics": -17,
+			"Recoil": -8,
+			"ExtraSizeLeft": 1,
+			"Width": 2,
+			"Velocity": 0.7,
+			"DurabilityBurnModificator": 1.65,
+			"HeatFactor": 1.13,
+			"Slots": [],
+			"CanSellOnRagfair": true,
+			"RagFairCommissionModifier": 1.25,
+            "muzzleModType": "silencer"
+		},
+		"locales": {
+			"en": {
+				"name": "SilencerCo Osprey 45 2.0 .45 ACP sound suppressor",
+				"shortName": "Osprey 45",
+				"description": "A light sound suppressor for .45 ACP pistols and SMGs, manufactured by SilencerCo."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 39742,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 64722,
+		"handbookPriceRoubles": 27516,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"686d613f44fd735790193ee4": {
+		"itemTplToClone": "5fc4b992187fea44d52edaa9",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_all_silencerco_osprey_45_fde.bundle",
+				"rcid": ""
+			},
+			"Loudness": -27,
+			"Ergonomics": -17,
+			"Recoil": -8,
+			"ExtraSizeLeft": 1,
+			"Width": 2,
+			"Velocity": 0.7,
+			"DurabilityBurnModificator": 1.65,
+			"HeatFactor": 1.13,
+			"Slots": [],
+			"CanSellOnRagfair": true,
+			"RagFairCommissionModifier": 1.25,
+            "muzzleModType": "silencer"
+		},
+		"locales": {
+			"en": {
+				"name": "SilencerCo Osprey 45 2.0 .45 ACP sound suppressor (FDE)",
+				"shortName": "Osprey 45",
+				"description": "A light sound suppressor for .45 ACP pistols and SMGs, manufactured by SilencerCo. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 39742,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 64722,
+		"handbookPriceRoubles": 27516,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
