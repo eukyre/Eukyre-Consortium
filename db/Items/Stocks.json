@@ -257,7 +257,9 @@
             "Prefab": {
                 "path": "Attachments/Stocks/stock_ump_buffertube.bundle",
                 "rcid": ""
-            }
+            },
+            "Recoil": -1,
+            "Ergonomics": 0
         },
         "locales": {
             "en": {
@@ -268,7 +270,7 @@
         },
         "clearClonedProps": false,
         "addtoInventorySlots": [],
-        "addtoModSlots": true,
+        "addtoModSlots": false,
         "modSlot": [
             "mod_stock"
         ],
