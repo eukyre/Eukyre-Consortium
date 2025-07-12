@@ -2,7 +2,7 @@
     "685c980215434eb9d07fee41": {
         "itemTplToClone": "5e4d34ca86f774264f758330",
         "parentId": "5645bcb74bdc2ded0b8b4578",
-        "handbookParentId": "GEAR_HEADSETS",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
         "overrideProperties": {
             "ExaminedByDefault": true,
             "Prefab": {
@@ -87,7 +87,7 @@
     "6872b8844eacca4cc65a8064": {
         "itemTplToClone": "5e4d34ca86f774264f758330",
         "parentId": "5645bcb74bdc2ded0b8b4578",
-        "handbookParentId": "GEAR_HEADSETS",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
         "overrideProperties": {
             "ExaminedByDefault": true,
             "Prefab": {
@@ -172,9 +172,9 @@
     "6872b8a2339ad0983c7ee665": {
         "itemTplToClone": "5e4d34ca86f774264f758330",
         "parentId": "5645bcb74bdc2ded0b8b4578",
-        "handbookParentId": "GEAR_HEADSETS",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
         "overrideProperties": {
-            "ExaminedByDefault": true,
+            "ExaminedByDefault": false,
             "Prefab": {
                 "path": "Clothing/Headsets/razor_donut.bundle",
                 "rcid": ""
