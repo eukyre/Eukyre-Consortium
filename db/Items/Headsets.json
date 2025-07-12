@@ -1,0 +1,263 @@
+{
+    "685c980215434eb9d07fee41": {
+        "itemTplToClone": "5e4d34ca86f774264f758330",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "GEAR_HEADSETS",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Clothing/Headsets/razor_coyote.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5a16b9fffcdbcb0176308b34",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c06c6a80db834001b735491",
+                "59e7708286f7742cbd762753",
+                "5b4327aa5acfc400175496e0",
+                "618aef6d0a5a59657e5f55ee",
+                "60b52e5bc7d8103275739d67",
+                "5d96141523f0ea1b7f2aacab"
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Walker's Razor Digital headset (Coyote Brown)",
+                "shortName": "Razor",
+                "description": "The Razor electronic ear muffs feature an ultra low-profile design and a rubberized coating for added durability and comfort, also providing optimal hearing protection. Manufactured by Walker's."
+            }
+        },
+        "clearClonedProps": false, 
+        "addtoInventorySlots": [
+            "Earpiece"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 110600,
+        "handbookPriceRoubles": 35100,
+        "addtoTraders": false,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 30,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 3
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6872b8844eacca4cc65a8064": {
+        "itemTplToClone": "5e4d34ca86f774264f758330",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "GEAR_HEADSETS",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Clothing/Headsets/razor_mc.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5a16b9fffcdbcb0176308b34",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c06c6a80db834001b735491",
+                "59e7708286f7742cbd762753",
+                "5b4327aa5acfc400175496e0",
+                "618aef6d0a5a59657e5f55ee",
+                "60b52e5bc7d8103275739d67",
+                "5d96141523f0ea1b7f2aacab"
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Walker's Razor Digital headset (Multicam)",
+                "shortName": "Razor",
+                "description": "The Razor electronic ear muffs feature an ultra low-profile design and a rubberized coating for added durability and comfort, also providing optimal hearing protection. Manufactured by Walker's."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Earpiece"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 110600,
+        "handbookPriceRoubles": 35100,
+        "addtoTraders": false,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 30,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 3
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6872b8a2339ad0983c7ee665": {
+        "itemTplToClone": "5e4d34ca86f774264f758330",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "GEAR_HEADSETS",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Clothing/Headsets/razor_donut.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5a16b9fffcdbcb0176308b34",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c06c6a80db834001b735491",
+                "59e7708286f7742cbd762753",
+                "5b4327aa5acfc400175496e0",
+                "618aef6d0a5a59657e5f55ee",
+                "60b52e5bc7d8103275739d67",
+                "5d96141523f0ea1b7f2aacab"
+            ],
+            "BackgroundColor": "violet",
+            "Distortion": 0.11,
+            "CompressorAttack": 33,
+            "HighpassFreq": 200,
+            "HighpassResonance": 2,
+            "LowpassFreq": 21000
+        },
+        "locales": {
+            "en": {
+                "name": "Walker's Razor Digital headset (Special)",
+                "shortName": "Razor",
+                "description": "The Razor electronic ear muffs feature an ultra low-profile design and a rubberized coating for added durability and comfort, also providing optimal hearing protection. This particular pair has been modified to have slightly better compression with less distortion, as well as being painted in a vibrant color scheme. Manufactured by Walker's."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [
+            "Earpiece"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 150600,
+        "handbookPriceRoubles": 75600,
+        "addtoTraders": false,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 30,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 3
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
