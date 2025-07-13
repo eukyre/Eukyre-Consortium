@@ -117,12 +117,6 @@ class epicItemClass {
             if (fileData._id === "5c793fc42e221600114ca25d") {
                 fileData._props.Velocity = 0;
             } //Nerfing the Anodized Red SI ARE Buffer - Velocity Stat
-            if (fileData._id === "5fc22d7c187fea44d52eda44") {
-                fileData._props.handbookPriceRoubles = 8700;
-            } //Nerfing the Anodized Red SI ARE Buffer - Handbook Value
-            if (fileData._id === "5fc22d7c187fea44d52eda44") {
-                fileData._props.fleaPriceRoubles = 43400;
-            } //Nerfing the Anodized Red SI ARE Buffer - Flea Market Value
             if (fileData._id === "5fc3e272f8b6a877a729eac5") {
                 fileData._props.Slots[2]._props.filters[0].Filter.push("686d787fe69d3f3f9e3f5396");
             } //Pushing HK UMP Buffertube to HK UMP45
