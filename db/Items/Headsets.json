@@ -1,5 +1,5 @@
 {
-    "685c980215434eb9d07fee41": {
+    "687306eb2a08d5fbb14e420f": {
         "itemTplToClone": "5e4d34ca86f774264f758330",
         "parentId": "5645bcb74bdc2ded0b8b4578",
         "handbookParentId": "5b5f6f3c86f774094242ef87",
@@ -9,6 +9,7 @@
                 "path": "Clothing/Headsets/razor_coyote.bundle",
                 "rcid": ""
             },
+            "CanSellOnRagfair": true,
             "ConflictingItems": [
                 "5a16b9fffcdbcb0176308b34",
                 "66b5f6a28ca68c6461709ed8",
@@ -84,7 +85,7 @@
         "addweaponpreset": false,
         "weaponpresets": []
     },
-    "6872b8844eacca4cc65a8064": {
+    "687306ed80a6d21e454051a0": {
         "itemTplToClone": "5e4d34ca86f774264f758330",
         "parentId": "5645bcb74bdc2ded0b8b4578",
         "handbookParentId": "5b5f6f3c86f774094242ef87",
@@ -94,6 +95,7 @@
                 "path": "Clothing/Headsets/razor_mc.bundle",
                 "rcid": ""
             },
+            "CanSellOnRagfair": true,
             "ConflictingItems": [
                 "5a16b9fffcdbcb0176308b34",
                 "66b5f6a28ca68c6461709ed8",
@@ -169,7 +171,7 @@
         "addweaponpreset": false,
         "weaponpresets": []
     },
-    "6872b8a2339ad0983c7ee665": {
+    "687306f01fea767c8f3d41ed": {
         "itemTplToClone": "5e4d34ca86f774264f758330",
         "parentId": "5645bcb74bdc2ded0b8b4578",
         "handbookParentId": "5b5f6f3c86f774094242ef87",
@@ -190,6 +192,7 @@
                 "60b52e5bc7d8103275739d67",
                 "5d96141523f0ea1b7f2aacab"
             ],
+            "CanSellOnRagfair": true,
             "BackgroundColor": "violet",
             "Distortion": 0.11,
             "CompressorAttack": 33,
