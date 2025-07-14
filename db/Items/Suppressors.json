@@ -361,5 +361,305 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68747c0f624eec3069961840": {
+		"itemTplToClone": "5c7e8fab2e22165df16b889b",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_obsidian9_long_blk.bundle",
+				"rcid": ""
+			},
+			"Loudness": -20,
+			"Ergonomics": -15,
+			"Recoil": -13,
+			"ExtraSizeLeft": 1,
+			"Width": 2,
+			"Velocity": 0.88,
+			"DurabilityBurnModificator": 1.55,
+			"HeatFactor": 1.13,
+			"Slots": [],
+			"CanSellOnRagfair": true,
+			"RagFairCommissionModifier": 1.25,
+            "muzzleModType": "silencer"
+		},
+		"locales": {
+			"en": {
+				"name": "Rugged Obsidian9 9x19 sound suppressor",
+				"shortName": "Obsidian9",
+				"description": "A modular 9x19mm suppressor engineered by Rugged Suppressors for superior performance and adaptability. Built from stainless steel and aluminum, the Obsidian9 offers excellent sound reduction in both full-length and short configurations."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 1
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 275,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 38676,
+		"handbookPriceRoubles": 11753,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68747c45a98cc57be229f32a": {
+		"itemTplToClone": "5c7e8fab2e22165df16b889b",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_obsidian9_long_fde.bundle",
+				"rcid": ""
+			},
+			"Loudness": -20,
+			"Ergonomics": -15,
+			"Recoil": -13,
+			"ExtraSizeLeft": 1,
+			"Width": 2,
+			"Velocity": 0.88,
+			"DurabilityBurnModificator": 1.55,
+			"HeatFactor": 1.13,
+			"Slots": [],
+			"CanSellOnRagfair": true,
+			"RagFairCommissionModifier": 1.25,
+            "muzzleModType": "silencer"
+		},
+		"locales": {
+			"en": {
+				"name": "Rugged Obsidian9 9x19 sound suppressor (FDE)",
+				"shortName": "Obsidian9",
+				"description": "A modular 9x19mm suppressor engineered by Rugged Suppressors for superior performance and adaptability. Built from stainless steel and aluminum, the Obsidian9 offers excellent sound reduction in both full-length and short configurations."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 1
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 275,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 38676,
+		"handbookPriceRoubles": 11753,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68747c781db888a663945907": {
+		"itemTplToClone": "5c7e8fab2e22165df16b889b",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_obsidian9_short_blk.bundle",
+				"rcid": ""
+			},
+			"Loudness": -15,
+			"Ergonomics": -10,
+			"Recoil": -9,
+			"ExtraSizeLeft": 1,
+			"Width": 2,
+			"Velocity": 0.88,
+			"DurabilityBurnModificator": 1.55,
+			"HeatFactor": 1.13,
+			"Slots": [],
+			"CanSellOnRagfair": true,
+			"RagFairCommissionModifier": 1.25,
+            "muzzleModType": "silencer"
+		},
+		"locales": {
+			"en": {
+				"name": "Rugged Obsidian9-S 9x19 sound suppressor",
+				"shortName": "Obsidian9-S",
+				"description": "A shortened modular 9x19mm suppressor engineered by Rugged Suppressors for superior performance and adaptability. Built from stainless steel and aluminum, the Obsidian9 offers excellent sound reduction in both full-length and short configurations."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 1
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 235,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 22676,
+		"handbookPriceRoubles": 9753,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68747ca718c613cd31cdd50b": {
+		"itemTplToClone": "5c7e8fab2e22165df16b889b",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Silencers/silencer_obsidian9_short_fde.bundle",
+				"rcid": ""
+			},
+			"Loudness": -15,
+			"Ergonomics": -10,
+			"Recoil": -9,
+			"ExtraSizeLeft": 1,
+			"Width": 2,
+			"Velocity": 0.88,
+			"DurabilityBurnModificator": 1.55,
+			"HeatFactor": 1.13,
+			"Slots": [],
+			"CanSellOnRagfair": true,
+			"RagFairCommissionModifier": 1.25,
+            "muzzleModType": "silencer"
+		},
+		"locales": {
+			"en": {
+				"name": "Rugged Obsidian9-S 9x19 sound suppressor (FDE)",
+				"shortName": "Obsidian9-S",
+				"description": "A shortened modular 9x19mm suppressor engineered by Rugged Suppressors for superior performance and adaptability. Built from stainless steel and aluminum, the Obsidian9 offers excellent sound reduction in both full-length and short configurations."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 1
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 235,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 22676,
+		"handbookPriceRoubles": 9753,
+		"addtoStaticLootContainers": true,
+        "addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
