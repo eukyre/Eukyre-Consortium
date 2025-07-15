@@ -120,6 +120,12 @@ class epicItemClass {
             if (fileData._id === "5fc3e272f8b6a877a729eac5") {
                 fileData._props.Slots[2]._props.filters[0].Filter.push("686d787fe69d3f3f9e3f5396");
             } //Pushing HK UMP Buffertube to HK UMP45
+            if (fileData._id === "5fbbfabed5cb881a7363194e") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6875f48210e047d487e43052");
+            } //Manually pushing A-TEC flash hider to MCX barrels
+            if (fileData._id === "5fbbfacda56d053a3543f799") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6875f48210e047d487e43052");
+            } //Manually pushing A-TEC flash hider to MCX barrels
         }
     }
 }
