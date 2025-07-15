@@ -221,13 +221,11 @@
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
-		"modSlot": [
-			"mod_muzzle"
-		],
+		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 76532,
-		"handbookPriceRoubles": 55776,
+		"fleaPriceRoubles": 144582,
+		"handbookPriceRoubles": 135202,
 		"addtoTraders": false,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [],
@@ -237,57 +235,50 @@
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DUFFLE_BAG",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_GROUND_CACHE",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
-				"Probability": 12
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_TECHNICAL_SUPPLY_CRATE",
-				"Probability": 28
+				"Probability": 1
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_TOOLBOX",
-				"Probability": 28
+				"Probability": 1
 			}
 		],
 		"masteries": false,
-		"masterySections": [
-			{
-				"Name": "M4",
-				"Templates": [
-					"4b81488c78c8a8ac7d37f9b9"
-				]
-			}
-		]
+		"masterySections": []
 	}
 }
