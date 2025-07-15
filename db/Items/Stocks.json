@@ -332,5 +332,99 @@
         ],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "687532d058893ecc096b66b5": {
+        "itemTplToClone": "5bfeb32b0db834001a6694d9",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_m700_wood.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5d25a6538abbc306c62e630d",
+                "5d25a4a98abbc30b917421a4",
+                "5d25a7b88abbc3054f3e60bc",
+                "5ce69cbad7f00c00b61c5098",
+                "5d25a6a48abbc306c62e6310",
+                "5d25af8f8abbc3055079fec5",
+                "5cf12a15d7f00c05464b293f"
+            ],
+            "Ergonomics": 12,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "M700 Remington wooden stock",
+                "shortName": "Remington",
+                "description": "A standard wooden hunting stock for civilian versions of the M700 sniper rifle. Manufactured by Remington."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 12543,
+        "handbookPriceRoubles": 7694,
+        "addtoTraders": true,
+        "traderId": "JAEGER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 2
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 11058,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 3
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }
