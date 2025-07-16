@@ -20,17 +20,17 @@ export class epicItemClass {
         for (let file in dbItems) {
             let fileData = dbItems[file];
             if (fileData._id === "673cbdfad0453ba50c0f76d6") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9", 
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9",
                     "6859749fb61f50b920ae5a2a"
                 );
             } //Pushing .338LM RIP to Sako M10 Mags
             if (fileData._id === "628120fd5631d45211793c9f") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9", 
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9",
                     "6859749fb61f50b920ae5a2a"
                 );
             } //Pushing .338LM RIP to AXMC Mags
             if (fileData._id === "5fc23426900b1d5091531e15") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9", 
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("68561ab84857b945e0ce85e9",
                     "6859749fb61f50b920ae5a2a"
                 );
             } //Pushing .338LM RIP to MK-18 Mags
@@ -139,6 +139,12 @@ export class epicItemClass {
             if (fileData._id === "5fbbfacda56d053a3543f799") {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("6875f48210e047d487e43052");
             } //Manually pushing A-TEC flash hider to MCX barrels
+            if (fileData._id === "68683cf77880574d9637afc6") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("686ad244771ad06c4fd8c970",
+                    "686ad2e1cb1cd4ac811bfe81",
+                    "686d61367b65e4565ddeb659",
+                    "686d613f44fd735790193ee4");
+            } //Manually pushing Suppressors to FNX Barrel
         }
     }
 }

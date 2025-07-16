@@ -126,6 +126,9 @@ class epicItemClass {
             if (fileData._id === "5fbbfacda56d053a3543f799") {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("6875f48210e047d487e43052");
             } //Manually pushing A-TEC flash hider to MCX barrels
+            if (fileData._id === "68683cf77880574d9637afc6") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("686ad244771ad06c4fd8c970", "686ad2e1cb1cd4ac811bfe81", "686d61367b65e4565ddeb659", "686d613f44fd735790193ee4");
+            } //Manually pushing Suppressors to FNX Barrel
         }
     }
 }
