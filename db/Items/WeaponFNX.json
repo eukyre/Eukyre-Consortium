@@ -329,37 +329,14 @@
         ]
     },
     "68683cf77880574d9637afc6": {
-        "itemTplToClone": "5fb651b52b1b027b1f50bcff",
+        "itemTplToClone": "5f3e77f59103d430b93f94c1",
         "parentId": "555ef6e44bdc2de9068b457e",
         "handbookParentId": "5b5f75c686f774094242f19f",
         "overrideProperties": {
             "Prefab": {
                 "path": "WeaponFNX/fnx_barrel.bundle",
                 "rcid": ""
-            },
-            "Slots": [
-                {
-                    "_name": "mod_muzzle",
-                    "_id": "686839179274506a826ff9b6",
-                    "_parent": "6868377c7bb1c07772467ee7",
-                    "_props": {
-                        "filters": [
-                            {
-                                "Shift": 0,
-                                "Filter": [
-                                    "5fc4b97bab884124df0cd5e3",
-                                    "5fc4b992187fea44d52edaa9",
-                                    "686ad2e1cb1cd4ac811bfe81",
-                                    "686ad244771ad06c4fd8c970"
-                                ]
-                            }
-                        ]
-                    },
-                    "_required": false,
-                    "_mergeSlotWithChildren": false,
-                    "_proto": "55d30c4c4bdc2db4468b457e"
-                }
-            ]
+            }
         },
         "locales": {
             "en": {
@@ -542,7 +519,11 @@
             "Prefab": {
                 "path": "WeaponFNX/fnx_fs.bundle",
                 "rcid": ""
-            }
+            },
+            "ConflictingItems": [
+                "5a7b4900e899ef197b331a2a",
+                "5a7ad4af51dfba0013379717"
+            ]
         },
         "locales": {
             "en": {
