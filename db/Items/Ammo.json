@@ -363,7 +363,7 @@
 			"Tracer": true,
 			"TracerColor": "red",
 			"TracerDistance": 0,
-			"StackMaxSize": 2500,
+			"StackMaxSize": 20,
 			"ExaminedByDefault": true,
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
@@ -385,7 +385,7 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 17583,
-		"handbookPriceRoubles": 13000,
+		"handbookPriceRoubles": 11592,
 		"addtoTraders": false,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
