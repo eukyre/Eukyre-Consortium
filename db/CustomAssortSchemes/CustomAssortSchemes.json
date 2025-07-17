@@ -153,7 +153,138 @@
                     }
                 },
                 "parentId": "686b29db4475265d5005bb2a"
-            }
+            },
+            {
+			"_id": "68787c80dcaa361d6c05a4fd",
+			"_tpl": "5c07c60e0db834002330051f",
+			"upd": {
+				"Repairable": {
+					"MaxDurability": 100,
+					"Durability": 100
+				},
+				"FireMode": {
+					"FireMode": "single"
+				},
+				"UnlimitedCount": true,
+				"BuyRestrictionMax": 1 
+			},
+			"parentId": "hideout",
+			"slotId": "hideout"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4e4",
+			"_tpl": "55802f5d4bdc2dac148b458f",
+			"slotId": "mod_pistol_grip",
+			"parentId": "68787c80dcaa361d6c05a4fd"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4e5",
+			"_tpl": "5448c1d04bdc2dff2f8b4569",
+			"slotId": "mod_magazine",
+			"parentId": "68787c80dcaa361d6c05a4fd"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4e6",
+			"_tpl": "5c0e2f26d174af02a9625114",
+			"slotId": "mod_reciever",
+			"parentId": "68787c80dcaa361d6c05a4fd"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4e7",
+			"_tpl": "5c793fb92e221644f31bfb64",
+			"slotId": "mod_stock",
+			"parentId": "68787c80dcaa361d6c05a4fd"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4e8",
+			"_tpl": "5bb20dbcd4351e44f824c04e",
+			"slotId": "mod_charge",
+			"parentId": "68787c80dcaa361d6c05a4fd"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4e9",
+			"_tpl": "5c064c400db834001d23f468",
+			"slotId": "mod_scope",
+			"parentId": "68787c7edcaa361d6c05a4e6"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4ea",
+			"_tpl": "68786dbe19742641ac415ba7",
+			"slotId": "mod_barrel",
+			"parentId": "68787c7edcaa361d6c05a4e6"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4eb",
+			"_tpl": "5d4405f0a4b9361e6a4e6bd9",
+			"slotId": "mod_handguard",
+			"parentId": "68787c7edcaa361d6c05a4e6"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4ec",
+			"_tpl": "5c1780312e221602b66cc189",
+			"slotId": "mod_sight_rear",
+			"parentId": "68787c7edcaa361d6c05a4e6"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4ed",
+			"_tpl": "5c793fde2e221601da358614",
+			"slotId": "mod_stock_000",
+			"parentId": "68787c7edcaa361d6c05a4e7"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4ee",
+			"_tpl": "686b15f7cf5ae78dbd7b950b",
+			"slotId": "mod_scope",
+			"parentId": "68787c7edcaa361d6c05a4e9"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4ef",
+			"_tpl": "612e0cfc8004cc50514c2d9e",
+			"slotId": "mod_muzzle",
+			"parentId": "68787c7edcaa361d6c05a4ea"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f0",
+			"_tpl": "63d3ce281fe77d0f2801859e",
+			"slotId": "mod_gas_block",
+			"parentId": "68787c7edcaa361d6c05a4ea"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f1",
+			"_tpl": "5649a2464bdc2d91118b45a8",
+			"slotId": "mod_scope",
+			"parentId": "68787c7edcaa361d6c05a4eb"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f2",
+			"_tpl": "8af8534244b4e4189d53bec2",
+			"slotId": "mod_mount_004",
+			"parentId": "68787c7edcaa361d6c05a4eb"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f3",
+			"_tpl": "5c17804b2e2216152006c02f",
+			"slotId": "mod_sight_front",
+			"parentId": "68787c7edcaa361d6c05a4eb"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f4",
+			"_tpl": "63877c99e785640d436458ea",
+			"slotId": "mod_muzzle",
+			"parentId": "68787c7edcaa361d6c05a4ef"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f5",
+			"_tpl": "6858fa27c104e3493576fd53",
+			"slotId": "mod_scope",
+			"parentId": "68787c7edcaa361d6c05a4f1"
+		},
+		{
+			"_id": "68787c7edcaa361d6c05a4f6",
+			"_tpl": "6858f8db6ed3644b6c11c9a0",
+			"slotId": "mod_scope",
+			"parentId": "68787c7edcaa361d6c05a4f5"
+		}
         ],
         "barter_scheme": {
             "685fc8e5275fbbc4fe9a8f4d": [
@@ -187,12 +318,29 @@
                         "count": 3
                     }
                 ]
+            ],
+            "68787c80dcaa361d6c05a4fd": [
+                [
+                    {
+                        "_tpl": "62a0a16d0b9d3c46de5b6e97",
+                        "count": 1
+                    },
+                    {
+                        "_tpl": "57347d5f245977448b40fa81",
+                        "count": 2
+                    },
+                    {
+                        "_tpl": "57347da92459774491567cf5",
+                        "count": 1
+                    }
+                ]
             ]
         },
         "loyal_level_items": {
             "685fc8e5275fbbc4fe9a8f4d": 4,
             "68629893177a9fbf3542ef58": 3,
-            "686b29df4475265d5005bb3c": 1
+            "686b29df4475265d5005bb3c": 1,
+            "68787c80dcaa361d6c05a4fd": 3
         }
     },
     "PRAPOR": {
