@@ -126,9 +126,15 @@ class epicItemClass {
             if (fileData._id === "5fbbfacda56d053a3543f799") {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("6875f48210e047d487e43052");
             } //Manually pushing A-TEC flash hider to MCX barrels
-            if (fileData._id === "68683cf77880574d9637afc6") {
+            if (fileData._id === "5fb65363d1409e5ca04b54f5") {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("686ad244771ad06c4fd8c970", "686ad2e1cb1cd4ac811bfe81", "686d61367b65e4565ddeb659", "686d613f44fd735790193ee4");
-            } //Manually pushing Suppressors to FNX Barrel
+            } //Manually pushing Suppressors to .45 ACP Vector Barrels
+            if (fileData._id === "5fb653962b1b027b1f50bd03") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("686ad244771ad06c4fd8c970", "686ad2e1cb1cd4ac811bfe81", "686d61367b65e4565ddeb659", "686d613f44fd735790193ee4");
+            } //Manually pushing Suppressors to .45 ACP Vector Barrels
+            if (fileData._id === "55d459824bdc2d892f8b4573") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("5ba26b01d4351e0085325a51", "5dfa3d950dee1b22f862eae0", "5c17804b2e2216152006c02f", "5fb6567747ce63734e3fa1dc", "5bc09a30d4351e00367fb7c8", "5c18b90d2e2216152142466b", "5fc0fa362770a0045c59c677", "5894a73486f77426d259076c");
+            } //Manually pushing Iron Sights to the KAC RIS short handguard, for use with the KAC 9.5" barrel.
         }
     }
 }
