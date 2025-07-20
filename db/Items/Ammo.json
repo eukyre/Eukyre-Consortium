@@ -12,21 +12,21 @@
 			"CanSellOnRagfair": true,
 			"Caliber": "Caliber102x22",
 			"Weight": 0.010,
-			"InitialSpeed": 330,
+			"InitialSpeed": 355,
 			"BallisticCoeficient": 0.20,
 			"BulletMassGram": 11.7,
 			"BulletDiameterMilimeters": 10.2,
-			"Damage": 78,
-			"ammoAccr": 0,
-			"ammoRec": 8,
-			"PenetrationPower": 18,
-			"PenetrationPowerDiviation": 0.03,
-			"ArmorDamage": 27,
+			"Damage": 68,
+			"ammoAccr": -2,
+			"ammoRec": 4,
+			"PenetrationPower": 28,
+			"PenetrationPowerDiviation": 0.02,
+			"ArmorDamage": 44,
 			"DurabilityBurnModificator": 1.52,
-			"HeatFactor": 1.05,
+			"HeatFactor": 1.12,
 			"RicochetChance": 0.22,
-			"HeavyBleedingDelta": 0.15,
-			"LightBleedingDelta": 0.35,
+			"HeavyBleedingDelta": 0.11,
+			"LightBleedingDelta": 0.36,
 			"MalfFeedChance": 0.036
 		},
 		"locales": {
@@ -44,23 +44,23 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 751,
-		"handbookPriceRoubles": 256,
+		"fleaPriceRoubles": 230,
+		"handbookPriceRoubles": 145,
 		"addtoTraders": true,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 80
+				"stackObjectsCount": 200
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 5,
+				"count": 1,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 1,
 		"addtoBots": false,
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -88,7 +88,7 @@
 			"ammoRec": 6,
 			"PenetrationPower": 12,
 			"PenetrationPowerDiviation": 0.11,
-			"ArmorDamage": 19,
+			"ArmorDamage": 28,
 			"DurabilityBurnModificator": 1.52,
 			"HeatFactor": 1.0,
 			"RicochetChance": 0.1,
@@ -111,23 +111,23 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 1056,
-		"handbookPriceRoubles": 542,
+		"fleaPriceRoubles": 330,
+		"handbookPriceRoubles": 210,
 		"addtoTraders": true,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 60
+				"stackObjectsCount": 100
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 11,
+				"count": 3,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 4,
+		"loyallevelitems": 3,
 		"addtoBots": false,
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -178,23 +178,23 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 751,
-		"handbookPriceRoubles": 400,
+		"fleaPriceRoubles": 330,
+		"handbookPriceRoubles": 210,
 		"addtoTraders": true,
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 100
+				"stackObjectsCount": 150
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 14,
+				"count": 2,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 3,
+		"loyallevelitems": 2,
 		"addtoBots": false,
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -252,12 +252,12 @@
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 145
+				"stackObjectsCount": 150
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 3,
+				"count": 2,
 				"_tpl": "DOLLARS"
 			}
 		],
@@ -266,6 +266,317 @@
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
 		"Probability": 250
+	},
+	"687b8b75fd434e69a5d76a20": {
+		"itemTplToClone": "5e81f423763d9f754677bf2e",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/40sw/patron_40sw_woodsman.bundle",
+				"rcid": ""
+			},
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.010,
+			"InitialSpeed": 330,
+			"BallisticCoeficient": 0.14,
+			"BulletMassGram": 9.9,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 78,
+			"ammoAccr": -1,
+			"ammoRec": 3,
+			"PenetrationPower": 18,
+			"PenetrationPowerDiviation": 0.07,
+			"ArmorDamage": 26,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.15,
+			"RicochetChance": 0.11,
+			"HeavyBleedingDelta": 0.12,
+			"LightBleedingDelta": 0.20,
+			"MalfFeedChance": 0.036
+		},
+		"locales": {
+			"en": {
+				"name": ".40 S&W Woodsman",
+				"shortName": "WM",
+				"description": "Standard 10.2x22mm (.40 S&W) specialized hunting-style round designed for controlled expansion and deep penetration on soft targets. Engineered to deliver reliable terminal performance with enhanced stopping power and reduced over-penetration."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 441,
+		"handbookPriceRoubles": 220,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 120
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 14
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 8
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 16
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 30
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 20
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 24
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 18
+            }
+        ]
+	},
+	"687b8d7cfc440519506ed342": {
+		"itemTplToClone": "5e81f423763d9f754677bf2e",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/40sw/patron_40sw_rip.bundle",
+				"rcid": ""
+			},
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.010,
+			"InitialSpeed": 325,
+			"BallisticCoeficient": 0.15,
+			"BulletMassGram": 12.6,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 110,
+			"ammoAccr": -5,
+			"ammoRec": 7.5,
+			"PenetrationPower": 6,
+			"PenetrationPowerDiviation": 0.11,
+			"ArmorDamage": 10,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.25,
+			"RicochetChance": 0.05,
+			"HeavyBleedingDelta": 0.45,
+			"LightBleedingDelta": 0.80,
+			"MalfFeedChance": 0.043,
+			"StackMaxSize": 40
+		},
+		"locales": {
+			"en": {
+				"name": ".40 S&W RIP",
+				"shortName": "RIP",
+				"description": "Standard 10.2x22mm (.40 S&W) Radically Invasive Projectile (RIP) rounds designed to maximize soft tissue trauma. These hollow-point rounds fragment on impact, creating multiple wound channels for extreme flesh damage. While highly effective against unarmored targets, their armor penetration is limited. Best used in scenarios focused on stopping power over penetration."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 611,
+		"handbookPriceRoubles": 415,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 80
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 4,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 4
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 8
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 15
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 10
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 12
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 9
+            }
+        ]
+	},
+	"687b919eaaa579212ca2be2a": {
+		"itemTplToClone": "5e81f423763d9f754677bf2e",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/40sw/patron_40sw_xp.bundle",
+				"rcid": ""
+			},
+			"ExaminedByDefault": true,
+			"CanSellOnRagfair": true,
+			"Caliber": "Caliber102x22",
+			"Weight": 0.011,
+			"InitialSpeed": 415,
+			"BallisticCoeficient": 0.19,
+			"BulletMassGram": 12.6,
+			"BulletDiameterMilimeters": 10.2,
+			"Damage": 49,
+			"ammoAccr": -2,
+			"ammoRec": 9.3,
+			"PenetrationPower": 46,
+			"PenetrationPowerDiviation": 0.02,
+			"ArmorDamage": 55,
+			"DurabilityBurnModificator": 1.52,
+			"HeatFactor": 1.25,
+			"RicochetChance": 0.18,
+			"HeavyBleedingDelta": 0.38,
+			"LightBleedingDelta": 0.15,
+			"MalfFeedChance": 0.043,
+			"StackMaxSize": 40
+		},
+		"locales": {
+			"en": {
+				"name": ".40 S&W Xtreme Penetrator",
+				"shortName": "XP",
+				"description": "Standard 10.2x22mm (.40 S&W) High-velocity rounds engineered for enhanced armor penetration. Featuring hardened penetrator cores, these rounds sacrifice some flesh damage to reliably defeat light and medium body armor."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 842,
+		"handbookPriceRoubles": 401,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 60
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 5,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 4
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 8
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 11
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+                "Probability": 10
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 12
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+                "Probability": 9
+            }
+        ]
 	},
 	"68561ab84857b945e0ce85e9": {
 		"itemTplToClone": "5fc382b6d6fa9c00c571bbc3",
