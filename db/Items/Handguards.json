@@ -1331,5 +1331,395 @@
 				"Probability": 2
 			}
 		]
+	},
+	"687c0a7741b82016b5c57247": {
+		"itemTplToClone": "5ea16ada09aa976f2e7a51be",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/Radian/handguard_radian_long_blk.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 8,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Radian Weapons Model 1 14 inch handguard",
+				"shortName": "Model 1 14\"",
+				"description": "The Radian Model 1 handguard is a CNC Machined handguard that is able to accept M-LOK rail accessories alongside having a top-mounted picatinny rail to allow for the installation of tactical devices and iron sights. Manufactured by Radian."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 41747,
+		"handbookPriceRoubles": 14592,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"687c0aa0317d5657d0dca3cc": {
+		"itemTplToClone": "5ea16ada09aa976f2e7a51be",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/Radian/handguard_radian_long_fde.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 8,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Radian Weapons Model 1 14 inch handguard (FDE)",
+				"shortName": "Model 1 14\"",
+				"description": "The Radian Model 1 handguard is a CNC Machined handguard that is able to accept M-LOK rail accessories alongside having a top-mounted picatinny rail to allow for the installation of tactical devices and iron sights. Manufactured by Radian. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 41747,
+		"handbookPriceRoubles": 14592,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"687c0abd45582ab16456c7c5": {
+		"itemTplToClone": "5ea16ada09aa976f2e7a51be",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/Radian/handguard_radian_long_odg.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 8,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Radian Weapons Model 1 14 inch handguard (Olive Drab)",
+				"shortName": "Model 1 14\"",
+				"description": "The Radian Model 1 handguard is a CNC Machined handguard that is able to accept M-LOK rail accessories alongside having a top-mounted picatinny rail to allow for the installation of tactical devices and iron sights. Manufactured by Radian. Olive Drab version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 41747,
+		"handbookPriceRoubles": 14592,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"687ce2e17011509b0d88e123": {
+		"itemTplToClone": "5ea16acdfadf1d18c87b0784",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/Radian/handguard_radian_short_blk.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 7,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Radian Weapons Model 1 8.5 inch handguard",
+				"shortName": "Model 1 8.5\"",
+				"description": "The Radian Model 1 handguard is a CNC Machined handguard that is able to accept M-LOK rail accessories alongside having a top-mounted picatinny rail to allow for the installation of tactical devices and iron sights. Manufactured by Radian."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 29587,
+		"handbookPriceRoubles": 7857,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"687ce3e4183fe6f9566aa5d8": {
+		"itemTplToClone": "5ea16acdfadf1d18c87b0784",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/Radian/handguard_radian_short_fde.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 7,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Radian Weapons Model 1 8.5 inch handguard (FDE)",
+				"shortName": "Model 1 8.5\"",
+				"description": "The Radian Model 1 handguard is a CNC Machined handguard that is able to accept M-LOK rail accessories alongside having a top-mounted picatinny rail to allow for the installation of tactical devices and iron sights. Manufactured by Radian. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 29587,
+		"handbookPriceRoubles": 7857,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"687ce3ef8157d8e7889a22b2": {
+		"itemTplToClone": "5ea16acdfadf1d18c87b0784",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/Radian/handguard_radian_short_odg.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 7,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Radian Weapons Model 1 8.5 inch handguard (Olive Drab)",
+				"shortName": "Model 1 8.5\"",
+				"description": "The Radian Model 1 handguard is a CNC Machined handguard that is able to accept M-LOK rail accessories alongside having a top-mounted picatinny rail to allow for the installation of tactical devices and iron sights. Manufactured by Radian. Olive Drab version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14592,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 29587,
+		"handbookPriceRoubles": 7857,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }

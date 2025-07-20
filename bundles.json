@@ -33,6 +33,30 @@
             ]
         },
         {
+            "key": "Ammo/40sw/patron_40sw_woodsman.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Ammo/40sw/patron_40sw_rip.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Ammo/40sw/patron_40sw_xp.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Ammo/338lm/patron_86x70_rip.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -982,6 +1006,95 @@
                 "shaders",
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/radian_common.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/handguard_radian_long_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/handguard_radian_long_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/handguard_radian_long_odg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/handguard_radian_short_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/handguard_radian_short_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/Radian/handguard_radian_short_odg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Receivers/reciever_radian_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Receivers/reciever_radian_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Receivers/reciever_radian_odg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Handguards/Radian/radian_common.bundle"
             ]
         }
     ]
