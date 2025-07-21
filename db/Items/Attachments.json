@@ -1111,5 +1111,163 @@
 				"Probability": 1
 			}
 		]
+	},
+	"687e09aa7e70e1e285c59d4e": {
+		"itemTplToClone": "570fd721d2720bc5458b4596",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_all_holosun_510c_blk.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true,
+			"Slots": [],
+			"AimSensitivity": [
+				[
+					0.85
+				]
+			],
+			"ModesCount": [
+				1
+			],
+			"Zooms": [
+				[
+					1
+				]
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Holosun HE510C reflex sight",
+				"shortName": "HE510C",
+				"description": "The Holosun HE510C is a versatile open reflex sight built for speed and adaptability in dynamic engagements. Manufactured by Holosun. <color=#48a600><b>Donated by Jeri_.</b></color>"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 16580,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 19572,
+		"handbookPriceRoubles": 11000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"687e0ad6c6789ae4fd6855b9": {
+		"itemTplToClone": "570fd721d2720bc5458b4596",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "MOD_REFLEXSIGHT",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Optics/scope_all_holosun_510c_fde.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true,
+			"Slots": [],
+			"AimSensitivity": [
+				[
+					0.85
+				]
+			],
+			"ModesCount": [
+				1
+			],
+			"Zooms": [
+				[
+					1
+				]
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Holosun HE510C-GR reflex sight (FDE)",
+				"shortName": "HE510C-GR",
+				"description": "The Holosun HE510C-GR is a versatile open reflex sight built for speed and adaptability in dynamic engagements. Manufactured by Holosun. <color=#9c8638><b>Flat Dark Earth version.</b></color> <color=#48a600><b>Donated by Jeri_.</b></color>"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 16580,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 19572,
+		"handbookPriceRoubles": 11000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
