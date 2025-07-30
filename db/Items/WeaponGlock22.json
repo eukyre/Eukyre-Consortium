@@ -59,7 +59,16 @@
 								{
 									"Shift": 0,
 									"Filter": [
-										"68509710f0df4dbc5b0ff7fe"
+										"68509710f0df4dbc5b0ff7fe",
+										"5a9685b1a2750c0032157104",
+										"5a6f5f078dc32e00094b97dd",
+										"5a702d198dc32e000b452fc3",
+										"5a7033908dc32e000a311392",
+										"5a7afa25e899ef00135e31b0",
+										"5a71e22f8dc32e00094b97f4",
+										"5a71e4f48dc32e001207fb26",
+										"6880ca841783495925bbd7ed",
+										"6880c7f2d7270a23770b742d"
 									]
 								}
 							]
@@ -168,7 +177,10 @@
 										"6851add2caf8415c3bb32142",
 										"6851ab968c52422fbf785f59",
 										"6851a9c7efa6d303c471beb2",
-										"6851a7436b5a01959e6f54f9"
+										"6851a7436b5a01959e6f54f9",
+										"687b8b75fd434e69a5d76a20",
+										"687b8d7cfc440519506ed342",
+										"687b919eaaa579212ca2be2a"
 									]
 								}
 							]
@@ -308,7 +320,7 @@
 			"handbookParentId": "MOD_MAGAZINE",
 			"overrideProperties": {
 				"Prefab": {
-					"path": "assets/content/items/mods/magazines/mag_glock_glock_21_std_1143x23_13.bundle",
+					"path": "assets/content/items/mods/magazines/mag_glock_glock_std_9x19_17.bundle",
 					"rcid": ""
 				},
 				"Cartridges": [
@@ -324,7 +336,10 @@
 										"6851add2caf8415c3bb32142",
 										"6851ab968c52422fbf785f59",
 										"6851a9c7efa6d303c471beb2",
-										"6851a7436b5a01959e6f54f9"
+										"6851a7436b5a01959e6f54f9",
+										"687b8b75fd434e69a5d76a20",
+										"687b8d7cfc440519506ed342",
+										"687b919eaaa579212ca2be2a"
 									]
 								}
 							]
@@ -392,7 +407,7 @@
 			"handbookParentId": "MOD_MAGAZINE",
 			"overrideProperties": {
 				"Prefab": {
-					"path": "assets/content/items/mods/magazines/mag_glock_kriss_magex_g30_1143x23_30.bundle",
+					"path": "assets/content/items/mods/magazines/mag_glock_glock_big_stick_9x19_33.bundle",
 					"rcid": ""
 				},
 				"Cartridges": [
@@ -408,7 +423,10 @@
 										"6851add2caf8415c3bb32142",
 										"6851ab968c52422fbf785f59",
 										"6851a9c7efa6d303c471beb2",
-										"6851a7436b5a01959e6f54f9"
+										"6851a7436b5a01959e6f54f9",
+										"687b8b75fd434e69a5d76a20",
+										"687b8d7cfc440519506ed342",
+										"687b919eaaa579212ca2be2a"
 									]
 								}
 							]
