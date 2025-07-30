@@ -120,7 +120,7 @@
         "ModdableItemBlacklist": [],
         "fleaPriceRoubles": 31528,
         "handbookPriceRoubles": 8573,
-        "addtoTraders": false,
+        "addtoTraders": true,
         "traderId": "PEACEKEEPER",
         "traderItems": [
             {
