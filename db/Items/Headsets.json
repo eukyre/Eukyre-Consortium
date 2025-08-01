@@ -262,5 +262,347 @@
         "masterySections": [],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "688aeef2c5d263a8c35b1f34": {
+        "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Clothing/Headsets/headset_opscore_blk.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true,
+            "ConflictingItems": [
+                "5a16b9fffcdbcb0176308b34",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c06c6a80db834001b735491",
+                "59e7708286f7742cbd762753",
+                "5b4327aa5acfc400175496e0",
+                "618aef6d0a5a59657e5f55ee",
+                "60b52e5bc7d8103275739d67",
+                "5d96141523f0ea1b7f2aacab"
+            ],
+            "Weight": 0.426,
+			"ClientPlayerCompressorSendLevel": -7,
+			"CompressorAttack": 35,
+			"CompressorGain": 8,
+			"CompressorRelease": 160,
+			"CompressorThreshold": -24,
+			"Distortion": 0.05,
+			"DryVolume": -60,
+			"EQBand1Frequency": 307,
+			"EQBand1Gain": 1.15,
+			"EQBand1Q": 1.2,
+			"EQBand2Frequency": 2500,
+			"EQBand2Gain": 1.2,
+			"EQBand2Q": 0.5,
+			"EQBand3Frequency": 4861,
+			"EQBand3Gain": 1.2,
+			"EQBand3Q": 0.6,
+			"EffectsReturnsCompressorSendLevel": -80,
+			"EffectsReturnsGroupVolume": -8,
+			"EnvCommonCompressorSendLevel": -8.5,
+			"EnvNatureCompressorSendLevel": -7,
+			"EnvTechnicalCompressorSendLevel": -15.5,
+			"GunsCompressorSendLevel": -7,
+			"HeadphonesMixerVolume": -7,
+			"HighpassFreq": 200,
+			"HighpassResonance": 2.2,
+			"LowpassFreq": 22000,
+			"RolloffMultiplier": 1.135
+        },
+        "locales": {
+            "en": {
+                "name": "Ops-Core AMP headset (Black Camo)",
+                "shortName": "AMP",
+                "description": "Produced by Gentex and mounted to their optional arc rail adapter, this headset provides world class audio quality and hearing protection utilizing Gentex's 3D hear through technology."
+            }
+        },
+        "clearClonedProps": false, 
+        "addtoInventorySlots": [
+            "Earpiece"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 72000,
+		"handbookPriceRoubles": 36000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 124,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+        "addtoBots": false,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 20
+			}
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "688aefa52ef2321b6af2c455": {
+        "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Clothing/Headsets/headset_opscore_amp_fde.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true,
+            "ConflictingItems": [
+                "5a16b9fffcdbcb0176308b34",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c06c6a80db834001b735491",
+                "59e7708286f7742cbd762753",
+                "5b4327aa5acfc400175496e0",
+                "618aef6d0a5a59657e5f55ee",
+                "60b52e5bc7d8103275739d67",
+                "5d96141523f0ea1b7f2aacab"
+            ],
+            "Weight": 0.426,
+			"ClientPlayerCompressorSendLevel": -7,
+			"CompressorAttack": 35,
+			"CompressorGain": 8,
+			"CompressorRelease": 160,
+			"CompressorThreshold": -24,
+			"Distortion": 0.05,
+			"DryVolume": -60,
+			"EQBand1Frequency": 307,
+			"EQBand1Gain": 1.15,
+			"EQBand1Q": 1.2,
+			"EQBand2Frequency": 2500,
+			"EQBand2Gain": 1.2,
+			"EQBand2Q": 0.5,
+			"EQBand3Frequency": 4861,
+			"EQBand3Gain": 1.2,
+			"EQBand3Q": 0.6,
+			"EffectsReturnsCompressorSendLevel": -80,
+			"EffectsReturnsGroupVolume": -8,
+			"EnvCommonCompressorSendLevel": -8.5,
+			"EnvNatureCompressorSendLevel": -7,
+			"EnvTechnicalCompressorSendLevel": -15.5,
+			"GunsCompressorSendLevel": -7,
+			"HeadphonesMixerVolume": -7,
+			"HighpassFreq": 200,
+			"HighpassResonance": 2.2,
+			"LowpassFreq": 22000,
+			"RolloffMultiplier": 1.135
+        },
+        "locales": {
+            "en": {
+                "name": "Ops-Core AMP headset (Coyote Tan)",
+                "shortName": "AMP",
+                "description": "Produced by Gentex and mounted to their optional arc rail adapter, this headset provides world class audio quality and hearing protection utilizing Gentex's 3D hear through technology."
+            }
+        },
+        "clearClonedProps": false, 
+        "addtoInventorySlots": [
+            "Earpiece"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 72000,
+		"handbookPriceRoubles": 36000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 124,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+        "addtoBots": false,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 20
+			}
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "688aefc150564afd4532b67f": {
+        "itemTplToClone": "5aa2ba71e5b5b000137b758f",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Clothing/Headsets/headset_opscore_amp_erdl.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true,
+            "ConflictingItems": [
+                "5a16b9fffcdbcb0176308b34",
+                "66b5f6a28ca68c6461709ed8",
+                "66b5f69ea7f72d197e70bcdb",
+                "5c06c6a80db834001b735491",
+                "59e7708286f7742cbd762753",
+                "5b4327aa5acfc400175496e0",
+                "618aef6d0a5a59657e5f55ee",
+                "60b52e5bc7d8103275739d67",
+                "5d96141523f0ea1b7f2aacab"
+            ],
+            "Weight": 0.426,
+			"ClientPlayerCompressorSendLevel": -7,
+			"CompressorAttack": 35,
+			"CompressorGain": 8,
+			"CompressorRelease": 160,
+			"CompressorThreshold": -24,
+			"Distortion": 0.05,
+			"DryVolume": -60,
+			"EQBand1Frequency": 307,
+			"EQBand1Gain": 1.15,
+			"EQBand1Q": 1.2,
+			"EQBand2Frequency": 2500,
+			"EQBand2Gain": 1.2,
+			"EQBand2Q": 0.5,
+			"EQBand3Frequency": 4861,
+			"EQBand3Gain": 1.2,
+			"EQBand3Q": 0.6,
+			"EffectsReturnsCompressorSendLevel": -80,
+			"EffectsReturnsGroupVolume": -8,
+			"EnvCommonCompressorSendLevel": -8.5,
+			"EnvNatureCompressorSendLevel": -7,
+			"EnvTechnicalCompressorSendLevel": -15.5,
+			"GunsCompressorSendLevel": -7,
+			"HeadphonesMixerVolume": -7,
+			"HighpassFreq": 200,
+			"HighpassResonance": 2.2,
+			"LowpassFreq": 22000,
+			"RolloffMultiplier": 1.135
+        },
+        "locales": {
+            "en": {
+                "name": "Ops-Core AMP headset (Coyote Tan Camo)",
+                "shortName": "AMP",
+                "description": "Produced by Gentex and mounted to their optional arc rail adapter, this headset provides world class audio quality and hearing protection utilizing Gentex's 3D hear through technology."
+            }
+        },
+        "clearClonedProps": false, 
+        "addtoInventorySlots": [
+            "Earpiece"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 72000,
+		"handbookPriceRoubles": 36000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 124,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+        "addtoBots": false,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 20
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 20
+			}
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }

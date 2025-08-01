@@ -1216,6 +1216,41 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Clothing/Headsets/opscore_amp_common.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Headsets/headset_opscore_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Clothing/Headsets/opscore_amp_common.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Headsets/headset_opscore_amp_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Clothing/Headsets/opscore_amp_common.bundle"
+            ]
+        },
+        {
+            "key": "Clothing/Headsets/headset_opscore_amp_erdl.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Clothing/Headsets/opscore_amp_common.bundle"
+            ]
         }
     ]
 }

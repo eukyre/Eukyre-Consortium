@@ -10,7 +10,8 @@
     "loadBefore": [
         "EpicRangeTime-Weapons",
         "Echoes-of-Tarkov---Requisitions",
-        "MoxoPixel-TacticalGearComponent"
+        "MoxoPixel-TacticalGearComponent",
+        "WTT-Armory"
     ],
     "incompatibilities":[
         "Blahaj"
