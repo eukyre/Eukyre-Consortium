@@ -161,6 +161,24 @@ export class epicItemClass {
                     "5fc0fa362770a0045c59c677",
                     "5894a73486f77426d259076c");
             } //Manually pushing Iron Sights to the KAC RIS short handguard, for use with the KAC 9.5" barrel.
+            if (fileData._id === "2e681ada9836f6e030080191") { 
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6859411da7ac91f2e4088de4",
+                    "68922e39bacf39d24ca68ddf",
+                    "687e0ad6c6789ae4fd6855b9",
+                    "687e09aa7e70e1e285c59d4e",
+                    "68642e0200397ba2b9e4ea9a",
+                    "685d43c384852051ef64e4e8"
+                );
+            } //Pushing my Optics to Epic's FAST FRT Riser
+            if (fileData._id === "e1543def58291668bac8e2c8") {
+                fileData._props.Slots[0]._props.filters[0].Filter.push("6859411da7ac91f2e4088de4",
+                    "68922e39bacf39d24ca68ddf",
+                    "687e0ad6c6789ae4fd6855b9",
+                    "687e09aa7e70e1e285c59d4e",
+                    "68642e0200397ba2b9e4ea9a",
+                    "685d43c384852051ef64e4e8"
+                );
+            } //Pushing my Optics to Epic's FAST FRT Riser (FDE)
         }
     }
 }
