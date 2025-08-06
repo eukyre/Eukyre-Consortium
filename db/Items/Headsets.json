@@ -286,6 +286,7 @@
                 "5d96141523f0ea1b7f2aacab"
             ],
             "Weight": 0.426,
+            "AmbientVolume": -65,
 			"ClientPlayerCompressorSendLevel": -7,
 			"CompressorAttack": 35,
 			"CompressorGain": 8,
@@ -295,12 +296,12 @@
 			"DryVolume": -60,
 			"EQBand1Frequency": 307,
 			"EQBand1Gain": 1.15,
-			"EQBand1Q": 1.2,
+			"EQBand1Q": 1.35,
 			"EQBand2Frequency": 2500,
-			"EQBand2Gain": 1.2,
+			"EQBand2Gain": 1.35,
 			"EQBand2Q": 0.5,
 			"EQBand3Frequency": 4861,
-			"EQBand3Gain": 1.2,
+			"EQBand3Gain": 1.35,
 			"EQBand3Q": 0.6,
 			"EffectsReturnsCompressorSendLevel": -80,
 			"EffectsReturnsGroupVolume": -8,
@@ -318,7 +319,7 @@
             "en": {
                 "name": "Ops-Core AMP headset (Black Camo)",
                 "shortName": "AMP",
-                "description": "Produced by Gentex and mounted to their optional arc rail adapter, this headset provides world class audio quality and hearing protection utilizing Gentex's 3D hear through technology."
+                "description": "Cutting-edge tactical headset used by top-tier operators for battlefield awareness. Offers active electronic hearing protection, amplifying quiet sounds like footsteps and distant reloads while dampening gunfire."
             }
         },
         "clearClonedProps": false, 
@@ -343,7 +344,7 @@
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 4,
         "addtoBots": false,
         "addtoStaticLootContainers": true,
         "StaticLootContainers": [
@@ -400,6 +401,7 @@
                 "5d96141523f0ea1b7f2aacab"
             ],
             "Weight": 0.426,
+            "AmbientVolume": -65,
 			"ClientPlayerCompressorSendLevel": -7,
 			"CompressorAttack": 35,
 			"CompressorGain": 8,
@@ -409,12 +411,12 @@
 			"DryVolume": -60,
 			"EQBand1Frequency": 307,
 			"EQBand1Gain": 1.15,
-			"EQBand1Q": 1.2,
+			"EQBand1Q": 1.35,
 			"EQBand2Frequency": 2500,
-			"EQBand2Gain": 1.2,
+			"EQBand2Gain": 1.35,
 			"EQBand2Q": 0.5,
 			"EQBand3Frequency": 4861,
-			"EQBand3Gain": 1.2,
+			"EQBand3Gain": 1.35,
 			"EQBand3Q": 0.6,
 			"EffectsReturnsCompressorSendLevel": -80,
 			"EffectsReturnsGroupVolume": -8,
@@ -432,7 +434,7 @@
             "en": {
                 "name": "Ops-Core AMP headset (Coyote Tan)",
                 "shortName": "AMP",
-                "description": "Produced by Gentex and mounted to their optional arc rail adapter, this headset provides world class audio quality and hearing protection utilizing Gentex's 3D hear through technology."
+                "description": "Cutting-edge tactical headset used by top-tier operators for battlefield awareness. Offers active electronic hearing protection, amplifying quiet sounds like footsteps and distant reloads while dampening gunfire."
             }
         },
         "clearClonedProps": false, 
@@ -457,7 +459,7 @@
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 4,
         "addtoBots": false,
         "addtoStaticLootContainers": true,
         "StaticLootContainers": [
@@ -514,6 +516,7 @@
                 "5d96141523f0ea1b7f2aacab"
             ],
             "Weight": 0.426,
+            "AmbientVolume": -65,
 			"ClientPlayerCompressorSendLevel": -7,
 			"CompressorAttack": 35,
 			"CompressorGain": 8,
@@ -523,12 +526,12 @@
 			"DryVolume": -60,
 			"EQBand1Frequency": 307,
 			"EQBand1Gain": 1.15,
-			"EQBand1Q": 1.2,
+			"EQBand1Q": 1.35,
 			"EQBand2Frequency": 2500,
-			"EQBand2Gain": 1.2,
+			"EQBand2Gain": 1.35,
 			"EQBand2Q": 0.5,
 			"EQBand3Frequency": 4861,
-			"EQBand3Gain": 1.2,
+			"EQBand3Gain": 1.35,
 			"EQBand3Q": 0.6,
 			"EffectsReturnsCompressorSendLevel": -80,
 			"EffectsReturnsGroupVolume": -8,
@@ -546,7 +549,7 @@
             "en": {
                 "name": "Ops-Core AMP headset (Coyote Tan Camo)",
                 "shortName": "AMP",
-                "description": "Produced by Gentex and mounted to their optional arc rail adapter, this headset provides world class audio quality and hearing protection utilizing Gentex's 3D hear through technology."
+                "description": "Cutting-edge tactical headset used by top-tier operators for battlefield awareness. Offers active electronic hearing protection, amplifying quiet sounds like footsteps and distant reloads while dampening gunfire."
             }
         },
         "clearClonedProps": false, 
@@ -571,7 +574,7 @@
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 4,
         "addtoBots": false,
         "addtoStaticLootContainers": true,
         "StaticLootContainers": [
