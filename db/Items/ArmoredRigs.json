@@ -786,37 +786,37 @@
                         }
                     },
                     {
-                        "_id": "688545a79d6685946b82508a",
+                        "_id": "6893a58eeaf3cc8d8b158ae0",
                         "_tpl": "656fb21fa0dce000a2020f7c",
                         "slotId": "Front_plate",
                         "parentId": "688545a07b51d49c203ef59c"
                     },
                     {
-                        "_id": "688545a674fc7efbed5de7d0",
+                        "_id": "6893a58d459cde9971028acf",
                         "_tpl": "656fb21fa0dce000a2020f7c",
                         "slotId": "Back_plate",
                         "parentId": "688545a07b51d49c203ef59c"
                     },
                     {
-                        "_id": "68866c7015e71c5c2fd6fe2d",
+                        "_id": "6893a58d3fd6db809bad382d",
                         "_tpl": "6572eb0e55beba16bc04079f",
                         "slotId": "Soft_armor_front",
                         "parentId": "688545a07b51d49c203ef59c"
                     },
                     {
-                        "_id": "68866c718e4da3859ba3839f",
+                        "_id": "6893a58c9ef7c80eebc6f7db",
                         "_tpl": "6572eb1b04ee6483ef039882",
                         "slotId": "Soft_armor_back",
                         "parentId": "688545a07b51d49c203ef59c"
                     },
                     {
-                        "_id": "68866c7faffc9c911c667064",
+                        "_id": "6893a58bd301d83d564829af",
                         "_tpl": "6572eb3004ee6483ef039886",
                         "slotId": "Soft_armor_left",
                         "parentId": "688545a07b51d49c203ef59c"
                     },
                     {
-                        "_id": "68866c875c558a74c73247db",
+                        "_id": "6893a58a36d8650b94939bdf",
                         "_tpl": "6572eb3b04ee6483ef03988a",
                         "slotId": "soft_armor_right",
                         "parentId": "688545a07b51d49c203ef59c"
@@ -834,7 +834,7 @@
         "handbookParentId": "5b5f701386f774093f2ecf0f",
         "overrideProperties": {
             "Prefab": {
-                "path": "Clothing/bodyArmor/armor_strandhogg_fde.bundle",
+                "path": "Clothing/bodyArmor/armor_strandhogg_mc.bundle",
                 "rcid": ""
             },
             "Slots": [
@@ -1072,7 +1072,7 @@
             {
                 "_changeWeaponName": false,
                 "_encyclopedia": "68866d2dbd1bd79535bac08b",
-                "_id": "688545a519f07c418e6b78d8",
+                "_id": "6893a54bb0dbc88897f01554",
                 "_items": [
                     {
                         "_id": "68866d2275900eb452fa9b78",
