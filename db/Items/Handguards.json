@@ -252,7 +252,13 @@
                                     "651a8e529829226ceb67c319",
                                     "651a8bf3a8520e48047bf708",
                                     "665d5d9e338229cfd6078da1",
-                                    "665edce564fb556f940ab32a"
+                                    "665edce564fb556f940ab32a",
+									"6893d1e2483f058199f2e199",
+									"6893d31fca58c9d45599e903",
+									"6893d333cb3f8611941742d3",
+									"6893d360fa62405a6249629b",
+									"6893d3810e4a42c4c08b3eb4",
+									"6893d391a029e7f8210fa511"
                                 ],
                                 "Shift": 0
 							}
@@ -459,7 +465,13 @@
                                     "651a8e529829226ceb67c319",
                                     "651a8bf3a8520e48047bf708",
                                     "665d5d9e338229cfd6078da1",
-                                    "665edce564fb556f940ab32a"
+                                    "665edce564fb556f940ab32a",
+									"6893d1e2483f058199f2e199",
+									"6893d31fca58c9d45599e903",
+									"6893d333cb3f8611941742d3",
+									"6893d360fa62405a6249629b",
+									"6893d3810e4a42c4c08b3eb4",
+									"6893d391a029e7f8210fa511"
                                 ],
                                 "Shift": 0
 							}
@@ -666,7 +678,13 @@
                                     "651a8e529829226ceb67c319",
                                     "651a8bf3a8520e48047bf708",
                                     "665d5d9e338229cfd6078da1",
-                                    "665edce564fb556f940ab32a"
+                                    "665edce564fb556f940ab32a",
+									"6893d1e2483f058199f2e199",
+									"6893d31fca58c9d45599e903",
+									"6893d333cb3f8611941742d3",
+									"6893d360fa62405a6249629b",
+									"6893d3810e4a42c4c08b3eb4",
+									"6893d391a029e7f8210fa511"
                                 ],
                                 "Shift": 0
 							}
@@ -875,7 +893,13 @@
                                     "651a8e529829226ceb67c319",
                                     "651a8bf3a8520e48047bf708",
                                     "665d5d9e338229cfd6078da1",
-                                    "665edce564fb556f940ab32a"
+                                    "665edce564fb556f940ab32a",
+									"6893d1e2483f058199f2e199",
+									"6893d31fca58c9d45599e903",
+									"6893d333cb3f8611941742d3",
+									"6893d360fa62405a6249629b",
+									"6893d3810e4a42c4c08b3eb4",
+									"6893d391a029e7f8210fa511"
                                 ],
                                 "Shift": 0
 							}
@@ -1190,7 +1214,13 @@
 									"651a8bf3a8520e48047bf708",
 									"651a8e529829226ceb67c319",
 									"665d5d9e338229cfd6078da1",
-									"665edce564fb556f940ab32a"
+									"665edce564fb556f940ab32a",
+									"6893d1e2483f058199f2e199",
+									"6893d31fca58c9d45599e903",
+									"6893d333cb3f8611941742d3",
+									"6893d360fa62405a6249629b",
+									"6893d3810e4a42c4c08b3eb4",
+									"6893d391a029e7f8210fa511"
 								],
 								"Shift": 0
 							}
@@ -2174,6 +2204,280 @@
 		"loyallevelitems": 3,
 		"fleaPriceRoubles": 18657,
 		"handbookPriceRoubles": 12200,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"689427ba091facbbfcf4e06f": {
+		"itemTplToClone": "5ea16acdfadf1d18c87b0784",
+		"parentId": "HANDGUARD",
+		"handbookParentId": "MOD_HANDGUARD",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Handguards/hg_raider_m10.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1",
+				"5a34fbadc4a28200741e230a",
+				"5ae30e795acfc408fb139a0b",
+				"56ea8d2fd2720b7c698b4570"
+			],
+			"Ergonomics": 7,
+			"CoolFactor": 1.03,
+			"HeatFactor": 0.969,
+			"Slots": [
+				{
+					"_name": "mod_tactical_000",
+					"_id": "689427c13e093b69844ec826",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5d10b49bd7ad1a1a560708b0",
+									"5c06595c0db834001a66af6c",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical_001",
+					"_id": "689427c03a59e247f81aaf80",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5b3a337e5acfc4704b4a19a0",
+									"57d17e212459775a1179a0f5",
+									"6267c6396b642f77f56f5c1c",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065",
+									"646f6322f43d0c5d62063715"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical_002",
+					"_id": "689427c59849d341b15a46eb",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5b3a337e5acfc4704b4a19a0",
+									"57d17e212459775a1179a0f5",
+									"6267c6396b642f77f56f5c1c",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065",
+									"646f6322f43d0c5d62063715"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "689427c782128c7d7071cd6b",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "689427cae311b37550155660",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57cffb66245977632f391a99",
+									"57cffcd624597763133760c5",
+									"57cffcdd24597763f5110006",
+									"57cffce524597763b31685d8",
+									"5b7be4895acfc400170e2dd5",
+									"651a8bf3a8520e48047bf708",
+									"651a8e529829226ceb67c319",
+									"665d5d9e338229cfd6078da1",
+									"665edce564fb556f940ab32a",
+									"6893d1e2483f058199f2e199",
+									"6893d31fca58c9d45599e903",
+									"6893d333cb3f8611941742d3",
+									"6893d360fa62405a6249629b",
+									"6893d3810e4a42c4c08b3eb4",
+									"6893d391a029e7f8210fa511"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope",
+					"_id": "689427cc11ced26951a15c10",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical_003",
+					"_id": "689427dd7d2212305f0b7b34",
+					"_parent": "689427ba091facbbfcf4e06f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a800961159bd4315e3a1657",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5b3a337e5acfc4704b4a19a0",
+									"57d17e212459775a1179a0f5",
+									"6267c6396b642f77f56f5c1c",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065",
+									"646f6322f43d0c5d62063715",
+									"676175bb48fa5c377e06fc36"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 BCM Raider M10 10 inch M-LOK handguard",
+				"shortName": "Raider 10\"",
+				"description": "Lightweight, mission-ready 10-inch free-float handguard from Bravo Company Manufacturing. The Raider M10 features M-LOK slots at multiple angles for versatile accessory placement, along with a slim profile for better weapon control in tight quarters."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 171,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 36392,
+		"handbookPriceRoubles": 19420,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
