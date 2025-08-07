@@ -1307,6 +1307,93 @@
                 "Attachments/Optics/scope_romeo9t_common.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Attachments/fOREGRIPS/foregrip_b5_common.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_common.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_rev_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Foregrips/foregrip_b5_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_rev_ct.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Foregrips/foregrip_b5_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_rev_wg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Foregrips/foregrip_b5_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_std_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Foregrips/foregrip_b5_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_std_ct.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Foregrips/foregrip_b5_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Foregrips/foregrip_b5_std_wg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Foregrips/foregrip_b5_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Optics/scope_romeo9t_g33_ftc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Attachments/Optics/scope_romeo9t_common.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/hg_raider_m10.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
