@@ -1351,5 +1351,105 @@
 				"Probability": 1
 			}
 		]
+	},
+	"41e97223a2ad6374a096ae14": {
+		"itemTplToClone": "5c07dd120db834001c39092d",
+		"parentId": "55818ad54bdc2ddc698b4569",
+		"handbookParentId": "5b5f742686f774093e6cb4ff",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Optics/scope_romeo9t_g33_ftc.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems":[
+				"55d5f46a4bdc2d1b198b4567",
+				"5894a81786f77427140b8347",
+				"5ba26b17d4351e00367f9bdd",
+				"5bb20e49d4351e3bac1212de",
+				"5bc09a18d4351e003562b68e",
+				"5c1780312e221602b66cc189",
+				"5c18b9192e2216398b5a8104",
+				"5dfa3d7ac41b2312ea33362a",
+				"5fb6564947ce63734e3fa1da",
+				"5fc0fa957283c4046c58147e",
+				"61817865d3a39d50044c13a4",
+				"275def25d1abe9b101511271"
+			],
+			"Ergonomics": -1.5,
+			"Weight": 0.544
+		},
+		"locales": {
+			"en": {
+				"name": "SIG Sauer ROMEO9T w/ Unity FTC hybrid sight",
+				"shortName": "ROMEO9T FTC",
+				"description": "The FAST FTC OMNI magnifier mount employs a simple force-to-overcome mechanism, stowing the magnifier below the optical sight plane and completely within the footprint of the weapon’s receiver when not in use. UNITY Tactical’s FTC (flip-to-center) technology eliminates the flip-to-side placement of legacy products so users receive all the benefits of magnification when required with no snag hazards or occlusion of sight pictures when stowed. The G33 Magnifier is the selected magnifier of USSOCOM, and is compact and lightweight."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope_000",
+			"mod_scope"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 64000,
+		"handbookPriceRoubles": 35000,
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 50000,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 1600
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M4",
+				"Templates": [
+					"4b81488c78c8a8ac7d37f9b9"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
 	}
 }
