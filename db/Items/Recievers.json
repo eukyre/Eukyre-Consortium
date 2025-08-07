@@ -1182,5 +1182,77 @@
 				"Probability": 1
 			}
 		]
+	},
+	"6894fbb9dfa6c1482801ce66": {
+		"itemTplToClone": "615d8dbd290d254f5e6b2ed6",
+		"parentId": "RECEIVER",
+		"handbookParentId": "MOD_RECEIVER",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Receivers/receiver_glock_17l_mos.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+                "5a6b5f868dc32e000a311389",
+                "5a6b60158dc32e000a31138b",
+                "5a6b5b8a8dc32e001207faf3",
+                "630764fea987397c0816d219",
+				"5a6b5ed88dc32e000c52ec86",
+				"5a6b5e468dc32e001207faf5"
+            ],
+			"ExtraSizeLeft": 1,
+			"Ergonomics": 2.5
+		},
+		"locales": {
+			"en": {
+				"name": "Glock 17L MOS pistol slide",
+				"shortName": "17L",
+				"description": "The MOS (Modular Optic System) long slide designed for Glock 9x19 pistols. Manufactured by Glock."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_reciever"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3460,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 5583,
+		"handbookPriceRoubles": 2211,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }

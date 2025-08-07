@@ -1394,6 +1394,30 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Attachments/Receivers/receiver_glock_17l_mos.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Barrels/barrel_glock_17l.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Mounts/mount_glock_mos_rmr.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }

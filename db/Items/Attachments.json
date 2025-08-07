@@ -1279,6 +1279,7 @@
 				"path": "Attachments/Optics/scope_romeo9t_std_blk.bundle",
 				"rcid": ""
 			},
+			"IsAdjustableOptic": true,
 			"CalibrationDistances": [
 				[
 					50,
@@ -1441,14 +1442,7 @@
 			}
 		],
 		"masteries": false,
-		"masterySections": [
-			{
-				"Name": "M4",
-				"Templates": [
-					"4b81488c78c8a8ac7d37f9b9"
-				]
-			}
-		],
+		"masterySections": [],
 		"addweaponpreset": false,
 		"weaponpresets": []
 	}

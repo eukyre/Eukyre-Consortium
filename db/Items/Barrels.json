@@ -537,5 +537,86 @@
                 "Probability": 1
             }
         ]
+    },
+    "689506983ebf4f1672960303": {
+        "itemTplToClone": "5a6b5f868dc32e000a311389",
+        "parentId": "BARREL",
+        "handbookParentId": "MOD_BARREL",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Barrels/barrel_glock_17l.bundle",
+                "rcid": ""
+            },
+            "Slots": [],
+            "ConflictingItems": [
+                "5a7ad74e51dfba0015068f45",
+                "5a6f5e048dc32e00094b97da",
+                "5a702d198dc32e000b452fc3",
+                "5a7afa25e899ef00135e31b0",
+                "5a6f5f078dc32e00094b97dd",
+                "5a9685b1a2750c0032157104",
+                "63075cc5962d0247b029dc2a",
+                "5a7033908dc32e000a311392",
+                "5a71e22f8dc32e00094b97f4",
+                "5a71e4f48dc32e001207fb26",
+                "615d8dbd290d254f5e6b2ed6"
+            ],
+            "Velocity": -1.88,
+            "Recoil": -4,
+            "Ergonomics": -6
+        },
+        "locales": {
+            "en": {
+                "name": "Glock 17L 9x19 6 inch barrel",
+                "shortName": "G17L 6\"",
+                "description": "A longer 6.02 inch (152.91mm) barrel for the longer slide of the Glock 17L 9x19 pistol."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [
+            "5a7ad74e51dfba0015068f45"
+        ],
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 14,
+                "_tpl": "EUROS"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 8895,
+        "handbookPriceRoubles": 1800,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
     }
 }
