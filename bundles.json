@@ -1426,6 +1426,65 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Attachments/Receivers/reciever_scar_mk20_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Receivers/reciever_scar_mk20_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps", 
+                "Attachments/Receivers/reciever_scar_mk20_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Mounts/mount_mk20_scar_bottom_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/gasBlocks/gas_block_fsb_chopped.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_magpul_moe_sls_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_magpul_moe_sls_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Attachments/Stocks/stock_magpul_moe_sls_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_magpul_moe_sls_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Attachments/Stocks/stock_magpul_moe_sls_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }

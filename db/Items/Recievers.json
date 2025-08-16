@@ -1254,5 +1254,82 @@
 				"Probability": 1
 			}
 		]
+	},
+	"689ce8bfd4370ee552a641da": {
+		"itemTplToClone": "6165aeedfaa1272e431521e3",
+		"parentId": "RECEIVER",
+		"handbookParentId": "MOD_RECEIVER",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Receivers/reciever_scar_mk20_fde.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"618168b350224f204c1da4d8",
+				"6183b0711cb55961fa0fdcad",
+				"61816fcad92c473c770215cc",
+				"61816df1d3a39d50044c139e",
+				"619666f4af1f5202c57a952d",
+				"66ffc6ceb7ff397142017c3a",
+				"66ffc72082d36dec82030c1f",
+				"66ffc903fe9b382596065304",
+				"66ffe811f5d758d71101e89a",
+				"66ffea06132225f0fe061394"
+			],
+			"Weight": 0.7,
+			"ExtraSizeLeft": 3,
+			"Width": 4
+		},
+		"locales": {
+			"en": {
+				"name": "FN SCAR-20S Multi-Caliber upper receiver (FDE)",
+				"shortName": "Mk20",
+				"description": "An upper receiver for the SCAR-20S marksman rifle capable of chambering .308 Winchester and 6.5 Creedmoor, manufactured by Fabrique Nationale Herstal. Features a top rail for installation of additional equipment. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_reciever"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 4700,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 14500,
+		"handbookPriceRoubles": 12220,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
