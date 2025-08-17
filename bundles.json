@@ -1178,38 +1178,6 @@
             ]
         },
         {
-            "key": "Clothing/armoredRigs/item_equipment_avs_mc.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/bodyArmor/armor_strandhogg_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/bodyArmor/armor_strandhogg_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Clothing/bodyArmor/armor_strandhogg_mc.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "assets/content/items/equipment/rig_strandhogg/item_equipment_rig_strandhogg.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1483,6 +1451,22 @@
                 "shaders",
                 "cubemaps",
                 "Attachments/Stocks/stock_magpul_moe_sls_shared.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/ironSights/sight_front_dd_fixed.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/ironSights/sight_rear_dd_fixed.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
