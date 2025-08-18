@@ -601,7 +601,7 @@
 			"Tracer": false,
 			"TracerColor": "red",
 			"TracerDistance": 0,
-			"StackMaxSize": 2500,
+			"StackMaxSize": 40,
 			"ExaminedByDefault": true,
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
