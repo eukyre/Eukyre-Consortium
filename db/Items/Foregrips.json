@@ -10,7 +10,11 @@
                 "rcid": ""
             },
             "Ergonomics": 6,
-            "Recoil": -1.5
+            "Recoil": -1.5,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -95,7 +99,11 @@
                 "rcid": ""
             },
             "Ergonomics": 6,
-            "Recoil": -1.5
+            "Recoil": -1.5,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -180,7 +188,11 @@
                 "rcid": ""
             },
             "Ergonomics": 6,
-            "Recoil": -1.5
+            "Recoil": -1.5,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -265,7 +277,11 @@
                 "rcid": ""
             },
             "Ergonomics": 5.5,
-            "Recoil": -1
+            "Recoil": -1,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -343,7 +359,11 @@
                 "rcid": ""
             },
             "Ergonomics": 5.5,
-            "Recoil": -1
+            "Recoil": -1,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -421,7 +441,11 @@
                 "rcid": ""
             },
             "Ergonomics": 5.5,
-            "Recoil": -1
+            "Recoil": -1,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -499,7 +523,11 @@
                 "rcid": ""
             },
             "Ergonomics": 5.5,
-            "Recoil": -1
+            "Recoil": -1,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -577,7 +605,11 @@
                 "rcid": ""
             },
             "Ergonomics": 5.5,
-            "Recoil": -1
+            "Recoil": -1,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
@@ -655,7 +687,11 @@
                 "rcid": ""
             },
             "Ergonomics": 5.5,
-            "Recoil": -1
+            "Recoil": -1,
+            "ConflictingItems": [
+                "62e7e7bbe6da9612f743f1e0",
+                "5648b62b4bdc2d9d488b4585"
+            ]
         },
         "locales": {
             "en": {
