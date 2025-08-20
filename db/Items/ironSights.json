@@ -1,5 +1,5 @@
 {
-    "68a2078b2e671f56fb898c8c": {
+    "68a364f20e549c7ff68cafdb": {
 		"itemTplToClone": "5bc09a18d4351e003562b68e",
 		"parentId": "55818ac54bdc2d5b648b456e",
 		"handbookParentId": "5b5f746686f77447ec5d7708",
@@ -43,7 +43,18 @@
                 "61713cc4d8e3106d9806c109",
                 "618b9643526131765025ab35",
                 "618bab21526131765025ab3f",
-                "5c86592b2e2216000e69e77c"
+                "5c86592b2e2216000e69e77c",
+				"6897de1182f827c8f199f355",
+				"686b15f7cf5ae78dbd7b950b",
+				"686a950f332bd39442d996c7",
+				"686a959fea53389283823a5e",
+				"686a95d3d23099a58e981e27",
+				"626bb8532c923541184624b4",
+				"5b30b0dc5acfc400153b7124",
+				"63fc449f5bd61c6cf3784a88",
+				"6567e751a715f85433025998",
+				"5d2dc3e548f035404a1a4798",
+				"67641b461c2eb66ade05dba6"
             ],
 			"Ergonomics": 1,
             "sightModType": "iron"
