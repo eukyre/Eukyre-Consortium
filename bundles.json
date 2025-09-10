@@ -201,10 +201,19 @@
             ]
         },
         {
+            "key": "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Mounts/MRDS/mount_base_unity_mrds_blk.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -213,6 +222,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -221,6 +231,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -229,6 +240,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -237,6 +249,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -245,6 +258,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
+                "Attachments/Mounts/MRDS/mount_mrds_shared.bundle",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
@@ -1401,6 +1415,62 @@
         },
         {
             "key": "Attachments/ironSights/sight_rear_dd_fixed.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/ironSights/troy_off_back.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/ironSights/troy_off_front.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Mags/mp5_straight_waffle_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponMP540/mp5_40_suppressor.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponMP540/reciever_mp5_40_std.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponMP540/reciever_mp5_40_sd.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_mk20_ssr_fde.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
