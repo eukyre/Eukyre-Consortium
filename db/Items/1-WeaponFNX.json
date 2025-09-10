@@ -174,7 +174,7 @@
             {
                 "Level2": 75,
                 "Level3": 125,
-                "Name": "57",
+                "Name": "FN FNX",
                 "Templates": [
                     "6868377c7bb1c07772467ee7"
                 ]
@@ -295,7 +295,7 @@
         "traderItems": [
             {
                 "unlimitedCount": true,
-                "stackObjectsCount": 4
+                "stackObjectsCount": 10
             }
         ],
         "barterScheme": [
