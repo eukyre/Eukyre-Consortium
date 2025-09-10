@@ -1277,6 +1277,10 @@
 				"66ffea06132225f0fe061394"
 			],
 			"Weight": 0.7,
+			"Ergonomics": 1,
+			"Recoil": 3,
+			"CoolFactor": 1.007,
+			"HeatFactor": 0.993,
 			"ExtraSizeLeft": 3,
 			"Width": 4
 		},

@@ -743,5 +743,94 @@
         "masterySections": [],
         "addweaponpreset": false,
         "weaponpresets": []
+    },
+    "68bf1d562ea6c565fbd50013": {
+        "itemTplToClone": "61816734d8e3106d9806c1f3",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_mk20_ssr_fde.bundle",
+                "rcid": ""
+            },
+            "Slots": [],
+            "Weight": 0.883,
+            "Width": 2,
+            "Ergonomics": 9,
+            "Recoil": 25.5,
+            "BlocksFolding": true
+        },
+        "locales": {
+            "en": {
+                "name": "FN SCAR 20 SSR enhanced marksman stock (FDE)",
+                "shortName": "Mk20",
+                "description": "A full-metal and rubber padded marksman stock for the SCAR-series rifles, manufactured by Fabrique Nationale Herstal."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 33582,
+        "handbookPriceRoubles": 12422,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 4
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 23578,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 4,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 3
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 3
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
     }
 }

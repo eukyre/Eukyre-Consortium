@@ -1135,5 +1135,108 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68bc9353db8242b93b5cb41e": {
+		"itemTplToClone": "5926c3b286f774640d189b6b",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Mags/mp5_straight_waffle_mag.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true,
+			"Height": 2,
+			"VisibleAmmoRangesString": "1-1",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "68bc935546ddd5989839c5c7",
+					"_parent": "68bc9353db8242b93b5cb41e",
+					"_max_count": 30,
+					"_props": {
+						"filters": [
+							{
+                                "Filter": [
+                                    "6851add2caf8415c3bb32142",
+									"6851ab968c52422fbf785f59",
+									"6851a9c7efa6d303c471beb2",
+									"6851a7436b5a01959e6f54f9",
+									"687b8b75fd434e69a5d76a20",
+									"687b8d7cfc440519506ed342",
+									"687b919eaaa579212ca2be2a"
+                                ]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "HK MP5/40 .40 S&W 30-round magazine",
+				"shortName": "MP5/40",
+				"description": "A 30-round magazine designed to take .40 S&W cartridges for the MP5/40. Designed by Heckler and Koch."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9400,
+		"handbookPriceRoubles": 4000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 36,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 300
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 300
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 300
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 300
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 300
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 300
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
 	}
 }
