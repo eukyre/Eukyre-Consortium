@@ -175,5 +175,157 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68aa3a5f787df691308656c6": {
+		"itemTplToClone": "5bc09a18d4351e003562b68e",
+		"parentId": "REFLEX_SIGHT",
+		"handbookParentId": "5b5f746686f77447ec5d7708",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/ironSights/troy_off_back.bundle",
+				"rcid": ""
+			},
+            "ConflictingItems": [
+				"5ba26b01d4351e0085325a51",
+				"5dfa3d950dee1b22f862eae0",
+				"5c17804b2e2216152006c02f",
+				"5fb6567747ce63734e3fa1dc",
+				"5bc09a30d4351e00367fb7c8",
+				"5c18b90d2e2216152142466b",
+				"5fc0fa362770a0045c59c677",
+				"5894a73486f77426d259076c",
+				"55d4af3a4bdc2d972f8b456f"
+			],
+			"Ergonomics": 1,
+            "sightModType": "iron"
+		},
+		"locales": {
+			"en": {
+				"name": "Troy Battlesight offset rear sight",
+				"shortName": "BSO RS",
+				"description": "A 45-degree canted back-up rear iron sight designed to be installed on a standard picatinny rail. Manufactured by Troy Industries."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_sight_rear"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 28,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 4313,
+		"handbookPriceRoubles": 1838,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68aa3b4f0602ac717cea85c5": {
+		"itemTplToClone": "5bc09a30d4351e00367fb7c8",
+		"parentId": "55818ac54bdc2d5b648b456e",
+		"handbookParentId": "5b5f746686f77447ec5d7708",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/ironSights/troy_off_front.bundle",
+				"rcid": ""
+			},
+            "ConflictingItems": [
+				"5bb20e49d4351e3bac1212de",
+				"5ba26b17d4351e00367f9bdd",
+				"5dfa3d7ac41b2312ea33362a",
+				"5c1780312e221602b66cc189",
+				"5fb6564947ce63734e3fa1da",
+				"5bc09a18d4351e003562b68e",
+				"5c18b9192e2216398b5a8104",
+				"5fc0fa957283c4046c58147e",
+				"5894a81786f77427140b8347",
+				"55d5f46a4bdc2d1b198b4567",
+				"5ae30bad5acfc400185c2dc4"
+			],
+			"Ergonomics": 1,
+            "sightModType": "iron"
+		},
+		"locales": {
+			"en": {
+				"name": "Troy Battlesight offset front sight",
+				"shortName": "BSO FS",
+				"description": "A 45-degree canted back-up front iron sight designed to be installed on a standard picatinny rail. Manufactured by Troy Industries."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_sight_front"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 28,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 4313,
+		"handbookPriceRoubles": 1838,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
