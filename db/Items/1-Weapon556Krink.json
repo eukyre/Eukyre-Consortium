@@ -291,6 +291,8 @@
 		"masteries": true,
 		"masterySections": [
 			{
+				"Level2": 275,
+				"Level3": 350,
 				"Name": "AKSU",
 				"Templates": [
 					"68580e9cea46c81b4db2221e"
