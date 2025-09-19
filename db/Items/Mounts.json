@@ -2340,16 +2340,17 @@
 			"Weight": 0.015,
 			"Slots": [
 				{
-					"_name": "mod_scope_000",
+					"_name": "mod_mount_000",
 					"_id": "686a95d789aace93c4496ca2",
 					"_parent": "686a95d3d23099a58e981e27",
 					"_props": {
 						"filters": [
 							{
                                 "Filter": [
-                                    "58d399e486f77442e0016fe7",
-									"61657230d92c473c770213d7",
-									"2589a5a2424122404cf3a94c"
+                                    "685aca4843d2be6cbdb61499",
+									"685aca6e995b4ebe27611124",
+									"685aca8b8281c25f7215539a",
+									"685acac1d26e2f22bbe47797"
 								],
 								"Shift": 0
 							}
