@@ -379,6 +379,24 @@
 					"_required": false,
 					"_mergeSlotWithChildren": false,
 					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_000",
+					"_id": "68599b6d0257d5330971fdcf",
+					"_parent": "68599b6ad4d99d0c051b5964",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68cdc519b2c033d9ba67ff82"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
 				}
 			],
 			"SightingRange": 100,
@@ -515,6 +533,24 @@
 					"_required": false,
 					"_mergeSlotWithChildren": false,
 					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_000",
+					"_id": "68cdcdbec0a02576cbb528d3",
+					"_parent": "68599c5272359bd6b568656c",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68cdc519b2c033d9ba67ff82"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
 				}
 			],
 			"SightingRange": 100,
@@ -644,6 +680,24 @@
 									"61657230d92c473c770213d7",
 									"58d399e486f77442e0016fe7",
 									"5b3116595acfc40019476364"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_000",
+					"_id": "68cdcdd834edb732d4479eb9",
+					"_parent": "68599c64f0a918bcd731198f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68cdc519b2c033d9ba67ff82"
 								]
 							}
 						]
@@ -3001,6 +3055,86 @@
             {
                 "count": 30,
                 "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+	"68cdc519b2c033d9ba67ff82": {
+        "itemTplToClone": "5cf639aad7f00c065703d455",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/Mounts/mount_hrf_skiff_blk.bundle",
+                "rcid": ""
+            },
+			"Conflictingitems": [],
+            "Weight": 0.066,
+			"Width": 2,
+			"Ergonomics": -1,
+			"Slots": [
+				{
+					"_name": "mod_tactical",
+					"_id": "68cdcd92463a8496f19439f8",
+					"_parent": "68cdc519b2c033d9ba67ff82",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5d10b49bd7ad1a1a560708b0",
+									"5c06595c0db834001a66af6c",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+        },
+        "locales": {
+            "en": {
+                "name": "HRF Skiff rail mount",
+                "shortName": "Skiff",
+                "description": "The SKIFF laser riser allows users to mount their laser directly to Unity FAST Micro mounts (including the Micro-S) removing the need for a modified grip on 12.5 inch and shorter barrel platforms. This allows the use of pressure pads and tape switches on the rail without blocking the laser functions or causing direct shadowing."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4190,
+        "handbookPriceRoubles": 2112,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 33,
+                "_tpl": "EUROS"
             }
         ],
         "loyallevelitems": 3,
