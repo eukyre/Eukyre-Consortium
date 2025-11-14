@@ -141,6 +141,12 @@ class epicItemClass {
             if (fileData._id === "e1543def58291668bac8e2c8") {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("6859411da7ac91f2e4088de4", "68922e39bacf39d24ca68ddf", "687e0ad6c6789ae4fd6855b9", "687e09aa7e70e1e285c59d4e", "68642e0200397ba2b9e4ea9a", "685d43c384852051ef64e4e8");
             } //Pushing my Optics to Epic's FAST FRT Riser (FDE)
+            if (fileData._id === "689ce8bfd4370ee552a641da") {
+                fileData._props.Slots[5]._props.filters[0].Filter.push("689d099c264b71b2da14043f");
+            } //Pushing SCAR-20S Ext. Rail to SCAR-20S upper
+            if (fileData._id === "68b192a29352f61e8d8f8d6d") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("687c0c34d7c15876af335f98", "687c0c225e00201a4d569c3b", "687c0c65a932f0bc6a5e89a4", "687d11609da5dc2dbb2b7d7e", "687d134da0544fe8d0e262d7");
+            } //Pushing my uppers to the Modular AR platform
         }
     }
 }
