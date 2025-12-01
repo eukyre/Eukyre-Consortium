@@ -85,3 +85,4 @@ F:\Games\SPT4.0\ModdingFolder\ECOT\EukyreECOT\bin\Release\EukyreECOT-1.3.0\Resou
 F:\Games\SPT4.0\ModdingFolder\ECOT\EukyreECOT\bin\Release\EukyreECOT-1.3.0\Resources\db\CustomItems\WeaponMP540.json
 F:\Games\SPT4.0\ModdingFolder\ECOT\EukyreECOT\bin\Release\EukyreECOT-1.3.0\Resources\db\CustomItems\WeaponUMP40.json
 F:\Games\SPT4.0\ModdingFolder\ECOT\EukyreECOT\obj\Release\swae.build.ex.cache
+F:\Games\SPT4.0\ModdingFolder\ECOT\EukyreECOT\obj\Release\EukyreECOT.sourcelink.json
