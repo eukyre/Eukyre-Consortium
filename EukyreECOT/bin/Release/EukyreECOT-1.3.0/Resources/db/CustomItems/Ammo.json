@@ -137,7 +137,7 @@
     "handbookParentId": "5b47574386f77428ca22b33b",
     "overrideProperties": {
       "Prefab": {
-        "path": "Ammo/40sw/patron_40sw_plus_p.bundle",
+        "path": "Ammo/40sw/patron_40sw_fmj.bundle",
         "rcid": ""
       },
       "ExaminedByDefault": true,
