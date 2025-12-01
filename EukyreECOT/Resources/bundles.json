@@ -9,10 +9,19 @@
       ]
     },
     {
+      "key": "Ammo/40sw/patron_40sw_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "Ammo/40sw/patron_40sw_fmj.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -21,6 +30,7 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -29,6 +39,7 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -37,6 +48,7 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -45,6 +57,7 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -53,6 +66,7 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -61,6 +75,7 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "Ammo/40sw/patron_40sw_shared.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
