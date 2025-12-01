@@ -1,0 +1,218 @@
+﻿[
+  {
+    "assetPath": "",
+    "conditions": {
+      "availableForFinish": [
+        {
+          "completeInSeconds": 0,
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "daytime": {
+                  "from": 0,
+                  "to": 0
+                },
+                "distance": {
+                  "compareMethod": ">=",
+                  "value": 0
+                },
+                "dynamicLocale": false,
+                "enemyEquipmentExclusive": [],
+                "enemyEquipmentInclusive": [],
+                "enemyHealthEffects": [],
+                "id": "691ecb4977367a156d3a260e",
+                "resetOnSessionEnd": false,
+                "savageRole": [
+                  "AnyPmc"
+                ],
+                "target": "Savage",
+                "value": 25,
+                "weapon": [
+                  "6868377c7bb1c07772467ee7"
+                ],
+                "weaponCaliber": [],
+                "weaponModsExclusive": [],
+                "weaponModsInclusive": []
+              }
+            ],
+            "id": "691ecb4c394fe2ef9c3a2610"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "691ecb4bd98c02a62e3a260f",
+          "index": 0,
+          "isNecessary": false,
+          "isResetOnConditionFailed": false,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": 15,
+          "visibilityConditions": []
+        }
+      ],
+      "fail": []
+    },
+    "hidden": false,
+    "id": "691ecb9b1664a484f03a2611",
+    "imageUrl": "/files/achievement/FNX1.png",
+    "index": 99999,
+    "instantComplete": false,
+    "prefab": "",
+    "progressBarEnabled": true,
+    "rarity": "Common",
+    "rewards": [],
+    "showConditions": true,
+    "showNotificationsInGame": true,
+    "showProgress": true,
+    "side": "Pmc"
+  },
+  {
+    "assetPath": "",
+    "conditions": {
+      "availableForFinish": [
+        {
+          "completeInSeconds": 0,
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "daytime": {
+                  "from": 0,
+                  "to": 0
+                },
+                "distance": {
+                  "compareMethod": ">=",
+                  "value": 0
+                },
+                "dynamicLocale": false,
+                "enemyEquipmentExclusive": [],
+                "enemyEquipmentInclusive": [],
+                "enemyHealthEffects": [],
+                "id": "691ecbb5ee59a4dcd93a2615",
+                "resetOnSessionEnd": false,
+                "savageRole": [
+                  "AnyPmc"
+                ],
+                "target": "Savage",
+                "value": 50,
+                "weapon": [
+                  "6868377c7bb1c07772467ee7"
+                ],
+                "weaponCaliber": [],
+                "weaponModsExclusive": [],
+                "weaponModsInclusive": []
+              }
+            ],
+            "id": "691ecbb38eda9aa8a73a2613"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "691ecbb46ae102b2fb3a2614",
+          "index": 0,
+          "isNecessary": false,
+          "isResetOnConditionFailed": false,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": 75,
+          "visibilityConditions": []
+        }
+      ],
+      "fail": []
+    },
+    "hidden": false,
+    "id": "691ecbb23b845bc0903a2612",
+    "imageUrl": "/files/achievement/FNX2.png",
+    "index": 99999,
+    "instantComplete": false,
+    "prefab": "",
+    "progressBarEnabled": true,
+    "rarity": "Rare",
+    "rewards": [],
+    "showConditions": true,
+    "showNotificationsInGame": true,
+    "showProgress": true,
+    "side": "Pmc"
+  },
+  {
+    "assetPath": "",
+    "conditions": {
+      "availableForFinish": [
+        {
+          "completeInSeconds": 0,
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "daytime": {
+                  "from": 0,
+                  "to": 0
+                },
+                "distance": {
+                  "compareMethod": ">=",
+                  "value": 0
+                },
+                "dynamicLocale": false,
+                "enemyEquipmentExclusive": [],
+                "enemyEquipmentInclusive": [],
+                "enemyHealthEffects": [],
+                "id": "691ecbb5ee59a4dcd93a2615",
+                "resetOnSessionEnd": false,
+                "savageRole": [
+                  "AnyPmc"
+                ],
+                "target": "Savage",
+                "value": 100,
+                "weapon": [
+                  "6868377c7bb1c07772467ee7"
+                ],
+                "weaponCaliber": [],
+                "weaponModsExclusive": [],
+                "weaponModsInclusive": []
+              }
+            ],
+            "id": "691ecbb38eda9aa8a73a2613"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "691ecbb46ae102b2fb3a2614",
+          "index": 0,
+          "isNecessary": false,
+          "isResetOnConditionFailed": false,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": 15,
+          "visibilityConditions": []
+        }
+      ],
+      "fail": []
+    },
+    "hidden": true,
+    "id": "691ecbc872bfcbd28b3a2616",
+    "imageUrl": "/files/achievement/FNX3.png",
+    "index": 99999,
+    "instantComplete": false,
+    "prefab": "",
+    "progressBarEnabled": true,
+    "rarity": "Legendary",
+    "rewards": [],
+    "showConditions": true,
+    "showNotificationsInGame": true,
+    "showProgress": true,
+    "side": "Pmc"
+  }
+]

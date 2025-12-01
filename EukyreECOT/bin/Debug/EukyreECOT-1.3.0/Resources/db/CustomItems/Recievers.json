@@ -1,0 +1,676 @@
+{
+  "687d11609da5dc2dbb2b7d7e": {
+    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/reciever_ar15_bcm_mk2_blk.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 11,
+      "CoolFactor": 1.01,
+      "HeatFactor": 0.876,
+      "Recoil": -4.35,
+      "DurabilityBurnModificator": 0.966,
+      "Weight": 0.44
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 BCM MK2 5.56x45 upper receiver",
+        "shortName": "MK2",
+        "description": "The MK2 upper reciever is a precision-machined upper receiver by Bravo Company Manufacturing for 5.56x45 AR-15 platforms. Built from forged aluminum with a hard-coat anodized finish, the MK2 offers enhanced durability and corrosion resistance."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691f80dbdeb592ca922fd6d5": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 287,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "687d134da0544fe8d0e262d7": {
+    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/reciever_ar15_bcm_mk2_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 11,
+      "CoolFactor": 1.01,
+      "HeatFactor": 0.876,
+      "Recoil": -4.35,
+      "DurabilityBurnModificator": 0.966,
+      "Weight": 0.447
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 BCM MK2 5.56x45 upper receiver (FDE)",
+        "shortName": "MK2",
+        "description": "The MK2 upper reciever is a precision-machined upper receiver by Bravo Company Manufacturing for 5.56x45 AR-15 platforms. Built from forged aluminum with a hard-coat anodized finish, the MK2 offers enhanced durability and corrosion resistance. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "691f80dbdeb592ca922fd6d6": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 287,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6880c7f2d7270a23770b742d": {
+    "itemTplToClone": "615d8dbd290d254f5e6b2ed6",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/receiver_si_glock.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 6.5,
+      "HeatFactor": 0.962,
+      "CoolFactor": 1.06,
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6880c7f5a9bf2e82c252fae9",
+          "_parent": "6880c7f2d7270a23770b742d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d9122159bd4001438dbf4",
+                  "5a6f5d528dc32e00094b97d9",
+                  "5a7d912f159bd400165484f3",
+                  "5a71e0fb8dc32e00094b97f2",
+                  "630765cb962d0247b029dc45"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "6880c92639b015117846a802",
+          "_parent": "6880c7f2d7270a23770b742d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d90eb159bd400165484f1",
+                  "5a6f58f68dc32e000a311390",
+                  "5a7d9104159bd400134c8c21",
+                  "5a71e0048dc32e000c52ecc8",
+                  "630765777d50ff5e8a1ea718"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_muzzle",
+          "_id": "6880c94a4723e92c26235c0c",
+          "_parent": "6880c7f2d7270a23770b742d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7b32a2e899ef00135e345a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "6880c96bb9755801ff719fcc",
+          "_parent": "6880c7f2d7270a23770b742d",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a32aa8bc4a2826c6e06d737",
+                  "616442e4faa1272e43152193"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Glock Strike Industries ARK pistol slide",
+        "shortName": "ARK",
+        "description": "An Aftermarket slide designed by Strike Industries for Glock pistols, the ARK (Advanced Receiver Kit) combines aggressive styling with enhanced performance. Precision-machined from billet stainless steel, it features forward and rear serrations, weight-reducing cuts, and an optic-ready mounting footprint."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 9572,
+    "handbookPriceRoubles": 7800,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "691f80dbdeb592ca922fd6d7": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 44,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6880ca841783495925bbd7ed": {
+    "itemTplToClone": "615d8dbd290d254f5e6b2ed6",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/receiver_zaffari_glock.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 5,
+      "HeatFactor": 0.962,
+      "CoolFactor": 1.06,
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6880ca91ffc50654c50c4e02",
+          "_parent": "6880ca841783495925bbd7ed",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d9122159bd4001438dbf4",
+                  "5a6f5d528dc32e00094b97d9",
+                  "5a7d912f159bd400165484f3",
+                  "5a71e0fb8dc32e00094b97f2",
+                  "630765cb962d0247b029dc45"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "6880ca8fb5b64b58b8ba8229",
+          "_parent": "6880ca841783495925bbd7ed",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d90eb159bd400165484f1",
+                  "5a6f58f68dc32e000a311390",
+                  "5a7d9104159bd400134c8c21",
+                  "5a71e0048dc32e000c52ecc8",
+                  "630765777d50ff5e8a1ea718"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "6880cd460ea987b1ff89123e",
+          "_parent": "6880ca841783495925bbd7ed",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a32aa8bc4a2826c6e06d737"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Glock Zaffiri Precision ZPS.4 pistol slide",
+        "shortName": "ZPS.4",
+        "description": "The Zaffiri Precision ZPS.4 features aggressive window cuts for reduced weight and faster cycling, along with deep serrations for improved grip during manipulation."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5583,
+    "handbookPriceRoubles": 3100,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "691f80dbdeb592ca922fd6d8": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 4
+          },
+          "barters": [
+            {
+              "count": 31,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6894fbb9dfa6c1482801ce66": {
+    "itemTplToClone": "615d8dbd290d254f5e6b2ed6",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/receiver_glock_17l_mos.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5a6b5f868dc32e000a311389",
+        "5a6b60158dc32e000a31138b",
+        "5a6b5b8a8dc32e001207faf3",
+        "630764fea987397c0816d219",
+        "5a6b5ed88dc32e000c52ec86",
+        "5a6b5e468dc32e001207faf5"
+      ],
+      "ExtraSizeLeft": 1,
+      "Ergonomics": 2.5
+    },
+    "locales": {
+      "en": {
+        "name": "Glock 17L MOS pistol slide",
+        "shortName": "17L",
+        "description": "The MOS (Modular Optic System) long slide designed for Glock 9x19 pistols. Manufactured by Glock."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5583,
+    "handbookPriceRoubles": 2211,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "691f80dbdeb592ca922fd6d9": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 3460,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "689ce8bfd4370ee552a641da": {
+    "itemTplToClone": "6165aeedfaa1272e431521e3",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/reciever_scar_mk20_fde.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "618168b350224f204c1da4d8",
+        "6183b0711cb55961fa0fdcad",
+        "61816fcad92c473c770215cc",
+        "61816df1d3a39d50044c139e",
+        "619666f4af1f5202c57a952d",
+        "66ffc6ceb7ff397142017c3a",
+        "66ffc72082d36dec82030c1f",
+        "66ffc903fe9b382596065304",
+        "66ffe811f5d758d71101e89a",
+        "66ffea06132225f0fe061394"
+      ],
+      "Weight": 0.7,
+      "Ergonomics": 1,
+      "Recoil": 3,
+      "CoolFactor": 1.007,
+      "HeatFactor": 0.993,
+      "ExtraSizeLeft": 3,
+      "Width": 4
+    },
+    "locales": {
+      "en": {
+        "name": "FN SCAR-20S Multi-Caliber upper receiver (FDE)",
+        "shortName": "Mk20",
+        "description": "An upper receiver for the SCAR-20S marksman rifle capable of chambering .308 Winchester and 6.5 Creedmoor, manufactured by Fabrique Nationale Herstal. Features a top rail for installation of additional equipment. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 14500,
+    "handbookPriceRoubles": 12220,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ]
+  },
+  "68509710f0df4dbc5b0ff7fe": {
+    "itemTplToClone": "615d8dbd290d254f5e6b2ed6",
+    "parentId": "RECEIVER",
+    "handbookParentId": "MOD_RECEIVER",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Receivers/reciever_glock_22_mos_slide.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6850971720b11c54d899c04a",
+          "_parent": "68509710f0df4dbc5b0ff7fe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d9122159bd4001438dbf4",
+                  "5a6f5d528dc32e00094b97d9",
+                  "5a71e0fb8dc32e00094b97f2",
+                  "630765cb962d0247b029dc45"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "685097184b5e263700b2de1d",
+          "_parent": "68509710f0df4dbc5b0ff7fe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a7d90eb159bd400165484f1",
+                  "5a6f58f68dc32e000a311390",
+                  "5a71e0048dc32e000c52ecc8",
+                  "630765777d50ff5e8a1ea718"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "6850971aa0108c5754924dc8",
+          "_parent": "68509710f0df4dbc5b0ff7fe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "615d8da4d3a39d50044c10e8",
+                  "685097dbb9aa83c9e35c5027"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Glock 22 MOS pistol slide",
+        "shortName": "G MOS",
+        "description": "The MOS (Modular Optic System) slide designed for Glock .40S&W pistols. Manufactured by Glock."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 4929,
+    "handbookPriceRoubles": 4700,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "691f80dbdeb592ca922fd66f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 4700,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
