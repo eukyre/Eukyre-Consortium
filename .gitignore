@@ -6,3 +6,4 @@ generate_bundles.py
 *.js
 *.map
 /.idea
+/EukyreECOT/bin
