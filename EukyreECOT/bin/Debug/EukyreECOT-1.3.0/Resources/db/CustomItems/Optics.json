@@ -1062,48 +1062,33 @@
     }
   },
   "6897de1182f827c8f199f355": {
-    "itemTplToClone": "5c07dd120db834001c39092d",
+    "itemTplToClone": "68922e39bacf39d24ca68ddf",
     "parentId": "55818ad54bdc2ddc698b4569",
     "handbookParentId": "5b5f742686f774093e6cb4ff",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "Attachments/Optics/scope_romeo9t_g33_ftc.bundle",
+        "path": "Attachments/Optics/scope_romeo9t_std_fde.bundle",
         "rcid": ""
-      },
-      "ConflictingItems": [
-        "55d5f46a4bdc2d1b198b4567",
-        "5894a81786f77427140b8347",
-        "5ba26b17d4351e00367f9bdd",
-        "5bb20e49d4351e3bac1212de",
-        "5bc09a18d4351e003562b68e",
-        "5c1780312e221602b66cc189",
-        "5c18b9192e2216398b5a8104",
-        "5dfa3d7ac41b2312ea33362a",
-        "5fb6564947ce63734e3fa1da",
-        "5fc0fa957283c4046c58147e",
-        "61817865d3a39d50044c13a4",
-        "275def25d1abe9b101511271"
-      ],
-      "Ergonomics": -1.5,
-      "Weight": 0.544
+      }
     },
     "locales": {
       "en": {
-        "name": "SIG Sauer ROMEO9T w/ Unity FTC hybrid sight",
-        "shortName": "ROMEO9T FTC",
-        "description": "The FAST FTC OMNI magnifier mount employs a simple force-to-overcome mechanism, stowing the magnifier below the optical sight plane and completely within the footprint of the weapon’s receiver when not in use. UNITY Tactical’s FTC (flip-to-center) technology eliminates the flip-to-side placement of legacy products so users receive all the benefits of magnification when required with no snag hazards or occlusion of sight pictures when stowed. The G33 Magnifier is the selected magnifier of USSOCOM, and is compact and lightweight."
+        "name": "SIG Sauer ROMEO9T reflex sight (FDE)",
+        "shortName": "ROMEO9T",
+        "description": "The ROMEO9T reflex sight, designed for precision shooting for modern sporting rifles and shotguns. Manufactured by SIG Sauer. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
+      "mod_scope",
       "mod_scope_000",
-      "mod_scope"
+      "mod_scope_001"
     ],
-    "fleaPriceRoubles": 64000,
-    "handbookPriceRoubles": 35000,
     "addtoTraders": true,
+    "fleaPriceRoubles": 42240,
+    "handbookPriceRoubles": 28900,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1136,17 +1121,17 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "PEACEKEEPER": {
+      "MECHANIC": {
         "691f80dbdeb592ca922fd67f": {
           "barterSettings": {
-            "loyalLevel": 4,
+            "loyalLevel": 3,
             "unlimitedCount": true,
-            "stackObjectsCount": 2
+            "stackObjectsCount": 3
           },
           "barters": [
             {
-              "count": 452,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 243,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }
@@ -1232,5 +1217,88 @@
       }
     },
     "masterySections": []
+  },
+  "692deffb1966298e696fcd8f": {
+    "itemTplToClone": "617151c1d92c473c770214ab",
+    "parentId": "55818ae44bdc2dde698b456c",
+    "handbookParentId": "5b5f748386f774093e6cb501",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Optics/scope_pa_slx_1x8.bundle",
+        "rcid": ""
+      }
+    },  
+    "locales": {
+      "en": {
+        "name": "Primary Arms SLx 1-8x24 30mm riflescope",
+        "shortName": "SLx 1-8x24",
+        "description": "The Primary Arms SLx 1-8x24 riflescope is a further development upon existing Primary Arms riflescopes that now allows for a higher 8x magnification."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 283927,
+    "handbookPriceRoubles": 50500,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "692df0a91e1567f3e16fcd90": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 1
+          },
+          "barters": [
+            {
+              "count": 129572,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        },
+        "692df16c65539bf3786fcd92": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 10,
+            "BuyRestrictionMax": 1
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "59e3639286f7741777737013"
+            },
+            {
+              "count": 2,
+              "_tpl": "60391b0fb847c71012789415"
+            }
+          ]
+        }
+      }
+    }
   }
 }
