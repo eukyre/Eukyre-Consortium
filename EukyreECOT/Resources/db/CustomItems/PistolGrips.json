@@ -1,4 +1,160 @@
 {
+  "695b202bcf7ba69ed46887b8": {
+    "itemTplToClone": "5d15cf3bd7ad1a67e71518b2",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/PistolGrips/pistolgrip_magpul_k2_blk.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 13
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Magpul MOE-K2 pistol grip",
+        "shortName": "MOE-K2",
+        "description": "The Magpul MOE-K2 is a drop in upgrade for the AR15/M4 that offers a more vertical grip angle, but in a full-size grip design. The steeper vertical grip angle is optimized for use on PDW configurations and improves comfort and control on short rifles that bring the primary hand in closer to the shooter's body. Manufactured by Magpul."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 23683,
+    "handbookPriceRoubles": 5150,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "695b201bcc7f15f9e36887b7": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 3
+          },
+          "barters": [
+            {
+              "count": 47,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "695b224c474010bd136887ba": {
+    "itemTplToClone": "5d15cf3bd7ad1a67e71518b2",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/PistolGrips/pistolgrip_magpul_k2_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 13
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Magpul MOE-K2 pistol grip (FDE)",
+        "shortName": "MOE-K2",
+        "description": "The Magpul MOE-K2 is a drop in upgrade for the AR15/M4 that offers a more vertical grip angle, but in a full-size grip design. The steeper vertical grip angle is optimized for use on PDW configurations and improves comfort and control on short rifles that bring the primary hand in closer to the shooter's body. Manufactured by Magpul. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 23683,
+    "handbookPriceRoubles": 5150,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "695b2240924bad84ce6887b9": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 3
+          },
+          "barters": [
+            {
+              "count": 47,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
   "687a105600afa7b3f5ed2808": {
     "itemTplToClone": "5a339805c4a2826c6e06d73d",
     "parentId": "55818a594bdc2db9688b456a",
@@ -634,6 +790,85 @@
             {
               "count": 81,
               "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "695fa382efa7c99a961f9f37": {
+    "itemTplToClone": "5bb20e18d4351e00320205d5",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/PistolGrips/pistolgrip_abarms_pgrip.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 9
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 AB Arms SBR P*Grip pistol grip",
+        "shortName": "P*Grip",
+        "description": "The SBR P*Grip is designed and engineered for M4/M16/AR-15 style rifles and rifle receivers designed to fit AR-15 style pistol grips. Manufactured by American Built Arms."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 17548,
+    "handbookPriceRoubles": 5150,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "695fa36a4d5728bff21f9f36": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 3
+          },
+          "barters": [
+            {
+              "count": 15682,
+              "_tpl": "MONEY_ROUBLES"
             }
           ]
         }

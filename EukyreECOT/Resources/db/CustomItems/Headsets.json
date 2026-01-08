@@ -556,5 +556,63 @@
       }
     },
     "masterySections": []
+  },
+  "6933acf049b34a172e0fe627": {
+    "itemTplToClone": "66b5f6985891c84aab75ca76",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Clothing/Headsets/comtac_6_blk.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Peltor ComTac VI headset",
+        "shortName": "ComTac VI",
+        "description": "An improved version of the ComTac V communication headset, equipped with advanced environmental listening settings and an NIB (Natural Interaction Behavior) feature, allowing to communicate with other ComTac VI users in a certain proximity without having to use radios. Manufactured by 3M Peltor."
+      }
+    },
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
+    "fleaPriceRoubles": 69163,
+    "handbookPriceRoubles": 44548,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
   }
 }

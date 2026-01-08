@@ -1062,48 +1062,33 @@
     }
   },
   "6897de1182f827c8f199f355": {
-    "itemTplToClone": "5c07dd120db834001c39092d",
+    "itemTplToClone": "68922e39bacf39d24ca68ddf",
     "parentId": "55818ad54bdc2ddc698b4569",
     "handbookParentId": "5b5f742686f774093e6cb4ff",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "Attachments/Optics/scope_romeo9t_g33_ftc.bundle",
+        "path": "Attachments/Optics/scope_romeo9t_std_fde.bundle",
         "rcid": ""
-      },
-      "ConflictingItems": [
-        "55d5f46a4bdc2d1b198b4567",
-        "5894a81786f77427140b8347",
-        "5ba26b17d4351e00367f9bdd",
-        "5bb20e49d4351e3bac1212de",
-        "5bc09a18d4351e003562b68e",
-        "5c1780312e221602b66cc189",
-        "5c18b9192e2216398b5a8104",
-        "5dfa3d7ac41b2312ea33362a",
-        "5fb6564947ce63734e3fa1da",
-        "5fc0fa957283c4046c58147e",
-        "61817865d3a39d50044c13a4",
-        "275def25d1abe9b101511271"
-      ],
-      "Ergonomics": -1.5,
-      "Weight": 0.544
+      }
     },
     "locales": {
       "en": {
-        "name": "SIG Sauer ROMEO9T w/ Unity FTC hybrid sight",
-        "shortName": "ROMEO9T FTC",
-        "description": "The FAST FTC OMNI magnifier mount employs a simple force-to-overcome mechanism, stowing the magnifier below the optical sight plane and completely within the footprint of the weapon’s receiver when not in use. UNITY Tactical’s FTC (flip-to-center) technology eliminates the flip-to-side placement of legacy products so users receive all the benefits of magnification when required with no snag hazards or occlusion of sight pictures when stowed. The G33 Magnifier is the selected magnifier of USSOCOM, and is compact and lightweight."
+        "name": "SIG Sauer ROMEO9T reflex sight (FDE)",
+        "shortName": "ROMEO9T",
+        "description": "The ROMEO9T reflex sight, designed for precision shooting for modern sporting rifles and shotguns. Manufactured by SIG Sauer. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
+      "mod_scope",
       "mod_scope_000",
-      "mod_scope"
+      "mod_scope_001"
     ],
-    "fleaPriceRoubles": 64000,
-    "handbookPriceRoubles": 35000,
     "addtoTraders": true,
+    "fleaPriceRoubles": 42240,
+    "handbookPriceRoubles": 28900,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -1136,17 +1121,17 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "PEACEKEEPER": {
+      "MECHANIC": {
         "691f80dbdeb592ca922fd67f": {
           "barterSettings": {
-            "loyalLevel": 4,
+            "loyalLevel": 3,
             "unlimitedCount": true,
-            "stackObjectsCount": 2
+            "stackObjectsCount": 3
           },
           "barters": [
             {
-              "count": 452,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 243,
+              "_tpl": "MONEY_EUROS"
             }
           ]
         }

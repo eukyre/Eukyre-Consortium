@@ -3159,5 +3159,90 @@
         }
       }
     }
+  },
+  "69368ca7d2fd1291eb9ba4ab": {
+    "itemTplToClone": "59e0bed186f774156f04ce84",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mounts/keymod_adapter_long.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "69368caab524dc40979ba4ac",
+          "_parent": "69368ca7d2fd1291eb9ba4ab",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KeyMod to M-LOK adapter plate",
+        "shortName": "KeyMod adpt.",
+        "description": "A machined metal adapter plate that allows for the fitment of M-LOK attachments on a KeyMod interface."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 1149,
+    "handbookPriceRoubles": 201,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 700
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "693690d2fdae31b14e3210a0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1292,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
   }
 }

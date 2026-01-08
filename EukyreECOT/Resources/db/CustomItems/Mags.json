@@ -1,8 +1,8 @@
 {
   "685c83e3b9ee925a05b52461": {
     "itemTplToClone": "5d1340cad7ad1a0b0b249869",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_stanag_hk_mr556_pmag_blk.bundle",
@@ -107,8 +107,8 @@
   },
   "685ea2d7d361ce968d776a61": {
     "itemTplToClone": "5d1340cad7ad1a0b0b249869",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_ar15_hexmag_blk.bundle",
@@ -214,8 +214,8 @@
   },
   "685ea424ae29ce869f15365a": {
     "itemTplToClone": "5d1340cad7ad1a0b0b249869",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_ar15_hexmag_fde.bundle",
@@ -321,8 +321,8 @@
   },
   "685ea5774f566619e928fd4c": {
     "itemTplToClone": "5d1340cad7ad1a0b0b249869",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_strike_industries_33_blk.bundle",
@@ -429,8 +429,8 @@
   },
   "685ea58fd46519c32d440109": {
     "itemTplToClone": "5d1340cad7ad1a0b0b249869",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_strike_industries_33_fde.bundle",
@@ -537,8 +537,8 @@
   },
   "686693bfa7e7678c13d94dcd": {
     "itemTplToClone": "55d480c04bdc2d1d4e8b456a",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_ak74_6l23_window_blk.bundle",
@@ -609,8 +609,8 @@
   },
   "6866948c33d189a854f4593c": {
     "itemTplToClone": "55d480c04bdc2d1d4e8b456a",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_ak74_6l23_window_plum.bundle",
@@ -681,8 +681,8 @@
   },
   "6867206a980fcf4a475d4678": {
     "itemTplToClone": "64b9cf0ac12b9c38db26923a",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_akm_20.bundle",
@@ -752,8 +752,8 @@
   },
   "6867211462ddc1942b59637b": {
     "itemTplToClone": "59d625f086f774661516605d",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_akm_30.bundle",
@@ -822,8 +822,8 @@
   },
   "688ff49403a506e2001cb614": {
     "itemTplToClone": "5a3501acc4a282000d72293a",
-    "parentId": "MAGAZINE",
-    "handbookParentId": "MOD_MAGAZINE",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
         "path": "Attachments/Mags/mag_ar10_pmag_25w_blk.bundle",
@@ -1026,5 +1026,297 @@
       }
     },
     "masterySections": []
+  },
+  "6931f77384aafd27e716b95c": {
+    "itemTplToClone": "5aaa5dfee5b5b000140293d3",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mags/TTI_556/tti_35_blk.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "6931f791bff9a4635f16b95d",
+          "_parent": "6931f77384aafd27e716b95c",
+          "_max_count": 35,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 TTI \"Base Pad +5/6\" 35-round magazine",
+        "shortName": "GEN M3",
+        "description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine with a Taran Tactical Innovations Base Pad to add 5 extra rounds, for 5.56x45 ammunition."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 14502,
+    "handbookPriceRoubles": 4500,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 70
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      }
+    ],
+    "traders": {}
+  },
+  "6931f849d43e8360a516b95e": {
+    "itemTplToClone": "5aaa5dfee5b5b000140293d3",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mags/TTI_556/tti_35_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 TTI \"Base Pad +5/6\" 35-round magazine (FDE)",
+        "shortName": "GEN M3",
+        "description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine with a Taran Tactical Innovations Base Pad to add 5 extra rounds, for 5.56x45 ammunition. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 14502,
+    "handbookPriceRoubles": 4500,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 70
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      }
+    ],
+    "traders": {}
+  },
+  "6931f87427c59f8c0c16b95f": {
+    "itemTplToClone": "544a378f4bdc2d30388b4567",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mags/TTI_556/tti_46_blk.bundle",
+        "rcid": ""
+      },
+      "Height": 3,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "6931f87b2549c62df716b960",
+          "_parent": "6931f87427c59f8c0c16b95f",
+          "_max_count": 46,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 5.56x45 Magpul PMAG 40 GEN M3 TTI \"Base Pad +5/6\" 46-round magazine",
+        "shortName": "GEN M3",
+        "description": "A 30-round polymer Magpul PMAG GEN M3 40 magazine with a Taran Tactical Innovations Base Pad to add 6 extra rounds, for 5.56x45 ammunition."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 22249,
+    "handbookPriceRoubles": 8204,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {}
+  },
+  "6931f8f4d23c52639416b961": {
+    "itemTplToClone": "544a378f4bdc2d30388b4567",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mags/TTI_556/tti_46_fde.bundle",
+        "rcid": ""
+      },
+      "Height": 3,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "6931f8f66d6fea152416b962",
+          "_parent": "6931f8f4d23c52639416b961",
+          "_max_count": 46,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59e6920f86f77411d82aa167",
+                  "59e6927d86f77411da468256",
+                  "54527a984bdc2d4e668b4567",
+                  "54527ac44bdc2d36668b4567",
+                  "59e68f6f86f7746c9f75e846",
+                  "59e6906286f7746c9f75e847",
+                  "59e690b686f7746c9f75e848",
+                  "59e6918f86f7746c9f75e849",
+                  "60194943740c5d77f6705eea",
+                  "601949593ae8f707c4608daa",
+                  "5c0d5ae286f7741e46554302",
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 5.56x45 Magpul PMAG 40 GEN M3 TTI \"Base Pad +5/6\" 46-round magazine (FDE)",
+        "shortName": "GEN M3",
+        "description": "A 30-round polymer Magpul PMAG GEN M3 40 magazine with a Taran Tactical Innovations Base Pad to add 6 extra rounds, for 5.56x45 ammunition. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 22249,
+    "handbookPriceRoubles": 8204,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {}
   }
 }

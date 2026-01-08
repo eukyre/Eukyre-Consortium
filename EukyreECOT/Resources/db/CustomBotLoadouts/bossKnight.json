@@ -1,2 +1,51 @@
 ﻿{
+  "inventory": {
+    "equipment": {
+      "Holster": {
+        "6868377c7bb1c07772467ee7": 3778
+      }
+    },
+    "mods": {
+      "6868377c7bb1c07772467ee7": {
+        "mod_barrel": [
+          "68683cf77880574d9637afc6"
+        ],
+        "mod_reciever": [
+          "68683d4d23f083775c62f84e"
+        ],
+        "mod_magazine": [
+          "686838eb0859ea2bd8e18c5f"
+        ],
+        "mod_tactical_000": [
+          "6272379924e29f06af4d5ecb"
+        ]
+      },
+      "68683cf77880574d9637afc6": {
+        "mod_muzzle": [
+          "686ad2e1cb1cd4ac811bfe81"
+        ]
+      },
+      "68683d4d23f083775c62f84e": {
+        "mod_scope": [
+          "6925bc1fb1cef66e2e608201"
+        ],
+        "mod_sight_front": [
+          "686860759bcdfbaef057bfc3"
+        ],
+        "mod_sight_rear": [
+          "686860901db0bec621ef9e35"
+        ]
+      },
+      "6925bc1fb1cef66e2e608201": {
+        "mod_scope": [
+          "690d2fd49bf65492f6dcc8f1"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber1143x23ACP": {
+        "5efb0cabfb3e451d70735af5": 1
+      }
+    }
+  }
 }

@@ -730,5 +730,68 @@
         ]
       }
     ]
+  },
+  "695fa277f1b7c560d11f9f35": {
+    "itemTplToClone": "6529370c405a5f51dd023db8",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/Stocks/stock_abarms_ussx.bundle",
+        "rcid": ""
+      },
+      "Recoil": -24,
+      "Ergonomics": 7,
+      "Weight": 0.34
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 AB Arms USS-X stock (FDE)",
+        "shortName": "USS-X",
+        "description": "The A*B Arms Urban Sniper Stock X is a compact, lightweight, ergonomic precision rifle buttstock that can be used on any weapons system that utilizes a Mil-Spec carbine length buffer tube."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000",
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 14830,
+    "handbookPriceRoubles": 14522,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": []
   }
 }

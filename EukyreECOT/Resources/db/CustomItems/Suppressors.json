@@ -828,5 +828,77 @@
         }
       }
     }
+  },
+  "695fa0bf748597b4fa1f9f31": {
+    "itemTplToClone": "5dfa3d2b0dee1b22f862eade",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Silencers/silencer_deadair_sandman_s.bundle",
+        "rcid": ""
+      },
+      "Loudness": -35,
+      "Ergonomics": -26,
+      "Recoil": -11,
+      "ExtraSizeLeft": 1,
+      "Width": 2,
+      "Velocity": 0.8,
+      "Slots": [],
+      "CanSellOnRagfair": true,
+      "RagFairCommissionModifier": 1.5,
+      "muzzleModType": "silencer"
+    },
+    "locales": {
+      "en": {
+        "name": "Dead Air Sandman-S 7.62x51 sound suppressor",
+        "shortName": "Sandman-S",
+        "description": "The Sandman-S is a compact, rugged .30 caliber suppressor engineered for maximum sound reduction without excessive length or weight. The Sandman-S uses Dead Air’s Tune-Out technology to deliver effective decibel suppression and consistent point-of-impact shift, making it ideal for precision rifles and designated marksman systems."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 101549,
+    "handbookPriceRoubles": 45400,
+    "addtoStaticLootContainers": true,
+    "addtoragfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 25
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 11
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "695fa2025b06a4e2921f9f34": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 2
+          },
+          "barters": [
+            {
+              "count": 652,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
   }
 }

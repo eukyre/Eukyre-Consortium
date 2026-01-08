@@ -36,6 +36,12 @@ public class BaseGameItemEdits(
                     item.Properties.Accuracy = 0;
                     item.Properties.Velocity = 0;
                     break; // SI ARE Buffer Tube Nerf (Red)
+                
+                case "628a66b41d5e41750e314f34":
+                    ModifySlotFilters(item, 0, 0, [
+                        "695fa0bf748597b4fa1f9f31"
+                    ]);
+                    break; //Pushing Dead Air Sandman-S to the Dead Air Keymount brake for .308
             }
         }
     }

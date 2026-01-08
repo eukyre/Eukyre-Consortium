@@ -17,9 +17,9 @@
     },
     "locales": {
       "en": {
-        "name": "AR-15 BCM MK2 5.56x45 upper receiver",
-        "shortName": "MK2",
-        "description": "The MK2 upper reciever is a precision-machined upper receiver by Bravo Company Manufacturing for 5.56x45 AR-15 platforms. Built from forged aluminum with a hard-coat anodized finish, the MK2 offers enhanced durability and corrosion resistance."
+        "name": "AR-15 BCM Mk.2 5.56x45 upper receiver",
+        "shortName": "Mk.2",
+        "description": "The Mk.2 upper reciever is a precision-machined upper receiver by Bravo Company Manufacturing for 5.56x45 AR-15 platforms. Built from forged aluminum with a hard-coat anodized finish, the MK2 offers enhanced durability and corrosion resistance."
       }
     },
     "addtoInventorySlots": [],
@@ -85,9 +85,9 @@
     },
     "locales": {
       "en": {
-        "name": "AR-15 BCM MK2 5.56x45 upper receiver (FDE)",
-        "shortName": "MK2",
-        "description": "The MK2 upper reciever is a precision-machined upper receiver by Bravo Company Manufacturing for 5.56x45 AR-15 platforms. Built from forged aluminum with a hard-coat anodized finish, the MK2 offers enhanced durability and corrosion resistance. Flat Dark Earth version."
+        "name": "AR-15 BCM Mk.2 5.56x45 upper receiver (FDE)",
+        "shortName": "Mk.2",
+        "description": "The Mk.2 upper reciever is a precision-machined upper receiver by Bravo Company Manufacturing for 5.56x45 AR-15 platforms. Built from forged aluminum with a hard-coat anodized finish, the MK2 offers enhanced durability and corrosion resistance. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
