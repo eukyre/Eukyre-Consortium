@@ -707,7 +707,8 @@
           5
         ]
       ],
-      "sightModType": "optic"
+      "sightModType": "optic",
+      "HeatFactor": 1.0
     },
     "locales": {
       "en": {
@@ -928,6 +929,70 @@
       "en": {
         "name": "Holosun HE510C reflex sight",
         "shortName": "HE510C",
+        "description": "The Holosun HE510C is a versatile open reflex sight built for speed and adaptability in dynamic engagements. Manufactured by Holosun. <color=#48a600><b>Donated by Jeri_.</b></color>"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 19572,
+    "handbookPriceRoubles": 11000,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "691f80dbdeb592ca922fd67c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 3
+          },
+          "barters": [
+            {
+              "count": 16580,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6960bc9172fcb3eb9da96b7c": {
+    "itemTplToClone": "687e09aa7e70e1e285c59d4e",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f742686f774093e6cb4ff",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Optics/scope_all_holosun_510c_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Holosun HE510C reflex sight (FDE)",
+        "shortName": "HE510C-GR",
         "description": "The Holosun HE510C is a versatile open reflex sight built for speed and adaptability in dynamic engagements. Manufactured by Holosun. <color=#48a600><b>Donated by Jeri_.</b></color>"
       }
     },
@@ -1217,5 +1282,77 @@
       }
     },
     "masterySections": []
+  },
+  "69642bd5e115a1509e8efc2d": {
+    "itemTplToClone": "617151c1d92c473c770214ab",
+    "parentId": "55818ae44bdc2dde698b456c",
+    "handbookParentId": "5b5f748386f774093e6cb501",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Optics/scope_trijicon_accupower_sfp.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "Ergonomics": -3,
+      "Zooms": [
+        [
+          1,
+          8
+        ]
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Trijicon AccuPower SFP 1-8x28 30mm riflescope",
+        "shortName": "AccuPower SFP",
+        "description": "A versatile true 1x riflescope featuring a custom SFP reticle, it offers both rapid target engagement and long-range precision. Available with either a red or green illuminated reticle, the universal segmented circle/MOA reticle is designed for multi-platform use, accommodating multiple calibers, ammunition weights, and barrel lengths. Manufactured by Trijicon."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 89573,
+    "handbookPriceRoubles": 58572,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "69642bd2e14ccb81058efc2c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 650,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
   }
 }
