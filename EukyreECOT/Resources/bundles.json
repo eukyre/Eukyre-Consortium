@@ -337,22 +337,6 @@
       ]
     },
     {
-      "key": "Attachments/Mags/mag_stanag_hk_mr556_pmag_sand.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Attachments/Mags/mag_stanag_hk_mr556_pmag_fde.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Attachments/Mounts/exps_mount_ecot.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1140,12 +1124,38 @@
       ]
     },
     {
-      "key": "Attachments/Optics/scope_all_holosun_510c_blk.bundle",
+      "key": "Attachments/Optics/scope_all_holosun_510c_shared.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "ecot_epic_shaders.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Optics/scope_all_holosun_510c_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Optics/scope_all_holosun_510c_shared.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Optics/scope_all_holosun_510c_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Optics/scope_all_holosun_510c_shared.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Silencers/silencer_kac_dsr300.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -1224,7 +1234,7 @@
       ]
     },
     {
-      "key": "Attachments/Optics/scope_romeo9t_common.bundle",
+      "key": "Attachments/Optics/scope_romeo9t_std_blk.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -1232,11 +1242,10 @@
       ]
     },
     {
-      "key": "Attachments/Optics/scope_romeo9t_std_blk.bundle",
+      "key": "Attachments/Optics/scope_romeo9t_std_fde.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "Attachments/Optics/scope_romeo9t_common.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -1308,15 +1317,6 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "Attachments/Foregrips/foregrip_b5_common.bundle"
-      ]
-    },
-    {
-      "key": "Attachments/Optics/scope_romeo9t_g33_ftc.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "Attachments/Optics/scope_romeo9t_common.bundle"
       ]
     },
     {
@@ -1514,14 +1514,6 @@
       ]
     },
     {
-      "key": "Attachments/Mounts/mount_hrf_skiff_blk.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Attachments/Optics/scope_rmrhd_blk.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1604,6 +1596,192 @@
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mags/TTI_556/tti_baseplate_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mags/TTI_556/tti_35_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mags/TTI_556/tti_baseplate_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mags/TTI_556/tti_35_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mags/TTI_556/tti_baseplate_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mags/TTI_556/tti_46_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mags/TTI_556/tti_baseplate_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mags/TTI_556/tti_46_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mags/TTI_556/tti_baseplate_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Clothing/Headsets/comtac_6_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mags/TTI_556/tti_baseplate_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mounts/keymod_adapter_long.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/PistolGrips/pistolgrip_magpul_k2_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/PistolGrips/pistolgrip_magpul_k2_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Silencers/silencer_deadair_sandman_s.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_abarms_ussx.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/PistolGrips/pistolgrip_abarms_pgrip.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mounts/OMM/mount_omm_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mounts/OMM/mount_omm_base_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mounts/OMM/mount_omm_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Mounts/OMM/mount_omm_base_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "Attachments/Mounts/OMM/mount_omm_shared.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/magazines/mag_stanag_colt_ar15_std_556x45_30.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "WeaponHK337/weapon_hk_337_300blk.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/audio/banks/hk416.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/hk416/client_assets.bundle",
+        "assets/content/weapons/hk416/textures/client_assets.bundle",
+        "assets/content/weapons/hk416/weapon_hk_416a5_556x45_assets.bundle",
+        "assets/content/weapons/m4a1/client_assets.bundle",
+        "assets/content/weapons/m4a1/textures/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "Attachments/Handguards/hk416a8/hg_416a8_long.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Handguards/hk416a8/hg_416a8_short.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Optics/scope_trijicon_accupower_sfp.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/textures/holemanager/round_spec_mask.bundle",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "cubemaps",
+        "shaders"
       ]
     }
   ]
