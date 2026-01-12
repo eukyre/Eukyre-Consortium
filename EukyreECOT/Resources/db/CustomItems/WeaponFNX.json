@@ -102,7 +102,7 @@
         }
       ],
       "ammoCaliber": "Caliber1143x23ACP",
-      "defMagType": "5fb651b52b1b027b1f50bcff",
+      "defMagType": "686838eb0859ea2bd8e18c5f",
       "Chambers": [
         {
           "_name": "patron_in_weapon",
