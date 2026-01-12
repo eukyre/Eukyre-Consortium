@@ -8,6 +8,8 @@
         "path": "WeaponUMP40/weapon_ump40_container.bundle",
         "rcid": ""
       },
+      "RecoilForceBack": 275,
+      "RecoilForceUp": 56,
       "Slots": [
         {
           "_id": "68cefedf8c98447a810604a0",
