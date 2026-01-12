@@ -1,0 +1,710 @@
+﻿{
+  "6963f79ab66d6c6601a8b2d7": {
+    "itemTplToClone": "5bb2475ed4351e00853264e3",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponHK337/weapon_hk_337_300blk.bundle",
+        "rcid": ""
+      },
+      "HeatFactorByShot": 1.205,
+      "HeatFactorGun": 1,
+      "RecoilForceBack": 351,
+      "RecoilForceUp": 127,
+      "ammoCaliber": "Caliber762x35",
+      "defAmmo": "5fbe3ffdf8b6a877a729ea82",
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6963f90b2ed1b67124a8b2da",
+          "_parent": "6963f79ab66d6c6601a8b2d7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "Slots": [
+        {
+          "_id": "69640183912001a73a4b735f",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_pistol_grip",
+          "_parent": "6963f79ab66d6c6601a8b2d7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "696401851e2f13956b4b7360",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6963f79ab66d6c6601a8b2d7",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "55d4887d4bdc2d962f8b4570",
+                  "61840bedd92c473c77021635",
+                  "61840d85568c120fdd2962a5",
+                  "5c05413a0db834001c390617",
+                  "5c6d450c2e221600114c997d",
+                  "5c6d42cb2e2216000e69d7d1",
+                  "59c1383d86f774290a37e0ca",
+                  "5aaa5e60e5b5b000140293d6",
+                  "5448c1d04bdc2dff2f8b4569",
+                  "5aaa5dfee5b5b000140293d3",
+                  "5d1340b3d7ad1a0b52682ed7",
+                  "544a378f4bdc2d30388b4567",
+                  "5d1340bdd7ad1a0e8d245aab",
+                  "55802d5f4bdc2dac148b458e",
+                  "5d1340cad7ad1a0b0b249869",
+                  "6241c2c2117ad530666a5108",
+                  "5c6592372e221600133e47d7",
+                  "544a37c44bdc2d25388b4567",
+                  "5c6d46132e221601da357d56",
+                  "6761765f1f08ed5e8800b7a6"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "696401881f24a5c92c4b7361",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6963f79ab66d6c6601a8b2d7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696402260cd99674484b7368"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6964018a8504c979c74b7362",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "6963f79ab66d6c6601a8b2d7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b0800175acfc400153aebd4",
+                  "5bb20e58d4351e00320205d7",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "591aef7986f774139d495f03",
+                  "591af10186f774139d495f0e",
+                  "627254cc9c563e6e442c398f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "6964018d8a27c933374b7363",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_charge",
+          "_parent": "6963f79ab66d6c6601a8b2d7",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0faf68d174af02a96260b8",
+                  "56ea7165d2720b6e518b4583",
+                  "55d44fd14bdc2d962f8b456e",
+                  "5ea16d4d5aad6446a939753d",
+                  "5bb20dbcd4351e44f824c04e",
+                  "6033749e88382f4fab3fd2c5",
+                  "5b2240bf5acfc40dc528af69",
+                  "5d44334ba4b9362b346d1948",
+                  "5f633ff5c444ce7e3c30a006",
+                  "651bf5617b3b552ef6712cb7"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK 337 .300 Blackout assault rifle",
+        "shortName": "HK 337",
+        "description": "The HK337 is a further development of the HK416A5 assault rifle in the .300 Blackout and .300 Whisper calibers. The most striking changes compared to its previous versions as well as to market available AR platforms include an improved and tool-less gas regulator for suppressor use, a redesigned, user-friendly lower receiver, which allows complete ambidextrous operation of the weapon and ensures optimised magazine compatibility. Additionally, numerous technical improvements to maximize the safety of the operator, weapon reliability, ammunition compatibility, and durability under real operating conditions."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 69573,
+    "handbookPriceRoubles": 21800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6963f79ab66d6c6601a8b2d7",
+        "_id": "660b2422010010f3881eaee3",
+        "_items": [
+          
+        ],
+        "_name": "HK 337 Stock preset",
+        "_parent": "d4b0aab0f7484102cf001907",
+        "_type": "Preset"
+      }
+    ],
+    "masterySections": [
+      {
+        "Level2": 275,
+        "Level3": 350,
+        "Name": "HK416",
+        "Templates": [
+          "6963f79ab66d6c6601a8b2d7"
+        ]
+      }
+    ]
+  },
+  "696402260cd99674484b7368": {
+    "itemTplToClone": "5bb20d53d4351e4502010a69",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/mods/recievers/reciever_ar15_hk_hk416a5_std.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "6964022b7ce18bc8d84b7369",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "696402260cd99674484b7368",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6964022e1a0fa9f9e44b736a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "696402260cd99674484b7368",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696404f6aebcea66324b7374",
+                  "696402935d1d2846394b736f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "69640230d919c47e2f4b736b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_handguard",
+          "_parent": "696402260cd99674484b7368",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c6d10e82e221601da357b07",
+                  "5bb20de5d4351e0035629e59",
+                  "5bb20dfcd4351e00334c9e24",
+                  "5bb20df1d4351e00347787d5",
+                  "5c6d11072e2216000e69d2e4",
+                  "5c6d10fa2e221600106f3f23",
+                  "5c6d11152e2216000f2003e7",
+                  "5c6c2c9c2e2216000f2002e4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "696402328dbbc938954b736c",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_rear",
+          "_parent": "696402260cd99674484b7368",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK 337 .300 Blackout upper receiver",
+        "shortName": "HK 337",
+        "description": "An upper receiver for the 337 assault rifle manufactured by Heckler & Koch. Equipped with a mount for attaching additional devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 47532,
+    "handbookPriceRoubles": 26709,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6964027d8d2381918a4b736d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 269,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "696402935d1d2846394b736f": {
+    "itemTplToClone": "5bb20d92d4351e00853263eb",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_416_hk_279mm_556x45.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "6964038e2d8dcf53354b7371",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "696402935d1d2846394b736f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5fbe7618d6fa9c00c571bb6c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696403950ab596a0bc4b7372",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "696402935d1d2846394b736f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20dcad4351e3bac1212da"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK 337 .300 Blackout 11 inch barrel",
+        "shortName": "HK 337 11\"",
+        "description": "An 11 inch (279mm) barrel for 416-based weapons for .300 Blackout ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 26532,
+    "handbookPriceRoubles": 24130,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "696404c11a07a2b2fa4b7373": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 218,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "696404f6aebcea66324b7374": {
+    "itemTplToClone": "5bb20d9cd4351e00334c9d8a",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/mods/barrels/barrel_416_hk_368mm_556x45.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "6964054e3d6774a3e24b7375",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "696402935d1d2846394b736f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "612e0d3767085e45ef14057f",
+                  "5b7d693d5acfc43bca706a3d",
+                  "5a34fd2bc4a282329a73b4c5",
+                  "6065c6e7132d4d12c81fd8e1",
+                  "5d1f819086f7744b355c219b",
+                  "5dcbe965e4ed22586443a79d",
+                  "5d026791d7ad1a04a067ea63",
+                  "5dfa3cd1b33c0951220c079b",
+                  "6130c43c67085e45ef1405a1",
+                  "5cdd7685d7f00c000f260ed2",
+                  "5c878e9d2e2216000f201903",
+                  "5d02677ad7ad1a04a15c0f95",
+                  "5bbdb8bdd4351e4502011460",
+                  "5cdd7693d7f00c0010373aa5",
+                  "607ffb988900dc2d9a55b6e4",
+                  "615d8eb350224f204c1da1cf",
+                  "612e0e3c290d254f5e6b291d",
+                  "5d443f8fa4b93678dd4a01aa",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5cf78496d7f00c065703d6ca",
+                  "5fbe7618d6fa9c00c571bb6c",
+                  "628a66b41d5e41750e314f34",
+                  "6642f63667f5cb56a00662eb",
+                  "5c7954d52e221600106f4cc7",
+                  "5fbc22ccf24b94483f726483",
+                  "59bffc1f86f77435b128b872",
+                  "5fbe7618d6fa9c00c571bb6c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6964055031acf96f764b7376",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_gas_block",
+          "_parent": "696402935d1d2846394b736f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20dcad4351e3bac1212da"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK 337 .300 Blackout 14.5 inch barrel with flip-up front sight",
+        "shortName": "HK 337 14.5\"",
+        "description": "An 14.5 inch (279mm) barrel for 416-based weapons for .300 Blackout ammo. Equipped with a flip-up front sight."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 26532,
+    "handbookPriceRoubles": 27430,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "69640280320b3d73994b736e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 232,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  }
+}
