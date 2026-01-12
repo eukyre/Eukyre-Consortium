@@ -5,6 +5,5 @@ generate_bundles.py
 *.js
 *.js
 *.map
-/.idea
 /EukyreECOT/bin
-/EukyreECOT/bin
+/EukyreECOT/obj
