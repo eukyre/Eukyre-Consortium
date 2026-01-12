@@ -900,5 +900,83 @@
         }
       }
     }
+  },
+  "68ec17d56d6fd434baa0b25c": {
+    "itemTplToClone": "5fbe7618d6fa9c00c571bb6c",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Silencers/silencer_kac_dsr300.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.53,
+      "ConflictingItems": [
+        "5f2a9575926fd9352339381f"
+      ],
+      "Loudness": -30,
+      "Ergonomics": -20,
+      "Recoil": -7,
+      "ExtraSizeLeft": 1,
+      "Width": 2,
+      "Velocity": 0.8,
+      "DurabilityBurnModificator": 1.54,
+      "HeatFactor": 1.135,
+      "Slots": [],
+      "CanSellOnRagfair": true,
+      "RagFairCommissionModifier": 1.25,
+      "muzzleModType": "silencer"
+    },
+    "locales": {
+      "en": {
+        "name": "KAC DSR300 .300 BLK sound suppressor",
+        "shortName": "DSR300",
+        "description": "The DSR300 sound suppressor is an 8.9 inch long metal sound suppressor designed for .300 BLK/7.62/.308 barrels, manufactured by Knight's Armament Company."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoTraders": true,
+    "sKIER": {
+      "6960bcd11368f7731da96b7d": {
+        "barterSettings": {
+          "loyalLevel": 4,
+          "unlimitedCount": true,
+          "stackObjectsCount": 99,
+          "BuyRestrictionMax": 3
+        },
+        "barters": [
+          {
+            "count": 369,
+            "_tpl": "MONEY_EUROS"
+          }
+        ]
+      }
+    },
+    "fleaPriceRoubles": 99473,
+    "handbookPriceRoubles": 79233,
+    "addtoStaticLootContainers": true,
+    "addtoRagfair": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ]
   }
 }
