@@ -1773,16 +1773,6 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
-    },
-    {
-      "key": "Attachments/Optics/scope_trijicon_accupower_sfp.bundle",
-      "dependencyKeys": [
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/textures/holemanager/round_spec_mask.bundle",
-        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
-        "cubemaps",
-        "shaders"
-      ]
     }
   ]
 }
