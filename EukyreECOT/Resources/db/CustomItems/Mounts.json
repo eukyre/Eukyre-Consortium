@@ -341,7 +341,7 @@
     }
   },
   "68599b6ad4d99d0c051b5964": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818ad54bdc2ddc698b4569",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -350,8 +350,20 @@
         "path": "Attachments/Mounts/mount_unity_fast_micro.bundle",
         "rcid": ""
       },
-      "Conflictingitems": [
-        "5ae30bad5acfc400185c2dc4"
+      "ConflictingItems": [
+        "5bb20e49d4351e3bac1212de",
+        "5ba26b17d4351e00367f9bdd",
+        "5dfa3d7ac41b2312ea33362a",
+        "5c1780312e221602b66cc189",
+        "5fb6564947ce63734e3fa1da",
+        "5bc09a18d4351e003562b68e",
+        "5c18b9192e2216398b5a8104",
+        "5fc0fa957283c4046c58147e",
+        "5894a81786f77427140b8347",
+        "55d5f46a4bdc2d1b198b4567",
+        "5ae30bad5acfc400185c2dc4",
+        "68a364f20e549c7ff68cafdb",
+        "68a20792edff1e1b1eefb026"
       ],
       "Ergonomics": 2,
       "Width": 1,
@@ -488,7 +500,7 @@
     "masterySections": []
   },
   "68599c5272359bd6b568656c": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818ad54bdc2ddc698b4569",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -635,7 +647,7 @@
     "masterySections": []
   },
   "68599c64f0a918bcd731198f": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818ad54bdc2ddc698b4569",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1301,7 +1313,7 @@
     }
   },
   "685e519eacaed4c4e66980a7": {
-    "itemTplToClone": "5c7d55f52e221644f31bff6a",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1389,7 +1401,7 @@
     }
   },
   "685e52a030452e0aa23b53b6": {
-    "itemTplToClone": "5c7d55f52e221644f31bff6a",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1477,7 +1489,7 @@
     }
   },
   "685e52e7038ea03a82a7a2c1": {
-    "itemTplToClone": "5c7d55f52e221644f31bff6a",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1565,7 +1577,7 @@
     }
   },
   "685e5326a119194a7cbaa34e": {
-    "itemTplToClone": "5c7d55f52e221644f31bff6a",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1653,7 +1665,7 @@
     }
   },
   "685e5339826695a4b438120c": {
-    "itemTplToClone": "5c7d55f52e221644f31bff6a",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1741,7 +1753,7 @@
     }
   },
   "68611c8d57834d1471676982": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1828,7 +1840,7 @@
     }
   },
   "68611d271b5181217dee6c31": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1915,7 +1927,7 @@
     }
   },
   "68611d79d2f8c2caf35ddd39": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -2423,7 +2435,7 @@
     }
   },
   "686a990e217f312ed3fe65bf": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -2507,7 +2519,7 @@
     }
   },
   "686a99b24e95c2b6c57ef026": {
-    "itemTplToClone": "58d39d3d86f77445bb794ae7",
+    "itemTplToClone": "5a33b652c4a28232996e407c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -2922,9 +2934,7 @@
           "_props": {
             "filters": [
               {
-                "Filter": [
-                  "61965d9058ef8c428c287e0d"
-                ],
+                "Filter": [],
                 "Shift": 0
               }
             ]
@@ -3238,6 +3248,200 @@
           "barters": [
             {
               "count": 1292,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "692deffb1966298e696fcd8f": {
+    "itemTplToClone": "5c064c400db834001d23f468",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mounts/OMM/mount_omm_base_blk.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        
+      ],
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "695fd35d1f12a7e4da51a4a4",
+          "_parent": "692deffb1966298e696fcd8f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "558022b54bdc2dac148b458d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "615d8d878004cc50514c3233",
+                  "5a33b652c4a28232996e407c",
+                  "59db7eed86f77461f8380365",
+                  "626bb8532c923541184624b4",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "655f13e0a246670fb0373245"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "695fd36c3a7c8526cc51a4a5",
+          "_parent": "692deffb1966298e696fcd8f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Irregular Defense OMM optic mount",
+        "shortName": "OMM",
+        "description": "A Modular riser made for use with a diving board to allow for optic and LAM raising. Manufactured by SC Irregulars."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5585,
+    "handbookPriceRoubles": 1105,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "695fc6fe19ac88715751a4a1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 4
+          },
+          "barters": [
+            {
+              "count": 3629,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "695fca555fc8a1adfb51a4a3": {
+    "itemTplToClone": "692deffb1966298e696fcd8f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Mounts/OMM/mount_omm_base_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Irregular Defense OMM optic mount (FDE)",
+        "shortName": "OMM",
+        "description": "A Modular riser made for use with a diving board to allow for optic and LAM raising. Manufactured by SC Irregulars. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5585,
+    "handbookPriceRoubles": 1105,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "695fca52b69dad61b551a4a2": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 4
+          },
+          "barters": [
+            {
+              "count": 3629,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
