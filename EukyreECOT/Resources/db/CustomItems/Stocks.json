@@ -656,13 +656,13 @@
       "Weight": 0.883,
       "Width": 2,
       "Ergonomics": 9,
-      "Recoil": 25.5,
+      "Recoil": -25.5,
       "BlocksFolding": true
     },
     "locales": {
       "en": {
         "name": "FN SCAR 20 SSR enhanced marksman stock (FDE)",
-        "shortName": "Mk20",
+        "shortName": "Mk.20",
         "description": "A full-metal and rubber padded marksman stock for the SCAR-series rifles, manufactured by Fabrique Nationale Herstal."
       }
     },
