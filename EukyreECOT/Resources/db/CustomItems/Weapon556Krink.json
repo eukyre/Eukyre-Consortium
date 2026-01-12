@@ -8,6 +8,8 @@
         "path": "assets/content/weapons/aks74u/weapon_izhmash_aks74ub_545x39_container.bundle",
         "rcid": ""
       },
+      "RecoilForceBack": 342,
+      "RecoilForceUp": 119,
       "Slots": [
         {
           "_name": "mod_pistol_grip",
