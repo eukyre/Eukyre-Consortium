@@ -2019,7 +2019,7 @@
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
       "Prefab": {
-        "path": "Attachments/Mounts/unity_fast_lpvo_blk.bundle",
+        "path": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_black.bundle",
         "rcid": ""
       },
       "Ergonomics": 2,
@@ -2129,7 +2129,7 @@
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
       "Prefab": {
-        "path": "Attachments/Mounts/unity_fast_lpvo_fde.bundle",
+        "path": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_fde.bundle",
         "rcid": ""
       },
       "Ergonomics": 2,
@@ -2233,123 +2233,13 @@
       }
     }
   },
-  "686a95d3d23099a58e981e27": {
-    "itemTplToClone": "618b9643526131765025ab35",
-    "parentId": "55818b224bdc2dde698b456f",
-    "handbookParentId": "5b5f755f86f77447ec5d770e",
-    "overrideProperties": {
-      "Prefab": {
-        "path": "Attachments/Mounts/unity_fast_lpvo_odg.bundle",
-        "rcid": ""
-      },
-      "Ergonomics": 2,
-      "ExtraSizeUp": 1,
-      "Slots": [
-        {
-          "_name": "mod_scope",
-          "_id": "686a95d789aace93c4496ca2",
-          "_parent": "686a95d3d23099a58e981e27",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "5b2388675acfc4771e1be0be",
-                  "5b3b99475acfc432ff4dcbee",
-                  "5a37cb10c4a282329a73b4e7",
-                  "57c5ac0824597754771e88a9",
-                  "618ba27d9008e4636a67f61d",
-                  "617151c1d92c473c770214ab",
-                  "6567e7681265c8a131069b0f"
-                ],
-                "Shift": 0
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": false,
-          "_proto": "55d30c4c4bdc2db4468b457e"
-        },
-        {
-          "_name": "mod_mount",
-          "_id": "686a95d65780028ff241b19c",
-          "_parent": "686a95d3d23099a58e981e27",
-          "_props": {
-            "filters": [
-              {
-                "Filter": [
-                  "686a95919c10df31081c9e2b"
-                ],
-                "Shift": 0
-              }
-            ]
-          },
-          "_required": false,
-          "_mergeSlotWithChildren": false,
-          "_proto": "55d30c4c4bdc2db4468b457e"
-        }
-      ]
-    },
-    "locales": {
-      "en": {
-        "name": "Unity Tactical FAST LPVO 30mm ring scope mount (Olive Drab)",
-        "shortName": "FAST LPVO",
-        "description": "A high-rise scope mount engineered by Unity Tactical for 30mm Low Power Variable Optics. Designed to elevate the optic to a faster, heads-up shooting posture, improving target transitions and situational awareness in dynamic engagements. Built from hard-anodized aluminum with reinforced clamping hardware. <color=#60682e><b>Olive Drab Green version.</b></color>"
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": true,
-    "modSlot": [
-      "mod_scope",
-      "mod_scope_000",
-      "mod_scope_001"
-    ],
-    "addtoTraders": true,
-    "fleaPriceRoubles": 25784,
-    "handbookPriceRoubles": 11502,
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-        "probability": 7
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-        "probability": 6
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-        "probability": 5
-      },
-      {
-        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-        "probability": 1
-      }
-    ],
-    "traders": {
-      "SKIER": {
-        "691f80dbdeb592ca922fd6c5": {
-          "barterSettings": {
-            "loyalLevel": 3,
-            "unlimitedCount": true,
-            "stackObjectsCount": 99
-          },
-          "barters": [
-            {
-              "count": 13500,
-              "_tpl": "MONEY_ROUBLES"
-            }
-          ]
-        }
-      }
-    }
-  },
   "686a95919c10df31081c9e2b": {
     "itemTplToClone": "618b9643526131765025ab35",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
       "Prefab": {
-        "path": "Attachments/Mounts/unity_fast_canted.bundle",
+        "path": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_canted.bundle",
         "rcid": ""
       },
       "Ergonomics": -1,
@@ -3264,9 +3154,8 @@
         "path": "Attachments/Mounts/OMM/mount_omm_base_blk.bundle",
         "rcid": ""
       },
-      "ConflictingItems": [
-        
-      ],
+      "ConflictingItems": [],
+      "Width": 2,
       "Slots": [
         {
           "_name": "mod_scope",
