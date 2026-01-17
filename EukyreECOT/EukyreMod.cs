@@ -37,7 +37,6 @@ public class EukyreECOT(
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
-        await wttCommon.CustomHideoutRecipeService.CreateHideoutRecipes(assembly);
         await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly);
         await wttCommon.CustomAchievementService.CreateCustomAchievements(assembly);
         wttCommon.CustomSlotImageService.CreateSlotImages(assembly);
