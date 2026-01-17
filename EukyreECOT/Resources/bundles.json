@@ -648,7 +648,7 @@
       ]
     },
     {
-      "key": "Attachments/Mounts/unity_fast_lpvo_blk.bundle",
+      "key": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_shared.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -656,19 +656,21 @@
       ]
     },
     {
-      "key": "Attachments/Mounts/unity_fast_lpvo_odg.bundle",
+      "key": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_black.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_shared.bundle"
       ]
     },
     {
-      "key": "Attachments/Mounts/unity_fast_lpvo_fde.bundle",
+      "key": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_fde.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_shared.bundle"
       ]
     },
     {
@@ -688,11 +690,12 @@
       ]
     },
     {
-      "key": "Attachments/Mounts/unity_fast_canted.bundle",
+      "key": "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_canted.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Mounts/Unity_LPVO/mount_unity_lpvo_shared.bundle"
       ]
     },
     {
@@ -1768,6 +1771,25 @@
     },
     {
       "key": "Attachments/Handguards/hk416a8/hg_416a8_short.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Optics/scope_vortex_xm157.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/textures/holemanager/round_spec_mask.bundle",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "assets/content/items/mods/scopes/scope_34mm_s&b_pm_ii_5_25x56.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/40sw/patron_box_40sw_50ctrg.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
