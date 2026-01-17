@@ -858,11 +858,7 @@
                   "5e023e88277cce2b522ff2b1",
                   "6529243824cbe3c74a05e5c1",
                   "6529302b8c26af6326029fb7",
-                  "6768c25aa7b238f14a08d3f6",
-                  "6888f7c68c110666da6ba8ed",
-                  "6888f8076aafdbe26850afdb",
-                  "6888f89eaad6719189f5c85a",
-                  "6888f9496b33a53248fb345c"
+                  "6768c25aa7b238f14a08d3f6"
                 ]
               }
             ]
@@ -1109,7 +1105,7 @@
     "traders": {}
   },
   "6931f849d43e8360a516b95e": {
-    "itemTplToClone": "5aaa5dfee5b5b000140293d3",
+    "itemTplToClone": "6931f77384aafd27e716b95c",
     "parentId": "5448bc234bdc2d3c308b4569",
     "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
