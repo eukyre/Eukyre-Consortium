@@ -5,17 +5,17 @@
     "handbookParentId": "5b47574386f77428ca22b33c",
     "overrideProperties": {
       "Prefab": {
-        "path": "assets/content/items/ammo/boxes/item_ammo_box_45_acp.bundle",
+        "path": "Ammo/40sw/patron_box_40sw_50ctrg.bundle",
         "rcid": ""
       },
-      "StackMaxRandom": 60,
-      "StackMinRandom": 60,
+      "StackMaxRandom": 50,
+      "StackMinRandom": 50,
       "StackSlots": [
         {
           "_name": "cartridges",
           "_id": "6870469bfd84349c04d1d62d",
           "_parent": "687046975f9b1d8dd0141a13",
-          "_max_count": 60,
+          "_max_count": 50,
           "_props": {
             "filters": [
               {
@@ -32,9 +32,9 @@
     },
     "locales": {
       "en": {
-        "name": ".40 S&W FMJ ammo pack (60 pcs)",
+        "name": ".40 S&W FMJ ammo pack (50 pcs)",
         "shortName": "FMJ",
-        "description": "A pack of .40 S&W FMJ ammo, 60 rounds."
+        "description": "A pack of .40 S&W FMJ ammo, 50 rounds."
       }
     },
     "addtoInventorySlots": [],
@@ -92,17 +92,17 @@
     "handbookParentId": "5b47574386f77428ca22b33c",
     "overrideProperties": {
       "Prefab": {
-        "path": "assets/content/items/ammo/boxes/item_ammo_box_45_acp.bundle",
+        "path": "Ammo/40sw/patron_box_40sw_50ctrg.bundle",
         "rcid": ""
       },
-      "StackMaxRandom": 60,
-      "StackMinRandom": 60,
+      "StackMaxRandom": 50,
+      "StackMinRandom": 50,
       "StackSlots": [
         {
           "_name": "cartridges",
           "_id": "687046a7ffd99d6c0daa6478",
           "_parent": "687046a44a66bb1e7b4f6896",
-          "_max_count": 60,
+          "_max_count": 50,
           "_props": {
             "filters": [
               {
@@ -119,9 +119,9 @@
     },
     "locales": {
       "en": {
-        "name": ".40 S&W JHP ammo pack (60 pcs)",
+        "name": ".40 S&W JHP ammo pack {50 pcs)",
         "shortName": "JHP",
-        "description": "A pack of .40 S&W FMJ ammo, 60 rounds."
+        "description": "A pack of .40 S&W FMJ ammo, 50 rounds."
       }
     },
     "addtoInventorySlots": [],
@@ -179,17 +179,17 @@
     "handbookParentId": "5b47574386f77428ca22b33c",
     "overrideProperties": {
       "Prefab": {
-        "path": "assets/content/items/ammo/boxes/item_ammo_box_45_acp.bundle",
+        "path": "Ammo/40sw/patron_box_40sw_50ctrg.bundle",
         "rcid": ""
       },
-      "StackMaxRandom": 60,
-      "StackMinRandom": 60,
+      "StackMaxRandom": 50,
+      "StackMinRandom": 50,
       "StackSlots": [
         {
           "_name": "cartridges",
           "_id": "687047165bd3d0022712fed6",
           "_parent": "68704713d6e05cb6c1039f4a",
-          "_max_count": 60,
+          "_max_count": 50,
           "_props": {
             "filters": [
               {
@@ -206,9 +206,9 @@
     },
     "locales": {
       "en": {
-        "name": ".40 S&W +P ammo pack (60 pcs)",
+        "name": ".40 S&W +P ammo pack (50 pcs)",
         "shortName": "+P",
-        "description": "A pack of .40 S&W +P ammo, 60 rounds."
+        "description": "A pack of .40 S&W +P ammo, 50 rounds."
       }
     },
     "addtoInventorySlots": [],
@@ -266,17 +266,17 @@
     "handbookParentId": "5b47574386f77428ca22b33c",
     "overrideProperties": {
       "Prefab": {
-        "path": "assets/content/items/ammo/boxes/item_ammo_box_45_acp.bundle",
+        "path": "Ammo/40sw/patron_box_40sw_50ctrg.bundle",
         "rcid": ""
       },
-      "StackMaxRandom": 60,
-      "StackMinRandom": 60,
+      "StackMaxRandom": 50,
+      "StackMinRandom": 50,
       "StackSlots": [
         {
           "_name": "cartridges",
           "_id": "6870478b25de2f24149fed73",
           "_parent": "68704789b4d4fee9db49a148",
-          "_max_count": 60,
+          "_max_count": 50,
           "_props": {
             "filters": [
               {
@@ -293,9 +293,9 @@
     },
     "locales": {
       "en": {
-        "name": ".40 S&W Tracer ammo pack (60 pcs)",
+        "name": ".40 S&W Tracer ammo pack (50 pcs)",
         "shortName": "Tracer",
-        "description": "A pack of .40 S&W Tracer ammo, 60 rounds."
+        "description": "A pack of .40 S&W Tracer ammo, 50 rounds."
       }
     },
     "addtoInventorySlots": [],
