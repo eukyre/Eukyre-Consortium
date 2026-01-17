@@ -1282,5 +1282,119 @@
       }
     },
     "masterySections": []
+  },
+  "6966c6385619e69dde5149ad": {
+    "itemTplToClone": "618b9643526131765025ab35",
+    "parentId": "55818ae44bdc2dde698b456c",
+    "handbookParentId": "5b5f748386f774093e6cb501",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/Optics/scope_vortex_xm157.bundle",
+        "rcid": ""
+      },
+      "IsAdjustableOptic": true,
+      "sightModType": "optic",
+      "ConflictingItems": [
+        "5b2388675acfc4771e1be0be",
+        "5b3b99475acfc432ff4dcbee",
+        "5a37cb10c4a282329a73b4e7",
+        "57c5ac0824597754771e88a9",
+        "618ba27d9008e4636a67f61d",
+        "617151c1d92c473c770214ab",
+        "6567e7681265c8a131069b0f"
+      ],
+      "Slots": [],
+      "AdjustableOpticSensitivity": 0.455,
+      "AdjustableOpticSensitivityMax": 0.758,
+      "ScopesCount": 1,
+      "SightingRange": 1500,
+      "ZoomSensitivity": 0.45,
+      "ModesCount": [
+        1
+      ],
+      "MinMaxFov": {
+        "x": 24,
+        "y": 3,
+        "z": 4
+      },
+      "AimSensitivity": [
+        [
+          0.1,
+          0.6
+        ]
+      ],
+      "Weight": 1.4,
+      "Zooms": [
+        [
+          8,
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200,
+          250,
+          300,
+          350,
+          400,
+          450,
+          500,
+          550,
+          600
+        ]
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Vortex XM157 1-8x30 30mm riflescope",
+        "shortName": "XM157",
+        "description": "<color=#ff0000>fucking placeholder.</color>"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 99572,
+    "handbookPriceRoubles": 75742,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 160
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 160
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 160
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 160
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 160
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 160
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
   }
 }
