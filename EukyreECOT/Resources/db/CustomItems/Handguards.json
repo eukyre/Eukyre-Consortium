@@ -2585,5 +2585,327 @@
         }
       }
     }
+  },
+  "696c00d98d33d19ed0785dad": {
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_black.bundle",
+        "rcid": ""
+      },
+      "Width": 3,
+      "CoolFactor": 1.21,
+      "ConflictingItems": [
+        "5a34fbadc4a28200741e230a",
+        "5ae30e795acfc408fb139a0b",
+        "56ea8d2fd2720b7c698b4570",
+        "5a9fbb84a2750c00137fa685",
+        "6357c98711fb55120211f7e1"
+      ],
+      "Slots": [
+        {
+          "_id": "5ea16ada09aa976f2e7a51c0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0102aa0db834001b734ba1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696c01e3d7b0468d75785dae",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_001",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0102aa0db834001b734ba1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696c01e5352bac3c85785daf",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_002",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0102aa0db834001b734ba1"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696c01e70674e45870785db0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696c01ea7a63a71810785db1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696c01ece0bd3cfaea785db2",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_foregrip",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0102b20db834001d23eebc"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "696c01ed1e4ddddd23785db3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "696c00d98d33d19ed0785dad",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c",
+                  "55d4af3a4bdc2d972f8b456f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Adaptiv Defense URR RAHG handguard",
+        "shortName": "URR",
+        "description": "A full-metal handguard designed with enhanced air cooling due to larger inside diameter and larger ventilation slots, and direct-accessory mounting utilizing the Remington-style 1.97\" direct-thread pattern. This handguard is built with a 1.5\" wide inner diameter for use with select suppressors, for integrally suppressed builds. Manufactured by Adaptiv Defense."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 56684,
+    "handbookPriceRoubles": 31582,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 70
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "696c00864fa10e71e6785dac": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 302,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696c02189dfeee5fd4785db6": {
+    "itemTplToClone": "696c00d98d33d19ed0785dad",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Adaptiv Defense URR RAHG handguard (Anodized FDE)",
+        "shortName": "URR",
+        "description": "A full-metal handguard designed with enhanced air cooling due to larger inside diameter and larger ventilation slots, and direct-accessory mounting utilizing the Remington-style 1.97\" direct-thread pattern. This handguard is built with a 1.5\" wide inner diameter for use with select suppressors, for integrally suppressed builds. Manufactured by Adaptiv Defense. Anodized FDE version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 56684,
+    "handbookPriceRoubles": 31582,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 70
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "696c0207cd95160704785db4": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 302,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696c04e698f871c219785db8": {
+    "itemTplToClone": "696c00d98d33d19ed0785dad",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_stainless.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Adaptiv Defense URR RAHG handguard (Prototype)",
+        "shortName": "URR",
+        "description": "A full-metal handguard designed with enhanced air cooling due to larger inside diameter and larger ventilation slots, and direct-accessory mounting utilizing the Remington-style 1.97\" direct-thread pattern. This handguard is built with a 1.5\" wide inner diameter for use with select suppressors, for integrally suppressed builds. Manufactured by Adaptiv Defense. Prototype Stainless Steel version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 56684,
+    "handbookPriceRoubles": 31582,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 70
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "traders": {}
   }
 }

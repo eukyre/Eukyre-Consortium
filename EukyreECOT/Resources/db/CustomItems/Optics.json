@@ -1396,5 +1396,122 @@
     "weaponPresets": [],
     "traders": {},
     "masterySections": []
+  },
+  "696c2c39eaf80d744d6f5b36": {
+    "itemTplToClone": "558022b54bdc2dac148b458d",
+    "parentId": "55818ad54bdc2ddc698b4569",
+    "handbookParentId": "5b5f742686f774093e6cb4ff",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Optics/scope_all_eotech_exps3_dcr.bundle",
+        "rcid": ""
+      },
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "sightModType": "holo",
+      "Slots": [
+        {
+          "_name": "mod_mount",
+          "_id": "696c34a60f6cef4736340df6",
+          "_parent": "696c2c39eaf80d744d6f5b36",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "685c6c973ffb1957dcca18c6",
+                  "685c6cfe99d360ee6cbc7985",
+                  "685c6ce8c15fc38b32190fa9",
+                  "685c6cbbaa9e444cb67c6e7b",
+                  "685ceba0cc68cf52d41769e5",
+                  "685ceb6ad8a725381f54a33e",
+                  "685ceb4be900dd89eededf81",
+                  "685c6ca10bfdee0262637b4f",
+                  "685c980215434eb9d07fee41"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "696c34a80c555208c9340df7",
+          "_parent": "696c2c39eaf80d744d6f5b36",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "EOTech EXPS3-DCR holographic sight",
+        "shortName": "EXPS3-DCR",
+        "description": "The EOTech EXPS3-DCR holographic sight. Thanks to design features it can be used with a wide range of weapons, even with non-folding sights. Compatible with night vision devices by means of the NV reticle mode. Its main difference over the EXPS3 is that it features a custom reticle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_scope",
+      "mod_scope_000",
+      "mod_scope_001"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 37503,
+    "handbookPriceRoubles": 26250,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 700
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 60
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 50
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 100
+      }
+    ],
+    "traders": {
+      "PEACEKEEPER": {
+        "696c2c916586f480ad6f5b37": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 334,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
   }
 }

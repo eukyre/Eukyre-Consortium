@@ -1795,6 +1795,49 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_shared.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_shared.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_shared.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_stainless.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Handguards/adaptiv_proto/handguard_adaptiv_shared.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Optics/scope_all_eotech_exps3_dcr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }
