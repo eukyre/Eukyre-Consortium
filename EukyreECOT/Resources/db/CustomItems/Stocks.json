@@ -232,7 +232,7 @@
     ]
   },
   "686d787fe69d3f3f9e3f5396": {
-    "itemTplToClone": "5649be884bdc2d79388b4577",
+    "itemTplToClone": "5fc3e4ee7283c4046c5814af",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -242,7 +242,54 @@
         "rcid": ""
       },
       "Recoil": -1,
-      "Ergonomics": 0
+      "Ergonomics": 0,
+      "Slots": [
+        {
+          "_id": "696e9d06e911ce4375a3137b",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock_000",
+          "_parent": "686d787fe69d3f3f9e3f5396",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fc2369685fd526b824a5713",
+                  "606587d11246154cad35d635",
+                  "5a9eb32da2750c00171b3f9c",
+                  "5bfe86df0db834001b734685",
+                  "55d4ae6c4bdc2d8b2f8b456e",
+                  "5c87a07c2e2216001219d4a2",
+                  "5bb20e70d4351e0035629f8f",
+                  "5beec8c20db834001d2c465c",
+                  "5fbbaa86f9986c4cff3fe5f6",
+                  "5fce16961f152d4312622bc9",
+                  "5ae30c9a5acfc408fb139a03",
+                  "5d135e83d7ad1a21b83f42d8",
+                  "5d135ecbd7ad1a21c176542e",
+                  "56eabf3bd2720b75698b4569",
+                  "58d2946386f774496974c37e",
+                  "58d2946c86f7744e271174b5",
+                  "58d2947686f774485c6a1ee5",
+                  "58d2947e86f77447aa070d53",
+                  "5d44069ca4b9361ebd26fc37",
+                  "5d4406a8a4b9361e4f6eb8b7",
+                  "5947c73886f7747701588af5",
+                  "5c793fde2e221601da358614",
+                  "5b39f8db5acfc40016387a1b",
+                  "628a85ee6b1d481ff772e9d5",
+                  "602e620f9b513876d4338d9a",
+                  "6516e91f609aaf354b34b3e2",
+                  "6516e971a3d4c6497930b450",
+                  "6529370c405a5f51dd023db8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
     },
     "locales": {
       "en": {
@@ -252,7 +299,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
+    "addtoModSlots": true,
     "modSlot": [
       "mod_stock"
     ],
