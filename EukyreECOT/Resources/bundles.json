@@ -1836,6 +1836,31 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/textures/holemanager/eotech_spec_mask.bundle"
+      ]
+    },
+    {
+      "key": "Barters/barter_poster_waifudynamics_block1.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Barters/barter_poster_waifudynamics_block2.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Barters/barter_poster_waifudynamics_block3.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     }
