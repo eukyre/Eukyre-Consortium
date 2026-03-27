@@ -1,8 +1,11 @@
 ﻿{
   "691ecb9b1664a484f03a2611 name": "FNX-45 Rookie",
-  "691ecb9b1664a484f03a2611 description": "Kill 25 PMCs with the FNX-45 9x19 pistol",
+  "691ecb9b1664a484f03a2611 description": "Kill 25 PMCs with the FNX-45 Tactical .45 ACP pistol",
+  "691ecb4c394fe2ef9c3a2610": "Kill 25 PMCs with the FNX-45 Tactical .45 ACP pistol",
   "691ecbb23b845bc0903a2612 name": "FNX-45 Enthusiast",
-  "691ecbb23b845bc0903a2612 description": "Kill 50 PMCs with the FNX-45 9x19 pistol",
+  "691ecbb23b845bc0903a2612 description": "Kill 50 PMCs with the FNX-45 Tactical .45 ACP pistol",
+  "691ecbb38eda9aa8a73a2613": "Kill 50 PMCs with the FNX-45 Tactical .45 ACP pistol",
   "691ecbc872bfcbd28b3a2616 name": "FNX-45 Master",
-  "691ecbc872bfcbd28b3a2616 description": "Kill 100 PMCs with the FNX-45 9x19 pistol"
+  "691ecbc872bfcbd28b3a2616 description": "Kill 100 PMCs with the FNX-45 Tactical .45 ACP pistol",
+  "69729447c9ec43219b4f8e69": "Kill 100 PMCs with the FNX-45 Tactical .45 ACP pistol"
 }

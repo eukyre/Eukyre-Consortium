@@ -29,7 +29,7 @@
                 "savageRole": [
                   "AnyPmc"
                 ],
-                "target": "Savage",
+                "target": "AnyPmc",
                 "value": 25,
                 "weapon": [
                   "6868377c7bb1c07772467ee7"
@@ -51,7 +51,7 @@
           "oneSessionOnly": false,
           "parentId": "",
           "type": "Completion",
-          "value": 15,
+          "value": 25,
           "visibilityConditions": []
         }
       ],
@@ -101,7 +101,7 @@
                 "savageRole": [
                   "AnyPmc"
                 ],
-                "target": "Savage",
+                "target": "AnyPmc",
                 "value": 50,
                 "weapon": [
                   "6868377c7bb1c07772467ee7"
@@ -123,7 +123,7 @@
           "oneSessionOnly": false,
           "parentId": "",
           "type": "Completion",
-          "value": 75,
+          "value": 50,
           "visibilityConditions": []
         }
       ],
@@ -168,12 +168,12 @@
                 "enemyEquipmentExclusive": [],
                 "enemyEquipmentInclusive": [],
                 "enemyHealthEffects": [],
-                "id": "691ecbb5ee59a4dcd93a2615",
+                "id": "697293e22e8203246c4f8e68",
                 "resetOnSessionEnd": false,
                 "savageRole": [
                   "AnyPmc"
                 ],
-                "target": "Savage",
+                "target": "AnyPmc",
                 "value": 100,
                 "weapon": [
                   "6868377c7bb1c07772467ee7"
@@ -183,7 +183,7 @@
                 "weaponModsInclusive": []
               }
             ],
-            "id": "691ecbb38eda9aa8a73a2613"
+            "id": "69729447c9ec43219b4f8e69"
           },
           "doNotResetIfCounterCompleted": false,
           "dynamicLocale": false,
@@ -195,7 +195,7 @@
           "oneSessionOnly": false,
           "parentId": "",
           "type": "Completion",
-          "value": 15,
+          "value": 100,
           "visibilityConditions": []
         }
       ],
