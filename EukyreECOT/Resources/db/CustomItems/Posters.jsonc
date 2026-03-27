@@ -1,0 +1,98 @@
+{
+  "697e1722b4ef3f1a0f0781e1": {
+    "itemTplToClone": "675a0b8d4ff23436160d8031",
+    "parentId": "6759673c76e93d8eb20b2080",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Barters/barter_poster_waifudynamics_block1.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default"
+    },
+    "locales": {
+      "en": {
+        "name": "M4A1 Block I poster",
+        "shortName": "Poster",
+        "description": "A poster depicting an illustrated diagram of the M4A1 Block I CQBR rifle, alongside a cartoon girl wearing time-accurate equipment for this weapon. Art by @white_phos ."
+      }
+    },
+    "fleaPriceRoubles": 122548,
+    "handbookPriceRoubles": 78576,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10
+  },
+  "697e185625f5d737800781e3": {
+    "itemTplToClone": "675a0b8d4ff23436160d8031",
+    "parentId": "6759673c76e93d8eb20b2080",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Barters/barter_poster_waifudynamics_block2.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default"
+    },
+    "locales": {
+      "en": {
+        "name": "M4A1 Block II poster",
+        "shortName": "Poster",
+        "description": "A poster depicting an illustrated diagram of the M4A1 Block II (Mk.18 MOD 1) rifle, alongside a cartoon girl wearing time-accurate equipment for this weapon. Art by @white_phos ."
+      }
+    },
+    "fleaPriceRoubles": 122548,
+    "handbookPriceRoubles": 78576,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10
+  },
+  "697e1847af8d4dacb50781e2": {
+    "itemTplToClone": "675a0b8d4ff23436160d8031",
+    "parentId": "6759673c76e93d8eb20b2080",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Barters/barter_poster_waifudynamics_block3.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "default"
+    },
+    "locales": {
+      "en": {
+        "name": "M4A1 Block III poster",
+        "shortName": "Poster",
+        "description": "A poster depicting an illustrated diagram of the M4A1 Block III Upgraded Receiver Group - Improved (URG-I) rifle, alongside a cartoon girl wearing time-accurate equipment for this weapon. Art by @white_phos ."
+      }
+    },
+    "fleaPriceRoubles": 122548,
+    "handbookPriceRoubles": 78576,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10
+  }
+}
