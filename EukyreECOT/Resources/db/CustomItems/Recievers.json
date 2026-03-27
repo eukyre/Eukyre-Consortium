@@ -8,6 +8,9 @@
         "path": "Attachments/Receivers/reciever_ar15_bcm_mk2_blk.bundle",
         "rcid": ""
       },
+      "ConflictingItems": [
+        "55d355e64bdc2d962f8b4569"
+      ],
       "Ergonomics": 11,
       "CoolFactor": 1.01,
       "HeatFactor": 0.876,
@@ -76,6 +79,9 @@
         "path": "Attachments/Receivers/reciever_ar15_bcm_mk2_fde.bundle",
         "rcid": ""
       },
+      "ConflictingItems": [
+        "55d355e64bdc2d962f8b4569"
+      ],
       "Ergonomics": 11,
       "CoolFactor": 1.01,
       "HeatFactor": 0.876,
