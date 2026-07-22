@@ -8,6 +8,13 @@
         "path": "assets/content/weapons/mp5/weapon_hk_mp5_navy3_9x19_container.bundle",
         "rcid": ""
       },
+      "Weight": 0.86,
+      "RecoilForceBack": 287,
+      "RecoilForceUp": 60,
+      "RecoilAngle": 87,
+      "Ergonomics": 48,
+      "Velocity": 23,
+      "OperatingResource": 6000,
       "Slots": [
         {
           "_id": "68bc9546cf53fabd551a1fbf",

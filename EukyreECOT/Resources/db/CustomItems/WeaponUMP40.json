@@ -10,6 +10,10 @@
       },
       "RecoilForceBack": 275,
       "RecoilForceUp": 56,
+      "RecoilAngle": 87,
+      "Ergonomics": 57,
+      "Velocity": 23,
+      "OperatingResource": 5450,
       "Slots": [
         {
           "_id": "68cefedf8c98447a810604a0",

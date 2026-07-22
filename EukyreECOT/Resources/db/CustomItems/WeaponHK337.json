@@ -8,11 +8,14 @@
         "path": "WeaponHK337/weapon_hk_337_300blk.bundle",
         "rcid": ""
       },
+      "Name": "weapon_hk_337_300blk_container",
       "HeatFactorByShot": 1.205,
       "HeatFactorGun": 1,
       "RecoilForceBack": 351,
       "RecoilForceUp": 127,
       "ammoCaliber": "Caliber762x35",
+      "OperatingResource": 4700,
+      "RecoilAngle": 88,
       "defAmmo": "5fbe3ffdf8b6a877a729ea82",
       "Chambers": [
         {
