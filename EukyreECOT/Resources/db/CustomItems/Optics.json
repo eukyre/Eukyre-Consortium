@@ -1306,10 +1306,9 @@
       ],
       "Slots": [],
       "AdjustableOpticSensitivity": 0.455,
-      "AdjustableOpticSensitivityMax": 0.758,
+      "AdjustableOpticSensitivityMax": 0.057,
       "ScopesCount": 1,
       "SightingRange": 1500,
-      "ZoomSensitivity": 0.45,
       "ModesCount": [
         1
       ],
