@@ -940,20 +940,22 @@
       "mod_muzzle"
     ],
     "addtoTraders": true,
-    "sKIER": {
-      "6960bcd11368f7731da96b7d": {
-        "barterSettings": {
-          "loyalLevel": 4,
-          "unlimitedCount": true,
-          "stackObjectsCount": 99,
-          "BuyRestrictionMax": 3
-        },
-        "barters": [
-          {
-            "count": 369,
-            "_tpl": "MONEY_EUROS"
-          }
-        ]
+    "traders": {
+      "SKIER": {
+        "6960bcd11368f7731da96b7d": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 3
+          },
+          "barters": [
+            {
+              "count": 369,
+              "_tpl": "MONEY_EUROS"
+            }
+          ]
+        }
       }
     },
     "fleaPriceRoubles": 99473,
