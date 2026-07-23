@@ -1349,9 +1349,9 @@
     },
     "locales": {
       "en": {
-        "name": "Vortex XM157 1-8x30 30mm riflescope",
-        "shortName": "XM157",
-        "description": "<color=#ff0000>fucking placeholder.</color>"
+        "name": "Vortex M157 1-8x30 30mm riflescope",
+        "shortName": "M157 FCU",
+        "description": "The Vortex M157 FCU is a variable-power riflescope developed for the United States Army's Next Generation Squad Weapon (NGSW) program. Featuring a 1-8x magnification range, it provides rapid target acquisition at close range while maintaining precision at extended distances.\n\nThis version has had its integrated fire control computer removed, functioning as a conventional combat riflescope while retaining the durability and optical quality of the original design."
       }
     },
     "addtoInventorySlots": [],
