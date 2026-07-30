@@ -1253,14 +1253,6 @@
       ]
     },
     {
-      "key": "Attachments/fOREGRIPS/foregrip_b5_common.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Attachments/Foregrips/foregrip_b5_common.bundle",
       "dependencyKeys": [
         "shaders",
