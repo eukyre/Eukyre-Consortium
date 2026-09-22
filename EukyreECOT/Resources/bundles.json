@@ -505,22 +505,6 @@
       ]
     },
     {
-      "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension_red.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Attachments/Optics/scope_base_tasco_propoint_1x42.bundle",
       "dependencyKeys": [
         "shaders",
