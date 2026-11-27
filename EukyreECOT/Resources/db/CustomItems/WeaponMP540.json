@@ -9,12 +9,16 @@
         "rcid": ""
       },
       "Weight": 0.86,
-      "RecoilForceBack": 287,
-      "RecoilForceUp": 60,
-      "RecoilAngle": 87,
-      "Ergonomics": 48,
-      "Velocity": 23,
-      "OperatingResource": 6000,
+      "RecoilAngle": 90,
+      "RecoilForceBack": 290,
+      "RecoilForceUp": 72,
+      "OperatingResource": 5000,
+      "DurabilityBurnRatio": 1.15,
+      "HeatFactorGun": 1.04,
+      "HeatFactorByShot": 2.05,
+      "CoolFactorGun": 3.05,
+      "SingleFireRate": 450,
+      "bFirerate": 750,
       "Slots": [
         {
           "_id": "68bc9546cf53fabd551a1fbf",
@@ -132,70 +136,70 @@
     "weaponPresets": [
       {
         "_changeWeaponName": false,
-        "_encyclopedia": "68580e9cea46c81b4db2221e",
-        "_id": "660b2422010010f3881eaee3",
+        "_encyclopedia": "68bc954419645c0da0e9ea05",
+        "_id": "6b09f64078b1fa95a7d18a38",
         "_items": [
           {
-            "_id": "d4b0aab0f7484102cf001907",
-            "_tpl": "68580e9cea46c81b4db2221e",
+            "_id": "6b09f4aa98cb41835bd18a27",
+            "_tpl": "68bc954419645c0da0e9ea05",
             "upd": {
               "Repairable": {
                 "MaxDurability": 100,
                 "Durability": 100
-              },
-              "Foldable": {
-                "Folded": false
-              },
-              "FireMode": {
-                "FireMode": "single"
               }
             }
           },
           {
-            "_id": "6858111f1f3337abbaf028e1",
-            "_tpl": "57e3dba62459770f0c32322b",
-            "parentId": "d4b0aab0f7484102cf001907",
-            "slotId": "mod_pistol_grip"
-          },
-          {
-            "_id": "972eaabd80aaf379c64b5570",
-            "_tpl": "5ac72e615acfc43f67248aa0",
-            "parentId": "d4b0aab0f7484102cf001907",
-            "slotId": "mod_muzzle"
-          },
-          {
-            "_id": "685813a26eb81bec6ced4569",
-            "_tpl": "5ac66c5d5acfc4001718d314",
-            "parentId": "d4b0aab0f7484102cf001907",
+            "_id": "6b09f50432b75bfbb5d18a28",
+            "_tpl": "68bc9353db8242b93b5cb41e",
+            "parentId": "6b09f4aa98cb41835bd18a27",
             "slotId": "mod_magazine"
           },
           {
-            "_id": "685813a4101d942503eabd7d",
-            "_tpl": "57dc347d245977596754e7a1",
-            "parentId": "d4b0aab0f7484102cf001907",
-            "slotId": "mod_stock"
-          },
-          {
-            "_id": "685813a85cc75b6feaf22e28",
-            "_tpl": "57dc334d245977597164366f",
-            "parentId": "d4b0aab0f7484102cf001907",
+            "_id": "6b09f51f85379bf4ced18a30",
+            "_tpl": "68bcab0cd6c0c3f35c1d69f9",
+            "parentId": "6b09f4aa98cb41835bd18a27",
             "slotId": "mod_reciever"
           },
           {
-            "_id": "685813a97330f65b17be9fef",
-            "_tpl": "59d36a0086f7747e673f3946",
-            "parentId": "d4b0aab0f7484102cf001907",
-            "slotId": "mod_gas_block"
+            "_id": "6b09f51fefdea6ee02d18a2f",
+            "_tpl": "5926c36d86f77467a92a8629",
+            "parentId": "6b09f51f85379bf4ced18a30",
+            "slotId": "mod_handguard"
           },
           {
-            "_id": "685813ac4004195dc7d1549c",
-            "_tpl": "57dc32dc245977596d4ef3d3",
-            "parentId": "685813a97330f65b17be9fef",
-            "slotId": "mod_handguard"
+            "_id": "6b09f51d6520047ae0d18a2e",
+            "_tpl": "5926d2be86f774134d668e4e",
+            "parentId": "6b09f51f85379bf4ced18a30",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "6b09f51dbf46e6e240d18a2d",
+            "_tpl": "5926d3c686f77410de68ebc8",
+            "parentId": "6b09f51f85379bf4ced18a30",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6b09f51cf5154b0e5fd18a2c",
+            "_tpl": "68bcab7a6b9eb3d5b9716616",
+            "parentId": "6b09f51f85379bf4ced18a30",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6b09f76efd1513347cd18a39",
+            "_tpl": "5a6b585a8dc32e5a9c28b4f1",
+            "parentId": "6b09f51cf5154b0e5fd18a2c",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6b09f51bca265a4232d18a2b",
+            "_tpl": "5926c32286f774616e42de99",
+            "parentId": "6b09f4aa98cb41835bd18a27",
+            "slotId": "mod_charge"
           }
         ],
-        "_name": "AKS-74UN 556 Stock preset",
-        "_parent": "d4b0aab0f7484102cf001907",
+        "_name": "MP5/40 Stock preset",
+        "_parent": "6b09f4aa98cb41835bd18a27",
         "_type": "Preset"
       }
     ],
@@ -203,9 +207,9 @@
       {
         "Level2": 275,
         "Level3": 350,
-        "Name": "AKSU",
+        "Name": "MP5",
         "Templates": [
-          "68580e9cea46c81b4db2221e"
+          "68bc954419645c0da0e9ea05"
         ]
       }
     ]

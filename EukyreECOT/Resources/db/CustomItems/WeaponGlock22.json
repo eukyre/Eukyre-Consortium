@@ -8,7 +8,17 @@
         "path": "assets/content/weapons/glock17/weapon_glock_glock_17_gen3_9x19_container.bundle",
         "rcid": ""
       },
+      "Name": "weapon_glock_glock_22_gen3_40sw",
+      "Ergonomics": 90,
       "SingleFireRate": 550,
+      "RecoilAngle": 85,
+      "RecoilCamera": 0.02,
+      "RecoilForceBack": 290,
+      "RecoilForceUp": 365,
+      "OperatingResource": 2400,
+      "CoolFactorGun": 3.90,
+      "HeatFactorGun": 1.06,
+      "HeatFactorByShot": 1.1,
       "ConflictingItems": [
         "5a7ad74e51dfba0015068f45"
       ],

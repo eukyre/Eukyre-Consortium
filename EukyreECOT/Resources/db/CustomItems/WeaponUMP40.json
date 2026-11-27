@@ -8,12 +8,17 @@
         "path": "WeaponUMP40/weapon_ump40_container.bundle",
         "rcid": ""
       },
-      "RecoilForceBack": 275,
-      "RecoilForceUp": 56,
-      "RecoilAngle": 87,
-      "Ergonomics": 57,
-      "Velocity": 23,
-      "OperatingResource": 5450,
+      "Name": "weapon_hk_ump_40sw",
+      "RecoilAngle": 90,
+      "RecoilForceBack": 230,
+      "RecoilForceUp": 78,
+      "OperatingResource": 5000,
+      "DurabilityBurnRatio": 1.15,
+      "HeatFactorGun": 1.04,
+      "HeatFactorByShot": 2.20,
+      "CoolFactorGun": 3.20,
+      "SingleFireRate": 450,
+      "bFirerate": 600,
       "Slots": [
         {
           "_id": "68cefedf8c98447a810604a0",
@@ -243,8 +248,65 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "68cd937be06f1a3a720d6959",
+        "_id": "6b09f33bdc010815dbd18a1d",
+        "_items": [
+          {
+            "_id": "6b09f33cff41a23438d18a1e",
+            "_tpl": "68cd937be06f1a3a720d6959",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              }
+            }
+          },
+          {
+            "_id": "6b09f62984855b1ff4d18a37",
+            "_tpl": "68cd9517c0c51a35e254e383",
+            "parentId": "6b09f33cff41a23438d18a1e",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6b09f6295a1ecb4ad0d18a36",
+            "_tpl": "5fc3e4ee7283c4046c5814af",
+            "parentId": "6b09f33cff41a23438d18a1e",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6b09f62801bbdde493d18a35",
+            "_tpl": "68cd95d2fa144691298affed",
+            "parentId": "6b09f33cff41a23438d18a1e",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6b09f6270b10c18bc4d18a34",
+            "_tpl": "5fc53954f8b6a877a729eaeb",
+            "parentId": "6b09f33cff41a23438d18a1e",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "6b09f6263be6eb33b5d18a33",
+            "_tpl": "5fc5396e900b1d5091531e72",
+            "parentId": "6b09f33cff41a23438d18a1e",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6b09f62576ac4aca59d18a32",
+            "_tpl": "5fc5396e900b1d5091531e72",
+            "parentId": "6b09f33cff41a23438d18a1e",
+            "slotId": "mod_mount_002"
+          }
+        ],
+        "_name": "ump40_standard",
+        "_parent": "6b09f33cff41a23438d18a1e",
+        "_type": "Preset"
+      }
+    ],
     "masterySections": [
       {
         "Level2": 375,
