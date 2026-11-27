@@ -927,12 +927,12 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "Attachments/Mags/mp5_straight_waffle_mag.bundle",
+        "path": "mods/mp5/mp5_straight_waffle_mag.bundle",
         "rcid": ""
       },
       "CanSellOnRagfair": true,
       "Height": 2,
-      "VisibleAmmoRangesString": "1-1",
+      "VisibleAmmoRangesString": "1-3",
       "Cartridges": [
         {
           "_name": "cartridges",
