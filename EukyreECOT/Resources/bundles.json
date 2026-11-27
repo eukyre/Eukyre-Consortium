@@ -1091,7 +1091,8 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "Attachments/Receivers/reciever_ar15_bcm_mk2_blk.bundle"
       ]
     },
     {
@@ -1415,14 +1416,6 @@
     },
     {
       "key": "Attachments/ironSights/troy_off_front.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Attachments/Mags/mp5_straight_waffle_mag.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
