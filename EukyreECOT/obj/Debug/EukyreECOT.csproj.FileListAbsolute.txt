@@ -335,3 +335,58 @@ F:\Games\SPT4.1\ModdingFolder\Eukyre-Consortium4.1\EukyreECOT\bin\Debug\    Euky
 F:\Games\SPT4.1\ModdingFolder\Eukyre-Consortium4.1\EukyreECOT\bin\Debug\    EukyreECOT-1.3.6\EukyreECOT.deps.json
 F:\Games\SPT4.1\ModdingFolder\Eukyre-Consortium4.1\EukyreECOT\bin\Debug\    EukyreECOT-1.3.6\EukyreECOT.dll
 F:\Games\SPT4.1\ModdingFolder\Eukyre-Consortium4.1\EukyreECOT\bin\Debug\    EukyreECOT-1.3.6\EukyreECOT.pdb
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\bundles.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomAchievements\Achievements\FNX_Kills.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomAchievements\Locales\en.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomAssortSchemes\CustomAssortSchemes.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomBotLoadouts\bossknight.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Ammo.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\AmmoBoxes.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Barrels.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Barters.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Foregrips.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\GasBlocks.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Handguards.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Headsets.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\IronSights.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Lasers.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Mags.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Mounts.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Optics.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\PistolGrips.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Recievers.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Stocks.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Suppressors.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\Weapon556Krink.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\WeaponFNX.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\WeaponGlock22.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\WeaponHK337.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\WeaponMP540.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomItems\WeaponUMP40.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomLocales\en.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomLocales\ru.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\Resources\db\CustomWeaponPresets\presets.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\EukyreECOT.staticwebassets.endpoints.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\EukyreECOT.deps.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\EukyreECOT.dll
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\bin\Debug\    EukyreECOT-2.0.2\EukyreECOT.pdb
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.csproj.AssemblyReference.cache
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\rpswa.dswa.cache.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.AssemblyInfoInputs.cache
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.AssemblyInfo.cs
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.csproj.CoreCompileInputs.cache
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.sourcelink.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\rjimswa.dswa.cache.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\rjsmrazor.dswa.cache.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\rjsmcshtml.dswa.cache.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\scopedcss\bundle\EukyreECOT.styles.css
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\staticwebassets.build.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\staticwebassets.build.json.cache
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\staticwebassets.development.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\staticwebassets.build.endpoints.json
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\swae.build.ex.cache
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.dll
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\refint\EukyreECOT.dll
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\EukyreECOT.pdb
+C:\SPT 4.1\MOD_DEV\Eukyre-Consortium\EukyreECOT\obj\Debug\ref\EukyreECOT.dll
